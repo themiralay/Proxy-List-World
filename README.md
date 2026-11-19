@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|3|146.190.60.147|8015|United States|Santa Clara|DigitalOcean, LLC|
-|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|5|223.206.209.152|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|6|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|7|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|8|172.235.157.127|3128|United States|Miami|Akamai Technologies, Inc.|
-|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|11|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
-|12|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
-|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|116.101.73.161|2090|Vietnam|Hanoi|Viettel Group|
-|16|38.7.17.83|999|Mexico|Morelia|Internet Telefonia Y TV De Michoacan SA De CV|
-|17|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
-|18|34.43.46.91|443|United States|Mountain View|Google LLC|
-|19|147.161.246.34|443|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|20|170.78.208.28|999|Mexico|San Juan del Río|Wantelco SAS de CV|
+|2|1.20.101.25|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
+|3|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|4|172.235.157.127|3128|United States|Miami|Akamai Technologies, Inc.|
+|5|180.180.156.53|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|6|1.20.178.221|80|Thailand|Bangkok|TOT Public Company Limited|
+|7|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|8|45.195.91.59|8080|India|Noida|Real Time Data Services Private Limited|
+|9|152.53.120.85|8080|Germany|Nuremberg|netcup GmbH|
+|10|223.206.209.152|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|11|182.53.202.229|80|Thailand|Chiang Mai|TOT Public Company Limited|
+|12|36.213.79.159|1081|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
+|13|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|15|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
+|16|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|1.4.141.40|80|Thailand|Khon Kaen|TOT Public Company Limited|
+|18|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|19|45.232.0.2|8080|Argentina|San Miguel de Tucumán|Sistemas Informaticos S.A.S.|
+|20|61.130.176.21|20320|China|Lishui|Chinanet|
 
 
 
