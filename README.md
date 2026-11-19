@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|172.235.157.127|3128|United States|Miami|Akamai Technologies, Inc.|
 |2|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|3|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|4|122.52.110.142|5050|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|5|161.49.87.222|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|6|183.88.213.178|8080|Thailand|Si Racha|Triple T Broadband Public Company Limited|
-|7|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
-|8|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
-|9|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
-|10|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
-|11|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
-|12|180.190.85.162|8082|Philippines|Makati City|Globe Telecom|
-|13|38.226.243.95|8080|Indonesia|Randudongkal|PT Putra Garsel Interkoneksi|
-|14|38.194.250.66|999|Mexico|Campo Grande|IENTC S de RL de CV|
-|15|36.37.251.137|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|16|200.110.173.240|999|Colombia|Cali|Media Commerce Partners S.A|
-|17|104.218.199.74|16062|United States|Denver|BraveWay LLC|
-|18|103.139.98.118|8080|Indonesia|Bandar Lampung|Digital Network Setiawan|
-|19|216.152.152.44|80|United States|Los Angeles|GTHost|
-|20|103.4.81.219|8082|Indonesia|Bagan Si Api-api|FASTLINKONEKSI|
+|3|180.190.85.162|8082|Philippines|Makati City|Globe Telecom|
+|4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|5|116.101.73.52|2045|Vietnam|Hanoi|Viettel Group|
+|6|38.226.243.95|8080|Indonesia|Randudongkal|PT Putra Garsel Interkoneksi|
+|7|38.156.145.128|999|Mexico|Túxpam de Rodríguez Cano|Digy Networks S.a. De C.V|
+|8|27.49.68.66|9999|Philippines|Cebu City|Converge ICT|
+|9|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|10|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|11|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|12|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|13|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|14|36.37.251.137|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|15|103.171.255.178|8080|Indonesia|Sleman|PT Zona Kolektif Indonesia|
+|16|1.20.178.200|80|Thailand|Bangkok|TOT Public Company Limited|
+|17|38.194.253.83|999|Mexico|Apaseo el Alto|IENTC S de RL de CV|
+|18|103.4.81.219|8082|Indonesia|Bagan Si Api-api|FASTLINKONEKSI|
+|19|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|20|113.11.110.65|2505|Bangladesh|Rajshahi|BDCOM Online Limited|
 
 
 
