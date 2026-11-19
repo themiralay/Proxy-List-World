@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|4|116.254.113.84|8080|Indonesia|Semarang|PT Media Sarana Data|
-|5|38.49.138.202|999|Mexico|Emiliano Zapata|IENTC S de RL de CV|
-|6|129.146.163.237|8888|United States|Phoenix|Oracle Corporation|
+|2|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|3|107.173.125.200|443|United States|Dallas|HostPapa|
+|4|129.146.163.237|8888|United States|Phoenix|Oracle Corporation|
+|5|45.195.91.59|8080|India|Noida|Real Time Data Services Private Limited|
+|6|45.194.3.108|8080|India|Noida|CtrlS|
 |7|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|8|125.25.53.180|8080|Thailand|Bangkok|TOT Public Company Limited|
-|9|179.1.182.25|999|Colombia|Villavieja|Internexa S.a. E.S.P|
-|10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|8|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|9|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
+|10|125.25.53.180|8080|Thailand|Bangkok|TOT Public Company Limited|
 |11|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
-|12|23.185.192.66|8181|United States|Frankfort|Swayzee Telephone Company, Inc.|
+|12|189.250.76.27|999|Mexico|Oaxaca City|Uninet S.A. de C.V.|
 |13|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
 |14|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
 |15|216.152.149.246|80|United States|Newark|GTHost|
-|16|195.142.25.177|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
-|17|116.101.73.52|2080|Vietnam|Hanoi|Viettel Group|
-|18|45.225.207.248|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
-|19|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
-|20|27.147.28.73|8080|Taiwan|Xindian District|Extra-Lan Technologies Co., LTD|
+|16|36.213.79.159|1081|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
+|17|216.152.149.246|80|United States|Newark|GTHost|
+|18|103.171.82.29|8080|Indonesia|Bekasi|PT Multi Network Indonesia|
+|19|195.154.233.154|8156|France|Paris|Scaleway SAS|
+|20|101.109.44.190|8080|Thailand|Suan Luang|TOT Public Company Limited|
 
 
 
