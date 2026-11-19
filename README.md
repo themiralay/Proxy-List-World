@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4657** proxies at the latest update. Usable proxies are below.
+> Scraper found **4297** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|599|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|819|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|459|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2539|✅|
 
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|145.220.227.67|8080|The Netherlands|Utrecht|SURFnet III d|
-|3|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|4|132.243.174.245|5002|Switzerland|Rümlang|Alexhost S.R.L.|
-|5|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|6|34.43.46.91|80|United States|Mountain View|Google LLC|
-|7|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|8|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|11|38.19.43.77|999|Colombia|Soacha|Super Redes S.A.S|
-|12|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|13|27.147.169.75|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|14|216.152.149.246|80|United States|Newark|GTHost|
-|15|79.98.32.94|8080|Turkey|Adana|High Speed For Internet Services L.L.C|
-|16|122.246.4.30|17981|China|Ningbo|China Telecom|
-|17|216.152.152.44|80|United States|Los Angeles|GTHost|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|45.194.3.204|8080|India|Noida|CtrlS|
+|2|216.152.152.44|80|United States|Los Angeles|GTHost|
+|3|34.43.46.91|80|United States|Mountain View|Google LLC|
+|4|145.220.227.67|8080|The Netherlands|Utrecht|SURFnet III d|
+|5|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|6|132.243.174.245|5002|Switzerland|Rümlang|Alexhost S.R.L.|
+|7|31.135.214.17|8026|Uzbekistan|Tashkent|Inform-Service TV Ltd|
+|8|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
+|9|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
+|10|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
+|11|58.254.153.146|17981|China|Shanwei|CNC Group CHINA169 Guangdong Province Network|
+|12|91.185.193.115|8080|Slovenia|Ljubljana|TELEMACH|
+|13|34.43.46.91|80|United States|Mountain View|Google LLC|
+|14|61.29.96.146|80|Australia|Melbourne|AAPT Limited|
+|15|206.135.80.94|999|Mexico|Querétaro City|Ientc S De RL De CV|
+|16|38.10.71.91|8080|Turkey|Karaköprü|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|17|182.53.202.217|80|Thailand|Chiang Mai|TOT Public Company Limited|
+|18|216.152.149.246|80|United States|Newark|GTHost|
+|19|170.81.131.70|3128|Brazil|São José do Rio Preto|IFTNET Telecomunicacoes Ltda|
 |20|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
 
 
