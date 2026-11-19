@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|3|145.220.227.67|8080|The Netherlands|Utrecht|SURFnet III d|
-|4|45.194.3.108|8080|India|Noida|CtrlS|
-|5|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|7|132.243.174.245|5002|Switzerland|Rümlang|Alexhost S.R.L.|
-|8|116.101.73.52|2030|Vietnam|Hanoi|Viettel Group|
-|9|124.106.122.97|8086|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|10|5.200.72.62|3128|Iran|Tehran|Bahar Samaneh Shargh|
-|11|34.43.46.91|80|United States|Mountain View|Google LLC|
-|12|200.121.48.195|999|Peru|Lima|Telefonica del Peru|
-|13|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
-|14|173.205.202.241|8181|United States|Kirklin|Swayzee Telephone Company, Inc.|
-|15|175.100.103.170|1256|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|16|45.143.108.118|8080|Georgia|Tbilisi|Airmax LLC|
-|17|146.190.60.147|8002|United States|Santa Clara|DigitalOcean, LLC|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|103.161.1.114|1111|Indonesia|Depok|METRO-RB|
-|20|119.94.185.43|8082|Philippines|Marilao|Philippine Long Distance Telephone Co.|
+|2|202.152.134.202|8071|Indonesia|Yogyakarta|PT Jembatan Citra Nusantara|
+|3|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|4|145.220.227.67|8080|The Netherlands|Utrecht|SURFnet III d|
+|5|116.101.73.52|2030|Vietnam|Hanoi|Viettel Group|
+|6|45.194.3.108|8080|India|Noida|CtrlS|
+|7|34.43.46.91|80|United States|Mountain View|Google LLC|
+|8|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|9|14.248.84.131|8080|Vietnam|Hanoi|VNPT|
+|10|132.243.174.245|5002|Switzerland|Rümlang|Alexhost S.R.L.|
+|11|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|12|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
+|13|45.195.105.20|8080|India|Mumbai|Real Time Data Services Private Limited|
+|14|177.234.217.235|999|Ecuador|Quito|Ufinet Panama S.A.|
+|15|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
+|16|94.183.206.215|8080|The Netherlands|Amsterdam|TurtleGuard|
+|17|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
+|18|45.198.11.162|9191|Indonesia|Colomadu|PT Jaringan Lintas Artha|
+|19|200.41.149.66|12323|Argentina|Buenos Aires|Telefonica de Argentina|
+|20|209.61.12.217|999|Colombia|Pasto|Intercomm de Narino|
 
 
 
