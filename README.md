@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.128.107.122|7890|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|132.243.174.245|5002|Switzerland|Rümlang|Alexhost S.R.L.|
+|2|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
 |3|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|4|34.43.46.91|80|United States|Mountain View|Google LLC|
-|5|116.204.166.178|8080|Turkey|Hıdırbey|High Speed For Internet Services L.L.C|
-|6|38.7.18.119|999|Mexico|Morelia|Internet Telefonia Y TV De Michoacan SA De CV|
-|7|182.53.202.217|80|Thailand|Chiang Mai|TOT Public Company Limited|
-|8|49.145.60.240|8080|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|9|129.146.163.237|8888|United States|Phoenix|Oracle Corporation|
-|10|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|11|34.43.46.91|80|United States|Mountain View|Google LLC|
-|12|27.147.153.179|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|13|94.179.153.218|8081|Ukraine|Stepanivka|UKRTELECOM|
-|14|206.135.47.110|999|Mexico|Puebla City|Ientc S De RL De CV|
-|15|187.190.58.124|8080|Mexico|Culiacán|TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.|
-|16|40.160.73.206|8080|United States|Warrenton|OVH SAS|
-|17|45.194.3.108|8080|India|Noida|CtrlS|
-|18|183.88.218.225|8080|Thailand|Kanchanaburi|Triple T Broadband Public Company Limited|
-|19|197.248.86.237|32650|Kenya|Nairobi|Safaricom Limited|
-|20|104.251.93.103|16062|United States|Las Vegas|BraveWay LLC|
+|4|45.177.147.119|80|Argentina|General Rodriguez|Netlatin S.R.L.|
+|5|129.146.163.237|8888|United States|Phoenix|Oracle Corporation|
+|6|103.24.215.165|8080|Indonesia|Weleri|PT. ADAU PUTRA NETWORK|
+|7|34.43.46.91|80|United States|Mountain View|Google LLC|
+|8|38.76.251.115|999|Dominican Republic|Pizarrete|Cogent Communications|
+|9|111.68.122.154|8080|Indonesia|Jakarta|Varnion Technology Semesta, PT|
+|10|34.43.46.91|80|United States|Mountain View|Google LLC|
+|11|148.224.12.147|999|Mexico|Uruapan|Jorge Luis Torres Fernandez|
+|12|197.248.86.237|32650|Kenya|Nairobi|Safaricom Limited|
+|13|49.145.60.240|8080|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|14|40.160.73.206|8080|United States|Warrenton|OVH SAS|
+|15|208.67.28.27|58090|United States|Lac du Flambeau|SonicNet Inc.|
+|16|190.121.4.157|999|Chile|Rauco|Telefonica del Sur S.A.|
+|17|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|18|27.147.152.52|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|19|45.194.3.108|8080|India|Noida|CtrlS|
+|20|134.199.160.93|8888|Australia|Sydney|DigitalOcean, LLC|
 
 
 
