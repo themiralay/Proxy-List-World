@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|2|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|3|145.220.227.67|8080|The Netherlands|Utrecht|SURFnet III d|
-|4|27.49.68.66|9999|Philippines|Cebu City|Converge ICT|
-|5|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
-|6|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
-|7|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|8|125.25.53.180|8080|Thailand|Bangkok|TOT Public Company Limited|
-|9|132.243.174.245|5002|Switzerland|Rümlang|Alexhost S.R.L.|
-|10|147.161.246.34|10915|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|2|145.220.227.67|8080|The Netherlands|Utrecht|SURFnet III d|
+|3|116.101.73.161|2090|Vietnam|Hanoi|Viettel Group|
+|4|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|5|132.243.174.245|5002|Switzerland|Rümlang|Alexhost S.R.L.|
+|6|147.161.246.34|10915|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|7|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
+|8|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
+|9|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
+|10|34.43.46.91|80|United States|Mountain View|Google LLC|
 |11|147.161.246.34|10915|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|12|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
-|13|178.134.100.66|80|Georgia|Tbilisi|JSC "Silknet"|
-|14|187.190.58.152|8081|Mexico|Mazatlán|TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.|
-|15|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
-|16|34.43.46.91|443|United States|Mountain View|Google LLC|
-|17|34.43.46.91|443|United States|Mountain View|Google LLC|
-|18|1.10.248.236|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|19|216.152.149.246|80|United States|Newark|GTHost|
-|20|27.147.152.52|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
+|13|139.5.75.83|8080|Nepal|Patan|WLINK|
+|14|36.37.251.137|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|15|216.152.149.246|80|United States|Newark|GTHost|
+|16|175.100.103.170|1256|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|17|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
+|18|129.146.163.237|8888|United States|Phoenix|Oracle Corporation|
+|19|61.245.30.166|5050|Philippines|Manila|Infinivan Incorporated|
+|20|126.209.112.164|8082|Philippines|Bulacan|Infinivan Incorporated|
 
 
 
