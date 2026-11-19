@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|516|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|516|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|516|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|477|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|477|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|477|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|171.252.33.109|3128|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|2|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|3|216.152.152.44|80|United States|Los Angeles|GTHost|
-|4|45.195.91.59|8080|India|Noida|Real Time Data Services Private Limited|
-|5|125.25.53.180|8080|Thailand|Bangkok|TOT Public Company Limited|
-|6|47.238.203.220|6666|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|7|145.220.227.24|8080|The Netherlands|Utrecht|SURFnet III d|
-|8|36.94.246.17|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|9|145.220.227.67|8080|The Netherlands|Utrecht|SURFnet III d|
-|10|58.136.169.184|8080|Thailand|Bangkok|AIS-Fibre|
-|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|12|182.160.127.29|12331|Bangladesh|Dhaka|Aamra Networks Limited|
-|13|38.7.17.83|999|Mexico|Morelia|Internet Telefonia Y TV De Michoacan SA De CV|
-|14|103.18.76.181|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|15|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
-|16|36.67.194.162|8042|Indonesia|West Jakarta|PT. Telekomunikasi Indonesia|
-|17|130.250.199.73|999|Mexico|Hermosillo|NGX Networks|
-|18|103.147.230.177|8090|Bangladesh|Joypur Hāt|Friends BroadBand Network|
-|19|210.79.140.130|8181|Indonesia|Gianyar|PT Era Zia Sakti|
-|20|202.73.27.109|8082|Indonesia|Cicurug|PT. Usaha Adisanggoro|
+|1|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|2|154.201.127.230|8080|India|Noida|Real Time Data Services Private Limited|
+|3|172.235.157.127|3128|United States|Miami|Akamai Technologies, Inc.|
+|4|139.135.77.166|8085|Philippines|Tibigan|Dito Telecommunity Corp.|
+|5|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|6|5.200.72.61|3128|Iran|Tehran|Bahar Samaneh Shargh|
+|7|125.25.53.180|8080|Thailand|Bangkok|TOT Public Company Limited|
+|8|206.135.47.110|999|Mexico|Puebla City|Ientc S De RL De CV|
+|9|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
+|10|216.152.149.246|80|United States|Newark|GTHost|
+|11|2.177.39.97|8080|Iran|Tehran|Information Technology Company|
+|12|147.161.246.34|11727|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|13|157.15.64.181|8080|Indonesia|Kendal|PT Cynet Indonesia Networks|
+|14|185.147.157.135|3128|United States|Los Angeles|Advin Services LLC|
+|15|36.67.114.94|8187|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|16|103.193.145.155|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
+|17|177.234.192.15|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|18|177.234.217.46|999|Ecuador|Quito|Ufinet Panama S.A.|
+|19|147.161.246.34|11727|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|20|103.82.246.23|6080|Indonesia|Ciputat|PT Master Star Network|
 
 
 
