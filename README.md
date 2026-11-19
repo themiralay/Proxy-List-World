@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|129.146.163.237|8888|United States|Phoenix|Oracle Corporation|
-|3|116.101.73.52|2045|Vietnam|Hanoi|Viettel Group|
-|4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|5|5.200.72.62|3128|Iran|Tehran|Bahar Samaneh Shargh|
-|6|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|7|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|8|147.161.246.34|12052|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|9|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|10|147.161.246.34|12052|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|11|36.213.79.159|1080|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
-|12|103.171.82.21|1111|Indonesia|Bekasi|PT Multi Network Indonesia|
-|13|179.63.6.239|999|Peru|Lima|RED AMONES S.A.C.|
-|14|177.234.217.85|999|Ecuador|Quito|Ufinet Panama S.A.|
-|15|45.198.20.172|3125|Indonesia|Bekasi|PT IKHLAS CIPTA TEKNOLOGI|
-|16|216.152.149.246|80|United States|Newark|GTHost|
-|17|157.100.63.247|999|Ecuador|Quito|Ufinet Panama S.A.|
-|18|216.152.152.44|80|United States|Los Angeles|GTHost|
-|19|38.156.238.24|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L|
-|20|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|1|216.152.152.44|80|United States|Los Angeles|GTHost|
+|2|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|5|147.161.246.34|12052|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|6|147.161.246.34|12052|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|7|129.146.163.237|8888|United States|Phoenix|Oracle Corporation|
+|8|157.66.239.17|8080|Indonesia|Ponorogo|ADILINKINA|
+|9|124.217.78.75|8082|Philippines|Calasiao|Philippine Long Distance Telephone Co.|
+|10|206.135.47.109|999|Mexico|Puebla City|Ientc S De RL De CV|
+|11|41.90.103.85|8080|Kenya|Nairobi|Safaricom Limited|
+|12|180.191.34.111|8081|Philippines|Cabanatuan City|Globe Telecom|
+|13|34.43.46.91|443|United States|Mountain View|Google LLC|
+|14|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|15|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|16|119.94.185.43|8082|Philippines|Marilao|Philippine Long Distance Telephone Co.|
+|17|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|18|36.213.79.159|1081|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
+|19|125.25.53.180|8080|Thailand|Bangkok|TOT Public Company Limited|
+|20|116.101.73.161|2053|Vietnam|Hanoi|Viettel Group|
 
 
 
