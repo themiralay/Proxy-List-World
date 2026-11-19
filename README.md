@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|148.222.227.186|999|Peru|Lima|Edgeuno S.A.C.|
-|3|116.101.73.52|2030|Vietnam|Hanoi|Viettel Group|
-|4|157.100.63.247|999|Ecuador|Quito|Ufinet Panama S.A.|
-|5|38.51.233.102|999|Colombia|Pasto|SP SISTEMAS PALACIOS|
-|6|34.43.46.91|443|United States|Mountain View|Google LLC|
-|7|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|8|112.210.211.214|8080|Philippines|Kawit|Philippine Long Distance Telephone Co.|
-|9|116.101.73.52|2030|Vietnam|Hanoi|Viettel Group|
+|1|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|2|119.94.185.43|8082|Philippines|Marilao|Philippine Long Distance Telephone Co.|
+|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|116.101.73.161|2053|Vietnam|Hanoi|Viettel Group|
+|5|116.101.73.52|2030|Vietnam|Hanoi|Viettel Group|
+|6|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
+|7|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
+|8|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
+|9|27.147.153.179|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
 |10|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
-|11|116.101.73.161|2053|Vietnam|Hanoi|Viettel Group|
-|12|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
-|13|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
-|14|187.251.224.167|80|Mexico|León|TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.|
-|15|103.124.138.149|8080|Indonesia|Pasarkemis|Global Media Data Prima|
-|16|206.135.47.106|999|Mexico|Puebla City|Ientc S De RL De CV|
-|17|163.227.149.137|3128|Indonesia|Palembang|PT Andalas Solusi Network|
-|18|208.67.28.27|58090|United States|Lac du Flambeau|SonicNet Inc.|
-|19|103.171.149.241|8080|Indonesia|Bekasi|MYREPUBLIC|
-|20|1.20.101.35|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
+|11|116.101.73.52|2030|Vietnam|Hanoi|Viettel Group|
+|12|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|13|160.19.18.115|3127|Indonesia|Bandung|PT Indo Telemedia Solusi|
+|14|206.135.47.106|999|Mexico|Puebla City|Ientc S De RL De CV|
+|15|187.251.224.167|80|Mexico|León|TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.|
+|16|110.74.206.40|8181|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|17|148.224.12.147|999|Mexico|Uruapan|Jorge Luis Torres Fernandez|
+|18|189.250.76.27|999|Mexico|Oaxaca City|Uninet S.A. de C.V.|
+|19|206.135.47.106|999|Mexico|Puebla City|Ientc S De RL De CV|
+|20|103.66.47.10|8080|Indonesia|Bogor|PT Iconmedia Lintas Nusantara|
 
 
 
