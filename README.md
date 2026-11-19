@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|584|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|584|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|584|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|679|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|679|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|679|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|1.20.101.21|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
-|3|112.65.132.182|3128|China|Shanghai|China Unicom CHINA169 Shanghai Province Network|
-|4|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|49.0.27.175|1111|Indonesia|Mojoagung|SIMS Jabar Banten Medianet|
-|6|157.20.252.15|8833|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
-|7|181.198.55.155|999|Ecuador|Guayaquil|Telconet S.A|
-|8|186.125.218.150|999|Argentina|Cafayate|CARDOZO JAVIER ALEJANDRO (KILLA INTERNET)|
-|9|38.7.20.200|999|Mexico|Morelia|Internet Telefonia Y TV De Michoacan SA De CV|
-|10|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|11|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
-|12|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|13|103.190.113.226|8081|Indonesia|Grobogan|PT Linkbit Inovasi Teknologi|
-|14|1.10.248.238|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|15|177.234.217.85|999|Ecuador|Quito|Ufinet Panama S.A.|
-|16|107.210.56.161|80|United States|Birmingham|AT&T Enterprises, LLC|
-|17|147.161.246.34|11928|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|18|118.136.142.110|8080|Indonesia|North Jakarta|Linknet-Fastnet ASN|
-|19|190.237.238.102|999|Peru|Lima|TDP-GRS|
-|20|103.112.136.77|8080|Indonesia|Serang|PT Pisangmas Rayatama Perkasa|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|3|101.255.211.46|8181|Indonesia|Depok|PT Remala Abadi|
+|4|101.109.44.190|8080|Thailand|Suan Luang|TOT Public Company Limited|
+|5|182.52.113.84|80|Thailand|Bangkok|TOT Public Company Limited|
+|6|45.194.3.204|8080|India|Noida|CtrlS|
+|7|1.20.101.21|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
+|8|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|187.245.220.100|999|Mexico|Monterrey|Mega Cable, S.A. de C.V.|
+|10|180.191.234.124|8080|Philippines|Marilao|Globe Telecom|
+|11|115.178.52.10|8080|Indonesia|Mandala|NOC SIMAYA|
+|12|118.136.142.110|8080|Indonesia|North Jakarta|Linknet-Fastnet ASN|
+|13|182.52.113.109|80|Thailand|Bangkok|TOT Public Company Limited|
+|14|103.39.51.160|8082|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
+|15|149.210.4.75|18080|Greece|Athens|Cosmote Mobile Telecommunication S.A.|
+|16|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
+|17|49.145.60.240|8080|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|18|181.198.55.155|999|Ecuador|Guayaquil|Telconet S.A|
+|19|103.190.113.226|8081|Indonesia|Grobogan|PT Linkbit Inovasi Teknologi|
+|20|112.208.165.218|8081|Philippines|Makati City|Philippine Long Distance Telephone Co.|
 
 
 
