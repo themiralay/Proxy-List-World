@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|627|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|627|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|627|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|580|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|580|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|580|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1119|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|875|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|669|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|913|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3153|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.255.151.89|8181|Indonesia|Central Jakarta|PT Remala Abadi|
-|2|103.136.250.154|8080|Taiwan|Taipei|Kaopu Cloud HK Limited|
-|3|160.22.45.126|8097|Indonesia|Marisa|PT Celebes Multi Network|
-|4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|5|112.198.128.171|8083|Philippines|Nasugbu|Globe Telecom|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|103.80.214.177|8080|Indonesia|Sidoarjo|PT Redi Revolusi Digital Solusi|
-|8|94.183.206.215|8080|The Netherlands|Amsterdam|TurtleGuard|
-|9|27.147.153.179|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|10|103.66.62.187|8080|Indonesia|Jambi City|PT Buana Visualnet Sentra|
-|11|202.180.21.213|80|Indonesia|Jakarta|PT. HIPERNET INDODATA|
-|12|49.145.125.250|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|13|125.25.53.180|8080|Thailand|Bangkok|TOT Public Company Limited|
-|14|62.201.217.194|8080|Iraq|Kelar|BAG|
-|15|120.28.82.207|8082|Philippines|Caloocan|Globe Telecom|
-|16|14.34.180.21|38157|South Korea|Pyeongtaek-si|Korea Telecom|
-|17|125.25.167.135|80|Thailand|Bangkok|TOT Public Company Limited|
-|18|94.179.153.218|8081|Ukraine|Stepanivka|UKRTELECOM|
-|19|180.191.98.117|8080|Philippines|Makati City|Globe Telecom|
-|20|185.94.164.182|8080|The Netherlands|Amsterdam|First Server Limited|
+|1|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|2|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|3|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|4|80.225.250.95|8888|India|Mumbai|Oracle Corporation|
+|5|216.152.152.44|80|United States|Los Angeles|GTHost|
+|6|34.43.46.91|80|United States|Mountain View|Google LLC|
+|7|222.127.54.16|8080|Philippines|Lahug|INNOVE|
+|8|219.148.171.178|9445|China|Hechi|Chinanet|
+|9|177.234.217.83|999|Ecuador|Quito|Ufinet Panama S.A.|
+|10|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
+|11|216.152.149.246|80|United States|Newark|GTHost|
+|12|122.3.77.180|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|13|182.71.123.38|80|India|Gurugram|Bharti Airtel|
+|14|187.245.220.100|999|Mexico|Monterrey|Mega Cable, S.A. de C.V.|
+|15|5.104.174.199|23500|Bulgaria|Sofia|DobrudjaCable Ltd.|
+|16|43.251.215.2|8080|India|New Delhi|World Phone Infrastructure services private ltd|
+|17|103.146.38.23|1111|Indonesia|Karawang|MEDIASOLUSISUKSES|
+|18|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|19|103.161.1.114|1111|Indonesia|Depok|METRO-RB|
+|20|94.183.206.215|8080|The Netherlands|Amsterdam|TurtleGuard|
 
 
 
