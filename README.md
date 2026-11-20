@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|539|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|539|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|539|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|503|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|503|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|503|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 |2|45.194.3.204|8080|India|Noida|CtrlS|
-|3|202.146.230.102|8080|Indonesia|Jagirsidosermo|PT Centrin Utama|
-|4|103.204.82.34|3212|Bangladesh|Dhaka|Nexdecade Technology Pvt. LTD|
-|5|34.43.46.91|443|United States|Mountain View|Google LLC|
+|3|34.43.46.91|443|United States|Mountain View|Google LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|45.198.20.156|3125|Indonesia|Bekasi|PT IKHLAS CIPTA TEKNOLOGI|
 |6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 |7|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|8|47.254.213.60|1081|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
-|9|154.88.136.50|999|Dominican Republic|Santiago de los Caballeros|DOMINICAN CABLE GROUP DCG, S.R.L.|
-|10|147.161.246.34|10815|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|11|203.201.190.36|8080|Indonesia|Tulang Bawang Regency|PT WIRA HASTA JITU|
-|12|147.161.246.34|10815|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|13|147.161.246.34|10815|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|8|103.204.82.34|3212|Bangladesh|Dhaka|Nexdecade Technology Pvt. LTD|
+|9|143.255.86.106|999|Venezuela|Mérida|Viginet C.A|
+|10|157.100.63.247|999|Ecuador|Quito|Ufinet Panama S.A.|
+|11|202.73.27.109|8082|Indonesia|Cicurug|PT. Usaha Adisanggoro|
+|12|202.146.230.102|8080|Indonesia|Jagirsidosermo|PT Centrin Utama|
+|13|47.254.213.60|1081|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
 |14|147.161.246.34|10815|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|15|147.161.246.34|10815|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|15|177.234.217.46|999|Ecuador|Quito|Ufinet Panama S.A.|
 |16|147.161.246.34|10815|Switzerland|Zurich|Zscaler Switzerland GmbH|
 |17|147.161.246.34|10815|Switzerland|Zurich|Zscaler Switzerland GmbH|
 |18|147.161.246.34|10815|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|147.161.246.34|10815|Switzerland|Zurich|Zscaler Switzerland GmbH|
 |20|147.161.246.34|10815|Switzerland|Zurich|Zscaler Switzerland GmbH|
 
 
