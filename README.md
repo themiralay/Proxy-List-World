@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4653** proxies at the latest update. Usable proxies are below.
+> Scraper found **4611** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|404|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|362|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|589|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2960|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|1|216.152.152.44|80|United States|Los Angeles|GTHost|
 |2|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 |3|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|4|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|5|34.43.46.91|443|United States|Mountain View|Google LLC|
-|6|216.152.152.44|80|United States|Los Angeles|GTHost|
-|7|58.254.153.146|17981|China|Shanwei|CNC Group CHINA169 Guangdong Province Network|
-|8|187.190.127.212|80|Mexico|Banus Vallarta|TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.|
-|9|103.84.210.30|8080|Indonesia|Padang|CINOXMEDIANET|
-|10|1.20.178.201|80|Thailand|Bangkok|TOT Public Company Limited|
-|11|147.161.246.34|10815|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|12|147.161.246.34|10815|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|13|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|14|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
-|15|147.161.246.34|10815|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|16|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|17|34.43.46.91|443|United States|Mountain View|Google LLC|
-|18|77.42.95.221|8888|Finland|Helsinki|Hetzner Online GmbH|
-|19|177.234.217.84|999|Ecuador|Quito|Ufinet Panama S.A.|
-|20|147.161.162.48|10000|South Africa|Johannesburg|Zscaler JNB3|
+|4|184.70.113.34|3128|Canada|Calgary|Shaw Communications|
+|5|36.213.79.159|1081|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
+|6|122.246.4.30|17981|China|Ningbo|China Telecom|
+|7|38.252.145.15|999|Mexico|Actopan|Osbaldo Tovar Campero|
+|8|147.161.162.48|10000|South Africa|Johannesburg|Zscaler JNB3|
+|9|20.33.10.79|9443|South Africa|Johannesburg|Microsoft Corporation|
+|10|49.48.101.15|8080|Thailand|Nakhon Ratchasima|Advanced Wireless Network Company Limited|
+|11|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
+|12|180.191.124.206|8081|Philippines|Cagayan de Oro|Globe Telecom|
+|13|173.205.202.241|8181|United States|Kirklin|Swayzee Telephone Company, Inc.|
+|14|34.43.46.91|443|United States|Mountain View|Google LLC|
+|15|195.226.213.254|8888|Ukraine|Fontanka|Private Enterprise KTV AIDA|
+|16|147.161.246.34|10815|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|17|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|18|103.84.210.30|8080|Indonesia|Padang|CINOXMEDIANET|
+|19|147.161.246.34|10815|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|20|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 
 
 
