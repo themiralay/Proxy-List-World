@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5359** proxies at the latest update. Usable proxies are below.
+> Scraper found **5397** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|363|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|363|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|363|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|434|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|434|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|434|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|793|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|831|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|713|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3153|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.172.71.165|9191|Indonesia|Colomadu|AZNET|
-|2|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|3|182.253.21.26|46977|Indonesia|West Jakarta|Biznet Networks|
-|4|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|5|181.119.224.25|8080|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|6|78.155.65.204|8080|Syria|Qadsayyā|ISP-TARASSUL|
-|7|103.153.134.62|1111|Indonesia|Cikupa|WMINET|
-|8|112.203.35.174|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|9|188.132.150.204|8080|Turkey|Istanbul|High Speed For Internet Services L.L.C|
-|10|1.55.102.13|3128|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|11|101.255.151.89|8181|Indonesia|Central Jakarta|PT Remala Abadi|
-|12|36.88.163.36|8080|Indonesia|Sidoarjo|PT. Telekomunikasi Indonesia|
-|13|94.183.206.215|8080|The Netherlands|Amsterdam|TurtleGuard|
-|14|187.251.224.167|80|Mexico|León|TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.|
-|15|103.125.19.105|8080|Indonesia|Kresek|JAVAMEDIA|
-|16|180.211.161.26|8080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|17|175.100.103.170|1256|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|18|183.178.50.58|8080|Hong Kong|Kwai Chung|Hong Kong Broadband Network Limited|
-|19|103.97.140.199|8080|Indonesia|Cianjur|PT Jembatan Data Pangrango|
-|20|206.135.47.108|999|Mexico|Puebla City|Ientc S De RL De CV|
+|1|43.167.209.118|10081|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|146.190.60.147|8003|United States|Santa Clara|DigitalOcean, LLC|
+|3|222.127.54.16|8080|Philippines|Lahug|INNOVE|
+|4|203.190.113.93|8079|Indonesia|Jakarta|PT Union Routelink Communication|
+|5|103.176.96.243|8090|Indonesia|Purwakarta|PT Global Sarana Elektronika|
+|6|1.4.141.40|80|Thailand|Khon Kaen|TOT Public Company Limited|
+|7|203.150.128.110|8080|Thailand|Bangkok|Internet Thailand Company Ltd|
+|8|41.90.103.85|8080|Kenya|Nairobi|Safaricom Limited|
+|9|101.255.210.9|3125|Indonesia|Depok|PT Remala Abadi|
+|10|103.69.107.70|8181|Indonesia|Ciruas|PT. Berkat Dunia Digital Cikande|
+|11|58.69.124.137|8080|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|12|103.178.21.104|3125|Indonesia|Malang|PT Trisna Mega Abadi|
+|13|27.147.153.179|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|14|36.93.173.108|8118|Indonesia|West Jakarta|Telekomunikasi Indonesia|
+|15|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|17|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|18|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|19|200.70.35.2|8080|Argentina|Lomas de Zamora|Telefonica de Argentina|
+|20|181.115.67.3|999|Honduras|San Pedro Sula|TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
 
 
 
