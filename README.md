@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|58.69.124.137|8080|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|2|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|4|34.43.46.91|443|United States|Mountain View|Google LLC|
-|5|45.194.3.204|8080|India|Noida|CtrlS|
-|6|167.99.3.26|6294|United States|North Bergen|DigitalOcean, LLC|
-|7|34.43.46.91|443|United States|Mountain View|Google LLC|
-|8|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|9|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
-|10|113.160.155.121|19132|Vietnam|Từ Sơn|VietNam Post and Telecom Corporation|
-|11|27.147.153.179|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|12|88.204.19.8|7080|Russia|Tomsk|JSC "ER-Telecom Holding"|
+|1|134.199.160.93|8888|Australia|Sydney|DigitalOcean, LLC|
+|2|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|3|1.10.248.239|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|4|184.75.221.82|3118|Canada|Toronto|Amanah Tech Inc.|
+|5|34.43.46.91|443|United States|Mountain View|Google LLC|
+|6|24.173.217.114|55443|United States|Balch Springs|Spectrum|
+|7|38.58.117.135|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
+|8|190.110.34.22|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|9|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|10|41.139.170.75|8080|Kenya|Nairobi|Converged services Eastern|
+|11|103.234.19.238|8080|Indonesia|Tangerang|PT Widjaja Piranti Teknologi|
+|12|187.249.112.221|999|Mexico|Villa de Zaachila|Transtelco Inc|
 |13|147.161.246.34|10815|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|14|157.10.97.91|7000|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
-|15|147.161.246.34|10815|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|16|217.154.195.87|8888|Germany|Berlin|IONOS SE|
-|17|202.148.13.182|8080|Indonesia|Mojosari|DNET-SBY|
-|18|103.132.54.42|8080|Indonesia|Taman|PT. ADEAKSA INDO JAYATAMA|
+|14|147.161.246.34|10815|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|15|177.67.250.222|8080|Peru|Tarapoto|Tecno Proyectos Globales S.a.c. - Tecnoglo S.A.C.|
+|16|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|17|177.234.217.235|999|Ecuador|Quito|Ufinet Panama S.A.|
+|18|177.234.217.43|999|Ecuador|Quito|Ufinet Panama S.A.|
 |19|34.43.46.91|443|United States|Mountain View|Google LLC|
-|20|162.4.39.18|8080|Indonesia|Pati Regency|PT Lintas Cita Nusantara|
+|20|200.41.149.66|12323|Argentina|Buenos Aires|Telefonica de Argentina|
 
 
 
