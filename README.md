@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|545|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|545|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|545|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|560|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|560|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|560|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.191.127.7|8082|Philippines|Cagayan de Oro|Globe Telecom|
-|2|122.2.122.10|3128|Philippines|General Trias|Philippine Long Distance Telephone Co.|
-|3|216.125.18.67|3128|United States|Brookfield|Illinois Century Network|
-|4|1.20.101.25|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
-|5|182.52.136.70|8080|Thailand|Bangkok|TOT Public Company Limited|
-|6|49.0.79.138|8080|Thailand|Bangkok|AIS-Fibre|
-|7|222.252.97.26|8008|Vietnam|Phú Thương|VietNam Post and Telecom Corporation|
-|8|180.191.98.117|8080|Philippines|Makati City|Globe Telecom|
-|9|189.250.76.27|999|Mexico|Oaxaca City|Uninet S.A. de C.V.|
-|10|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|11|181.48.234.214|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|12|34.43.46.91|80|United States|Mountain View|Google LLC|
-|13|36.64.241.218|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|14|170.244.91.1|999|Venezuela|Caracas|WELLCOMM TECNOLOGÍA, C.A.|
-|15|182.53.202.229|80|Thailand|Chiang Mai|TOT Public Company Limited|
-|16|165.101.231.152|8080|Indonesia|Arjawinangun|PT Anugerah Cimanuk Raya|
-|17|180.191.140.185|8082|Philippines|Makati City|Globe Telecom|
-|18|126.209.16.170|5050|Philippines|Manila|Infinivan Incorporated|
-|19|103.142.255.227|8080|Indonesia|Madiun|PT.CITRA BERDIKARI NUSANTARA|
-|20|118.179.84.131|81|Bangladesh|Dhaka|AmberIT Limited|
+|1|103.4.76.237|1111|Indonesia|Depok|PT Khazanah Net Indonesia|
+|2|103.156.17.40|8085|Indonesia|Jatibarang|RSTNET|
+|3|49.48.66.110|8080|Thailand|Nakhon Ratchasima|Advanced Wireless Network Company Limited|
+|4|165.99.121.10|7777|Indonesia|Teluknaga|PT ANUGRAH GLOBALINDO SOLUSI|
+|5|216.125.18.67|3128|United States|Brookfield|Illinois Century Network|
+|6|38.50.165.182|999|Dominican Republic|Dajabon|NEXTELECOM, S.R.L|
+|7|160.30.83.10|83|India|Chennai|Virtel Communications Private Limited|
+|8|103.155.130.94|8080|India|Mumbai|Haash Media|
+|9|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|10|203.9.195.4|9000|Philippines|Zamboanga City|Go Wiser Corporation|
+|11|103.84.210.30|8080|Indonesia|Padang|CINOXMEDIANET|
+|12|124.105.20.100|8082|Philippines|Pasay|Philippine Long Distance Telephone Co.|
+|13|1.0.250.248|8080|Thailand|Tha Sala|TOT Public Company Limited|
+|14|203.190.113.94|8079|Indonesia|Jakarta|PT Union Routelink Communication|
+|15|202.58.65.5|8080|Indonesia|Colomadu|PT Mamura Inter Media|
+|16|103.66.148.86|9999|Pakistan|Sialkot|Sambrial Cable Network|
+|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|18|184.70.113.34|3128|Canada|Calgary|Shaw Communications|
+|19|201.77.108.25|999|Mexico|Los Jiménez|Raul Duarte Urita|
+|20|202.152.134.202|8071|Indonesia|Yogyakarta|PT Jembatan Citra Nusantara|
 
 
 
