@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|368|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|368|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|368|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|134.199.160.93|8888|Australia|Sydney|DigitalOcean, LLC|
-|3|103.25.79.150|8054|Myanmar|Yangon|Global Technology Co|
-|4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|5|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
-|6|1.20.178.221|80|Thailand|Bangkok|TOT Public Company Limited|
-|7|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
-|8|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
-|9|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
-|10|222.127.76.123|8082|Philippines|Lahug|INNOVE|
-|11|112.203.35.174|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|12|125.25.167.196|80|Thailand|Bangkok|TOT Public Company Limited|
-|13|161.22.33.213|999|Venezuela|Caracas|THUNDERNET, C.A|
-|14|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
-|15|101.255.210.9|3125|Indonesia|Depok|PT Remala Abadi|
-|16|205.234.123.108|8080|Türkiye|Istanbul|High Speed For Internet Services L.L.C|
-|17|116.204.166.148|8080|Turkey|Hıdırbey|High Speed For Internet Services L.L.C|
-|18|147.161.246.34|10165|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|19|206.135.47.108|999|Mexico|Puebla City|Ientc S De RL De CV|
-|20|38.196.216.19|999|Dominican Republic|Boca Chica|Cogent Communications|
+|2|104.219.55.50|8118|United States|Dallas|Atlantic.net|
+|3|101.255.210.9|3125|Indonesia|Depok|PT Remala Abadi|
+|4|103.172.70.153|9191|Indonesia|Surakarta|AZNET|
+|5|203.9.195.102|9000|Philippines|Zamboanga City|Go Wiser Corporation|
+|6|38.226.243.191|8080|Indonesia|Randudongkal|PT Putra Garsel Interkoneksi|
+|7|171.4.65.201|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
+|8|113.53.29.176|8080|Thailand|Phuket|TOT Public Company Limited|
+|9|153.56.246.169|8080|Türkiye|Istanbul|High Speed For Internet Services L.L.C|
+|10|147.161.246.34|12323|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|11|129.146.163.237|8888|United States|Phoenix|Oracle Corporation|
+|12|103.152.148.21|8080|Indonesia|South Jakarta|PT Satu Nusa Bangsa|
+|13|34.43.46.91|80|United States|Mountain View|Google LLC|
+|14|27.147.152.52|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|15|36.213.79.159|1081|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
+|16|102.38.7.149|19000|Libya|Tripoli|Giga for Telecommunication and Technology Limited|
+|17|103.125.15.69|8080|Indonesia|Medan|PT. RACKH LINTAS ASIA|
+|18|49.0.79.138|8080|Thailand|Bangkok|AIS-Fibre|
+|19|38.19.43.106|999|Colombia|Soacha|Super Redes S.A.S|
+|20|201.219.218.4|8080|Colombia|Cartagena|ITELKOM|
 
 
 
