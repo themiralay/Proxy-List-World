@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|814|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|814|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|814|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|670|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|670|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|670|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|216.152.152.44|80|United States|Los Angeles|GTHost|
-|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|3|103.134.222.170|8888|Indonesia|Boyolali|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
-|4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|5|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|6|34.43.46.91|443|United States|Mountain View|Google LLC|
-|7|172.235.157.127|3128|United States|Miami|Akamai Technologies, Inc.|
-|8|165.101.42.97|8080|Indonesia|Utan|PT Lintas Jaringan Nusantara|
-|9|180.191.140.185|8082|Philippines|Makati City|Globe Telecom|
-|10|34.105.252.3|3128|United Kingdom|London|Google LLC|
-|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|2|59.153.82.236|8080|Indonesia|North Jakarta|ATSINDO|
+|3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|4|5.161.210.253|1080|United States|Ashburn|Hetzner Online GmbH|
+|5|34.43.46.91|443|United States|Mountain View|Google LLC|
+|6|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|7|36.88.163.36|8080|Indonesia|Sidoarjo|PT. Telekomunikasi Indonesia|
+|8|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|9|27.147.153.179|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|10|172.235.157.127|3128|United States|Miami|Akamai Technologies, Inc.|
+|11|216.152.152.44|80|United States|Los Angeles|GTHost|
 |12|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
-|13|34.43.46.91|443|United States|Mountain View|Google LLC|
-|14|38.103.250.204|8080|Indonesia|Kudus|PT Erajaya Telco Indonesia / Eratel /Eratelindo|
-|15|82.41.42.140|8181|Singapore|Singapore|PT Perwira Media Solusi|
-|16|114.34.145.135|8080|Taiwan|Taoyuan|Chunghwa Telecom Co., Ltd.|
-|17|103.19.78.125|1080|Indonesia|Randuboto|PT Persada Data Multimedia|
-|18|160.202.42.156|80|Indonesia|Jakarta|Jakarta 5 8 Iconpln|
-|19|45.194.3.108|8080|India|Noida|CtrlS|
-|20|1.10.248.195|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|13|125.25.167.132|80|Thailand|Bangkok|TOT Public Company Limited|
+|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|15|34.43.46.91|443|United States|Mountain View|Google LLC|
+|16|1.2.248.41|80|Thailand|Bang Khen|TOT Public Company Limited|
+|17|177.234.217.85|999|Ecuador|Quito|Ufinet Panama S.A.|
+|18|149.50.231.227|8085|Türkiye|Istanbul|Veganet Teknolojileri VE Hizmetleri Limited Sirketi|
+|19|38.58.117.135|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
+|20|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
 
 
 
