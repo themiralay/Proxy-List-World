@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|738|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|738|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|738|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|695|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|695|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|695|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|216.152.152.44|80|United States|Los Angeles|GTHost|
-|3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|4|159.223.142.17|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|6|138.84.65.187|9090|Philippines|Marilao|Globe Telecom|
-|7|134.199.160.93|8888|Australia|Sydney|DigitalOcean, LLC|
-|8|36.64.157.154|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|2|222.127.76.123|8082|Philippines|Lahug|INNOVE|
+|3|218.207.164.174|7890|China|Guangzhou|China Mobile communications corporation|
+|4|49.146.231.205|8081|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|5|134.199.160.93|8888|Australia|Sydney|DigitalOcean, LLC|
+|6|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|7|34.43.46.91|443|United States|Mountain View|Google LLC|
+|8|114.5.97.150|8080|Indonesia|Surabaya|PT. INDOSAT Tbk|
 |9|5.161.210.253|1080|United States|Ashburn|Hetzner Online GmbH|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|134.199.160.93|8888|Australia|Sydney|DigitalOcean, LLC|
+|10|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|11|113.176.46.96|8080|Vietnam|Hanoi|VNPT|
 |12|172.235.157.127|3128|United States|Miami|Akamai Technologies, Inc.|
-|13|167.99.8.113|8005|United States|North Bergen|DigitalOcean, LLC|
-|14|47.254.213.60|1082|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
-|15|180.195.82.75|8081|Philippines|Bugaan|Philippine Long Distance Telephone Co.|
-|16|154.201.126.44|8080|India|Noida|CtrlS|
-|17|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
-|18|180.211.161.26|8080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|13|167.99.8.113|8009|United States|North Bergen|DigitalOcean, LLC|
+|14|134.199.160.93|8888|Australia|Sydney|DigitalOcean, LLC|
+|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|16|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|17|1.20.101.24|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
+|18|34.43.46.91|443|United States|Mountain View|Google LLC|
 |19|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|20|103.156.249.19|8181|Indonesia|Gambor Krajan|Trans Media Telekomunikasi|
+|20|180.191.229.193|5050|Philippines|Talisay City|Globe Telecom|
 
 
 
