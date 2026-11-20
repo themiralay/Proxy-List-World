@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|490|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|490|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|490|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|477|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|477|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|477|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|146.190.60.147|8013|United States|Santa Clara|DigitalOcean, LLC|
+|1|103.84.210.30|8080|Indonesia|Padang|CINOXMEDIANET|
 |2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|3|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|4|43.251.205.146|8080|Thailand|Bangkok|United Information Highway Co., Ltd.|
-|5|175.184.236.12|1111|Indonesia|Cikarang|Indonesia Network Information Center|
-|6|103.166.158.213|8080|Indonesia|Penajam|PT Timor Lintas Nusantara|
-|7|95.85.24.83|8118|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|8|161.22.33.93|999|Venezuela|Caracas|THUNDERNET, C.A|
+|3|146.190.60.147|8011|United States|Santa Clara|DigitalOcean, LLC|
+|4|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|5|188.132.249.99|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
+|6|217.154.195.87|8888|Germany|Berlin|IONOS SE|
+|7|82.165.182.74|8080|Germany|Berlin|IONOS SE|
+|8|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
 |9|89.46.131.79|10000|The Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|10|103.193.144.101|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|11|36.64.241.218|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|12|161.22.37.16|999|Venezuela|Petare|THUNDERNET, C.A.|
-|13|45.7.176.246|3128|Brazil|Porto de Pedras|Litoral Telecom|
+|10|41.33.203.117|1981|Egypt|Ismailia|TE Data|
+|11|202.146.230.102|8080|Indonesia|Jagirsidosermo|PT Centrin Utama|
+|12|34.43.46.91|443|United States|Mountain View|Google LLC|
+|13|138.118.107.29|999|Guatemala|Santa María de Jesús|ONNO NETWORKS, SOCIEDAD ANÓNIMA|
 |14|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
-|15|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|16|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|17|161.22.33.185|999|Venezuela|Caracas|THUNDERNET, C.A|
-|18|181.115.67.3|999|Honduras|San Pedro Sula|TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
-|19|34.43.46.91|80|United States|Mountain View|Google LLC|
-|20|206.135.47.106|999|Mexico|Puebla City|Ientc S De RL De CV|
+|15|177.234.217.83|999|Ecuador|Quito|Ufinet Panama S.A.|
+|16|143.255.85.224|999|Venezuela|Carora|Viginet C.A|
+|17|119.28.233.241|3128|South Korea|Seoul|ComsenzNet|
+|18|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|19|59.145.184.190|80|India|Ghaziabad|Bharti Airtel Limited|
+|20|206.135.47.109|999|Mexico|Puebla City|Ientc S De RL De CV|
 
 
 
