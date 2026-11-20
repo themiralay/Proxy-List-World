@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|426|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|426|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|426|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|445|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|445|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|445|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|2|45.194.3.108|8080|India|Noida|CtrlS|
-|3|222.127.54.16|8080|Philippines|Lahug|INNOVE|
-|4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|5|31.131.248.48|3129|Russia|St Petersburg|JSC Selectel|
-|6|119.94.185.43|8082|Philippines|Marilao|Philippine Long Distance Telephone Co.|
-|7|157.100.63.247|999|Ecuador|Quito|Ufinet Panama S.A.|
+|2|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|3|45.194.3.108|8080|India|Noida|CtrlS|
+|4|34.43.46.91|443|United States|Mountain View|Google LLC|
+|5|45.195.91.59|8080|India|Noida|Real Time Data Services Private Limited|
+|6|145.220.227.24|8080|The Netherlands|Utrecht|SURFnet III d|
+|7|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 |8|34.43.46.91|443|United States|Mountain View|Google LLC|
-|9|34.43.46.91|443|United States|Mountain View|Google LLC|
-|10|103.179.84.185|8089|Indonesia|Boyolali|PT CYB Media Group|
-|11|38.7.17.82|999|Mexico|Morelia|Internet Telefonia Y TV De Michoacan SA De CV|
-|12|103.156.16.237|8090|Indonesia|Maribaya|RSTNET|
-|13|27.147.152.52|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|14|147.161.162.48|10000|South Africa|Johannesburg|Zscaler JNB3|
-|15|112.211.84.86|8585|Philippines|Angeles City|Philippine Long Distance Telephone Co.|
-|16|49.145.53.217|5050|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|17|183.88.231.188|34599|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|18|112.204.185.125|3128|Philippines|Pasig|Philippine Long Distance Telephone Co.|
-|19|122.2.122.10|3128|Philippines|General Trias|Philippine Long Distance Telephone Co.|
+|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|10|202.146.230.102|8080|Indonesia|Jagirsidosermo|PT Centrin Utama|
+|11|119.94.185.43|8082|Philippines|Marilao|Philippine Long Distance Telephone Co.|
+|12|182.53.202.220|80|Thailand|Chiang Mai|TOT Public Company Limited|
+|13|38.103.250.204|8080|Indonesia|Kudus|PT Erajaya Telco Indonesia / Eratel /Eratelindo|
+|14|34.43.46.91|443|United States|Mountain View|Google LLC|
+|15|103.156.16.237|8090|Indonesia|Maribaya|RSTNET|
+|16|147.161.162.48|10000|South Africa|Johannesburg|Zscaler JNB3|
+|17|49.145.53.217|5050|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|18|45.70.52.248|8080|Brazil|São João de Meriti|NC BRASIL TELECOM E SERVICOS LTDA- ME|
+|19|36.92.140.113|80|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
 |20|147.161.162.48|10000|South Africa|Johannesburg|Zscaler JNB3|
 
 
