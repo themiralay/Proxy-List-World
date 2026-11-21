@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|442|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|442|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|442|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|2|103.179.84.185|8089|Indonesia|Boyolali|PT CYB Media Group|
-|3|38.226.242.61|8080|Indonesia|Jakarta|PT Putra Garsel Interkoneksi|
-|4|171.252.33.109|3128|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|5|103.178.235.176|9999|Vietnam|Ho Chi Minh City|VPSTTT|
-|6|123.176.126.95|8080|Indonesia|Perbaungan|FIBERSTAR|
-|7|147.161.246.34|10221|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|8|46.221.37.145|8080|Turkey|Beyoğlu|Borusan Telekom|
-|9|172.85.99.167|16062|United States|Atlanta|Host Wagon LLC|
-|10|160.19.18.121|8080|Indonesia|Bandung|PT Indo Telemedia Solusi|
-|11|122.3.87.41|8080|Philippines|Tanza|Philippine Long Distance Telephone Co.|
-|12|188.132.150.204|8080|Turkey|Istanbul|High Speed For Internet Services L.L.C|
-|13|115.73.178.252|3128|Vietnam|Ho Chi Minh City|VIETELmetro|
-|14|138.121.113.12|8787|Argentina|Formosa|Refsa Telecomunicaciones|
-|15|189.51.168.30|999|Mexico|Hunucmá|Comunicación por Fibra SA de CV|
-|16|36.67.194.162|8042|Indonesia|West Jakarta|PT. Telekomunikasi Indonesia|
-|17|38.19.43.106|999|Colombia|Soacha|Super Redes S.A.S|
-|18|47.254.213.60|1081|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
-|19|47.254.213.60|1081|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
-|20|161.248.168.28|8082|Philippines|Bacolod City|GNET TECHNOLOGIES OPC main|
+|1|134.199.160.93|8888|Australia|Sydney|DigitalOcean, LLC|
+|2|203.190.113.93|8079|Indonesia|Jakarta|PT Union Routelink Communication|
+|3|103.69.106.78|8181|Indonesia|Serang|PT. Berkat Dunia Digital Cikande|
+|4|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|5|111.118.149.40|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|6|154.17.8.103|1680|United States|Los Angeles|DMIT Cloud Services|
+|7|124.105.20.100|8082|Philippines|Pasay|Philippine Long Distance Telephone Co.|
+|8|178.134.100.66|80|Georgia|Tbilisi|JSC "Silknet"|
+|9|103.178.235.176|9999|Vietnam|Ho Chi Minh City|VPSTTT|
+|10|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
+|11|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
+|12|147.161.246.34|10221|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|13|45.175.39.95|999|Venezuela|Caracas|TCA SERVICES C.A.|
+|14|189.51.168.30|999|Mexico|Hunucmá|Comunicación por Fibra SA de CV|
+|15|185.94.164.182|8080|The Netherlands|Amsterdam|First Server Limited|
+|16|103.97.141.40|8080|Indonesia|Cianjur|PT Jembatan Data Pangrango|
+|17|38.137.232.134|999|Venezuela|Caracas|CORPORACIÓN GALA IT C.A|
+|18|206.135.63.146|999|Mexico|Huamantla|Ientc S De RL De CV|
+|19|115.73.178.252|3128|Vietnam|Ho Chi Minh City|VIETELmetro|
+|20|157.15.62.44|8080|Indonesia|Malang|AMAN ISP Customer Malang|
 
 
 
