@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|493|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|493|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|493|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|615|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|615|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|615|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.191.98.117|8080|Philippines|Makati City|Globe Telecom|
+|1|126.209.3.199|5050|Philippines|Marawi City|Infinivan Incorporated|
 |2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |3|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
 |4|103.156.249.19|8181|Indonesia|Gambor Krajan|Trans Media Telekomunikasi|
 |5|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|6|144.124.251.24|10771|The Netherlands|Amsterdam|Servers Tech Fzco|
-|7|144.124.251.24|10771|The Netherlands|Amsterdam|Servers Tech Fzco|
-|8|144.124.251.24|10771|The Netherlands|Amsterdam|Servers Tech Fzco|
-|9|144.124.251.24|10771|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|144.124.251.24|10771|The Netherlands|Amsterdam|Servers Tech Fzco|
-|11|144.124.251.24|10771|The Netherlands|Amsterdam|Servers Tech Fzco|
-|12|144.124.251.24|10771|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|144.124.251.24|10771|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|43.161.254.16|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|15|144.124.251.24|10771|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|219.94.75.2|8080|Malaysia|Seremban|TMnet|
-|17|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
-|18|103.247.23.244|1111|Indonesia|Banyumas|PT wifian Solution|
-|19|187.190.127.212|8081|Mexico|Banus Vallarta|TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.|
-|20|126.209.17.233|8080|Philippines|Manila|Infinivan Incorporated|
+|6|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
+|7|43.161.254.16|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|8|144.124.251.24|10123|The Netherlands|Amsterdam|Servers Tech Fzco|
+|9|144.124.251.24|10123|The Netherlands|Amsterdam|Servers Tech Fzco|
+|10|144.124.251.24|10123|The Netherlands|Amsterdam|Servers Tech Fzco|
+|11|144.124.251.24|10123|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|144.124.251.24|10123|The Netherlands|Amsterdam|Servers Tech Fzco|
+|13|144.124.251.24|10123|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|45.198.10.106|8080|Indonesia|Jatiroto|PT Jaringan Lintas Artha|
+|15|1.20.101.25|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
+|16|144.124.251.24|10123|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|144.124.251.24|10123|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
+|19|190.61.44.91|999|Colombia|El Copey|Ufinet Panama S.A.|
+|20|219.94.75.2|8080|Malaysia|Seremban|TMnet|
 
 
 
