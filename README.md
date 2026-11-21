@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|387|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|387|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|387|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|37.187.109.70|10111|France|Roubaix|OVH SAS|
-|3|34.43.46.91|80|United States|Mountain View|Google LLC|
-|4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|5|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|2|34.43.46.91|80|United States|Mountain View|Google LLC|
+|3|181.191.227.65|999|Venezuela|Puerto Cabello|MANGO NETWORK, C. A. MANGONET, C. A|
+|4|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|5|190.110.35.60|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
 |6|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|7|49.156.44.166|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|8|181.188.238.196|999|Ecuador|Quito|Otecel S.A|
-|9|161.22.33.121|999|Venezuela|Caracas|THUNDERNET, C.A|
-|10|94.183.206.215|8080|The Netherlands|Amsterdam|TurtleGuard|
-|11|217.154.195.87|8888|Germany|Berlin|IONOS SE|
-|12|113.171.152.72|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|8|94.183.206.215|8080|The Netherlands|Amsterdam|TurtleGuard|
+|9|122.3.87.41|8080|Philippines|Tanza|Philippine Long Distance Telephone Co.|
+|10|206.135.11.170|8080|Mexico|Querétaro City|Ientc S De RL De CV|
+|11|79.98.32.85|8080|Turkey|Adana|High Speed For Internet Services L.L.C|
+|12|192.147.114.171|8080|Indonesia|Surabaya|PT Global Asta Systelematika|
 |13|217.154.195.87|8888|Germany|Berlin|IONOS SE|
-|14|157.15.0.144|8112|Indonesia|Ngawi|Gopalnet|
-|15|103.106.112.166|1234|Indonesia|Labuhanmaringgai|SMSNET|
-|16|91.210.117.184|8080|Ukraine|Odesa|Miratel Ltd|
-|17|125.25.53.180|8080|Thailand|Bangkok|TOT Public Company Limited|
+|14|122.3.127.68|8080|Philippines|Pasig|Philippine Long Distance Telephone Co.|
+|15|147.161.246.34|10802|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|16|147.161.246.34|10802|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|17|147.161.246.34|10802|Switzerland|Zurich|Zscaler Switzerland GmbH|
 |18|147.161.246.34|10802|Switzerland|Zurich|Zscaler Switzerland GmbH|
 |19|147.161.246.34|10802|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|20|38.76.138.46|999|Venezuela|Caracas|CORPORACIÓN GALA IT C.A|
+|20|147.161.246.34|10802|Switzerland|Zurich|Zscaler Switzerland GmbH|
 
 
 
