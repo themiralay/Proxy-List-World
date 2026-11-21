@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|597|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|597|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|597|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|654|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|654|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|654|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.27.177.187|808|Hong Kong|Mong Kok|HONG KONG KOWLOON TELECOMMUNICATIONS CO., LIMITED|
+|1|38.58.117.72|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
 |2|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |3|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|4|114.130.153.46|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|5|103.68.215.93|8080|Indonesia|Sepatan|PT Media Grasi Internet|
+|4|27.74.247.173|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|5|161.22.33.213|999|Venezuela|Caracas|THUNDERNET, C.A|
 |6|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|7|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|8|139.198.113.42|10023|Hong Kong|Hong Kong|Yunify Technologies Inc|
-|9|180.191.229.193|5050|Philippines|Talisay City|Globe Telecom|
-|10|103.132.54.42|8080|Indonesia|Taman|PT. ADEAKSA INDO JAYATAMA|
-|11|89.46.131.79|10000|The Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
-|12|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
-|13|77.42.95.221|8888|Finland|Helsinki|Hetzner Online GmbH|
-|14|210.213.119.28|3128|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|15|181.37.240.89|999|Dominican Republic|Santo Domingo|Altice Dominicana S.A.|
-|16|206.135.47.110|999|Mexico|Puebla City|Ientc S De RL De CV|
-|17|210.61.216.63|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|18|110.34.1.178|7777|Nepal|Kathmandu|Subisu Cablenet|
-|19|115.178.50.125|8080|Indonesia|Pameungpeuk|NOC SIMAYA|
-|20|147.161.246.34|10023|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|7|148.222.136.64|999|Dominican Republic|Boca Chica|BITNET DOMINICANA, S.R.L.|
+|8|182.253.69.95|8080|Indonesia|Ciputat|BIZNET|
+|9|170.244.91.1|999|Venezuela|Caracas|WELLCOMM TECNOLOGÍA, C.A.|
+|10|103.18.205.162|8080|Bangladesh|Dhaka|Circle Network|
+|11|79.98.32.73|8080|Turkey|Adana|High Speed For Internet Services L.L.C|
+|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|13|177.234.217.235|999|Ecuador|Quito|Ufinet Panama S.A.|
+|14|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
+|15|160.191.173.53|8080|Indonesia|Salatiga|PT Citra Angkasa Lintas Media|
+|16|177.93.33.76|999|Colombia|Consacá|TV AZTECA SUCURSAL COLOMBIA|
+|17|124.105.79.237|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|18|181.78.195.137|999|Ecuador|Naranjito|Ufinet Panama S.A.|
+|19|36.213.79.159|1080|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
+|20|203.76.220.121|4840|Bangladesh|Nawāb Char|BUSINESSNETWORK|
 
 
 
