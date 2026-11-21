@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|972|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|972|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|972|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|920|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|920|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|920|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|74.214.254.17|8080|United States|Price|Emery Telcom|
-|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|3|107.173.125.200|443|United States|Dallas|HostPapa|
-|4|34.43.46.91|443|United States|Mountain View|Google LLC|
-|5|112.211.39.73|3128|Philippines|Pasay|Philippine Long Distance Telephone Co.|
-|6|1.4.141.80|80|Thailand|Khon Kaen|TOT Public Company Limited|
-|7|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|8|38.226.242.61|8080|Indonesia|Jakarta|PT Putra Garsel Interkoneksi|
-|9|152.0.60.100|999|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A.|
-|10|216.28.154.10|999|Colombia|Cali|Cogent Communications|
-|11|125.25.53.180|8080|Thailand|Bangkok|TOT Public Company Limited|
-|12|1.10.248.240|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|13|200.236.76.219|999|Mexico|Cosoleacaque|Alestra, S. de R.L. de C.V.|
-|14|79.106.44.66|2095|Albania|Tirana|ONE ALBANIA SH.A.|
-|15|103.112.136.77|8080|Indonesia|Serang|PT Pisangmas Rayatama Perkasa|
-|16|181.78.25.252|999|Colombia|Bogotá|Ufinet Panama S.A.|
-|17|82.41.42.140|8181|Singapore|Singapore|PT Perwira Media Solusi|
-|18|163.223.150.31|8080|Indonesia|Sragen|PT Microcyber Data Indonesia|
-|19|58.69.61.79|8082|Philippines|Las Piñas|Philippine Long Distance Telephone Co.|
-|20|112.203.116.237|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|2|122.3.77.180|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|3|144.124.251.24|10804|The Netherlands|Amsterdam|Servers Tech Fzco|
+|4|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|5|182.48.82.33|8090|Bangladesh|Rajshahi|Corporate Office|
+|6|113.176.46.96|8080|Vietnam|Hanoi|VNPT|
+|7|103.167.30.238|64999|Indonesia|Bekasi|PT iForte Global Internet|
+|8|217.154.195.87|8888|Germany|Berlin|IONOS SE|
+|9|38.58.117.201|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
+|10|58.69.61.79|8082|Philippines|Las Piñas|Philippine Long Distance Telephone Co.|
+|11|112.203.116.237|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|12|163.223.150.31|8080|Indonesia|Sragen|PT Microcyber Data Indonesia|
+|13|49.48.66.110|8080|Thailand|Nakhon Ratchasima|Advanced Wireless Network Company Limited|
+|14|36.92.61.75|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|15|179.63.6.167|999|Peru|Lima|RED AMONES S.A.C.|
+|16|201.4.68.243|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
+|17|38.7.22.165|999|Mexico|Morelia|Internet Telefonia Y TV De Michoacan SA De CV|
+|18|110.93.227.229|8080|Pakistan|Islamabad|TW RO|
+|19|38.211.24.114|8080|Indonesia|Bandung|Cogent Communications|
+|20|41.33.203.117|1981|Egypt|Ismailia|TE Data|
 
 
 
