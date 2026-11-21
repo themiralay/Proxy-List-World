@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4641** proxies at the latest update. Usable proxies are below.
+> Scraper found **4483** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|457|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|428|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|574|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|445|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2910|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|13.231.154.29|80|Japan|Tokyo|Amazon.com, Inc.|
+|1|47.79.90.218|8080|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|3|47.254.213.60|1082|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
-|4|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|5|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|6|216.152.152.44|80|United States|Los Angeles|GTHost|
-|7|47.238.203.220|6666|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|3|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|5|202.165.92.206|8080|Myanmar|Yangon|Telecom International Myanmar Company Limited|
+|6|101.96.122.196|8080|Vietnam|Hanoi|NetNam Corporation|
+|7|14.172.88.126|8080|Vietnam|Hanoi|VNPT-VNNIC|
 |8|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
 |9|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
 |10|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|11|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|12|148.224.7.82|999|Mexico|Uruapan|Jorge Luis Torres Fernandez|
-|13|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|14|217.154.195.87|8888|Germany|Berlin|IONOS SE|
-|15|61.130.176.21|20200|China|Lishui|Chinanet|
-|16|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|17|222.127.76.123|8082|Philippines|Lahug|INNOVE|
-|18|47.79.90.218|8080|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|19|47.254.213.60|1082|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
-|20|202.165.92.206|8080|Myanmar|Yangon|Telecom International Myanmar Company Limited|
+|11|125.25.167.132|80|Thailand|Bangkok|TOT Public Company Limited|
+|12|192.232.48.1|8181|Indonesia|Pringsewu|PT Axindo Infinitas Network|
+|13|129.222.204.27|10000|Nigeria|Lagos|Space Exploration Technologies Corporation|
+|14|89.251.21.165|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
+|15|125.25.167.202|80|Thailand|Bangkok|TOT Public Company Limited|
+|16|190.61.37.142|999|Honduras|La Entrada|Ufinet Panama S.A.|
+|17|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|18|38.49.138.197|999|Mexico|Emiliano Zapata|IENTC S de RL de CV|
+|19|38.183.184.249|999|Venezuela|Santa Teresa del Tuy|OIT SERVICIO DE DATOS, C.A.|
+|20|47.77.214.110|80|United States|Minkler|Alibaba.com LLC|
 
 
 
