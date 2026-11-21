@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|850|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|850|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|850|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1023|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1023|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1023|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.203.223.38|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|2|163.227.146.38|8080|Indonesia|Cianjur|PT EXA TELEKOMUNIKASI NUSANTARA|
-|3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|4|157.15.212.38|8080|Indonesia|Pagerwojo|PT Griya Akses Teknologi|
-|5|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|6|103.215.187.67|8080|Indonesia|South Jakarta|PT Jaringan Inti Exadata|
-|7|171.252.33.109|3128|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|8|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|9|183.88.231.188|34599|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|10|104.194.146.9|80|United Kingdom|City of London|FranTech Solutions|
-|11|218.207.164.174|7890|China|Guangzhou|China Mobile communications corporation|
-|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|13|203.190.113.93|8079|Indonesia|Jakarta|PT Union Routelink Communication|
-|14|206.135.11.170|8080|Mexico|Querétaro City|Ientc S De RL De CV|
-|15|1.20.178.251|80|Thailand|Bangkok|TOT Public Company Limited|
-|16|217.154.195.87|8888|Germany|Berlin|IONOS SE|
-|17|177.234.192.15|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|18|185.94.164.182|8080|The Netherlands|Amsterdam|First Server Limited|
-|19|161.22.33.185|999|Venezuela|Caracas|THUNDERNET, C.A|
-|20|1.10.248.239|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|2|38.226.243.129|8080|Indonesia|Kubang|PT Putra Garsel Interkoneksi|
+|3|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|4|180.194.222.21|8000|Philippines|Zamboanga City|Philippine Long Distance Telephone Co.|
+|5|146.190.60.147|8020|United States|Santa Clara|DigitalOcean, LLC|
+|6|203.201.190.36|8080|Indonesia|Tulang Bawang Regency|PT WIRA HASTA JITU|
+|7|104.194.146.9|80|United Kingdom|City of London|FranTech Solutions|
+|8|9.154.243.10|8080|Indonesia|Surabaya|PT Mora Telematika Indonesia TBK|
+|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|10|112.204.185.125|3128|Philippines|Pasig|Philippine Long Distance Telephone Co.|
+|11|38.7.18.119|999|Mexico|Morelia|Internet Telefonia Y TV De Michoacan SA De CV|
+|12|208.67.28.19|58090|United States|Lac du Flambeau|SonicNet Inc.|
+|13|165.99.121.10|7777|Indonesia|Teluknaga|PT ANUGRAH GLOBALINDO SOLUSI|
+|14|103.179.117.230|8080|Indonesia|Cikampek|PT Pratama Asia Globalindo|
+|15|180.180.217.52|80|Thailand|Chon Buri|TOT Public Company Limited|
+|16|36.89.82.54|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|17|38.191.149.221|999|Mexico|Santa Cruz de Rosales|GRIDNED|
+|18|38.211.24.26|8091|Indonesia|Bandung|PT Putra Garsel Interkoneksi|
+|19|101.255.32.41|8080|Indonesia|East Jakarta|PT Remala Abadi|
+|20|178.134.100.66|8080|Georgia|Tbilisi|JSC "Silknet"|
 
 
 
