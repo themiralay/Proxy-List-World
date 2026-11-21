@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5850** proxies at the latest update. Usable proxies are below.
+> Scraper found **5574** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|646|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|646|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|646|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|625|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|625|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|625|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1253|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|977|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1037|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2860|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.211.39.73|3128|Philippines|Pasay|Philippine Long Distance Telephone Co.|
-|2|113.176.46.96|8080|Vietnam|Hanoi|VNPT|
-|3|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|4|115.73.178.252|3128|Vietnam|Ho Chi Minh City|VIETELmetro|
-|5|36.213.79.159|1081|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
-|6|101.255.151.89|8181|Indonesia|Central Jakarta|PT Remala Abadi|
-|7|112.207.166.195|8082|Philippines|San Jose del Monte|Philippine Long Distance Telephone Co.|
-|8|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
-|9|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
-|10|36.213.79.159|1081|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
-|11|195.181.40.34|8080|Iran|Babol|Iran Telecommunication Company PJS|
-|12|38.7.22.165|999|Mexico|Morelia|Internet Telefonia Y TV De Michoacan SA De CV|
-|13|61.130.176.21|21409|China|Lishui|Chinanet|
-|14|36.64.241.218|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|15|182.52.136.39|80|Thailand|Bangkok|TOT Public Company Limited|
-|16|103.185.48.50|8080|Indonesia|Ciputat|PT Bittara Interkoneksi Nusantara|
-|17|14.170.154.193|19132|Vietnam|Thai Nguyen|VNPT-VNNIC|
-|18|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|19|126.209.13.13|8087|Philippines|Manila|Infinivan Incorporated|
-|20|14.224.181.172|8080|Vietnam|Hanoi|VNPT|
+|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|2|180.191.234.124|8080|Philippines|Marilao|Globe Telecom|
+|3|180.180.156.69|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|4|45.195.91.59|8080|India|Noida|Real Time Data Services Private Limited|
+|5|34.43.46.91|80|United States|Mountain View|Google LLC|
+|6|103.178.235.176|9999|Vietnam|Ho Chi Minh City|VPSTTT|
+|7|112.211.84.86|8585|Philippines|Angeles City|Philippine Long Distance Telephone Co.|
+|8|1.10.248.237|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|9|210.213.119.28|3128|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|10|122.3.127.68|8080|Philippines|Pasig|Philippine Long Distance Telephone Co.|
+|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|13|125.25.167.132|80|Thailand|Bangkok|TOT Public Company Limited|
+|14|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
+|15|148.224.12.147|999|Mexico|Uruapan|Jorge Luis Torres Fernandez|
+|16|112.211.39.73|3128|Philippines|Pasay|Philippine Long Distance Telephone Co.|
+|17|103.234.19.238|8080|Indonesia|Tangerang|PT Widjaja Piranti Teknologi|
+|18|103.24.215.165|8080|Indonesia|Weleri|PT. ADAU PUTRA NETWORK|
+|19|119.93.199.43|3128|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|20|61.130.176.21|21409|China|Lishui|Chinanet|
 
 
 
