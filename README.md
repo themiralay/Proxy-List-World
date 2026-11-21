@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|395|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|395|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|395|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.167.209.118|10081|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|47.254.213.60|1081|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
-|3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|4|47.254.213.60|1081|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
-|5|47.238.203.220|6666|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|6|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|7|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|8|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|9|122.3.87.41|8080|Philippines|Tanza|Philippine Long Distance Telephone Co.|
-|10|101.51.121.149|80|Thailand|Mueang Nonthaburi|TOT Public Company Limited|
-|11|103.134.222.170|8888|Indonesia|Boyolali|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
-|12|114.69.225.6|83|India|New Delhi|World Phone Internet Service Pvt. Ltd.|
-|13|181.232.190.121|999|Dominican Republic|Santo Domingo Este|Airtime Technology SRL|
-|14|122.52.110.142|5050|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|15|203.190.53.177|8080|Indonesia|West Jakarta|PT POWER TELECOM|
-|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|17|103.66.47.10|8080|Indonesia|Bogor|PT Iconmedia Lintas Nusantara|
-|18|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|19|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|20|178.250.88.50|8080|Türkiye|Istanbul|Ramtek Telekom|
+|1|47.254.213.60|1081|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
+|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|3|47.254.213.60|1081|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
+|4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|5|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|6|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|7|1.20.101.25|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
+|8|103.193.144.91|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
+|9|103.102.14.48|1111|Indonesia|Rembang|FISNET|
+|10|124.106.223.156|9999|Philippines|Paranaque City|Philippine Long Distance Telephone Co.|
+|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|12|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|13|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|14|206.135.47.110|999|Mexico|Puebla City|Ientc S De RL De CV|
+|15|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|16|185.196.182.29|8080|Albania|Krume|shqiponjaisp.al LLC|
+|17|183.88.231.188|34599|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|18|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|19|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|20|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
 
 
 
