@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|638|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|638|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|638|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|765|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|765|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|765|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|58.69.124.137|8080|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|2|51.79.142.230|38414|Singapore|Singapore|OVH SAS|
-|3|134.199.160.93|8888|Australia|Sydney|DigitalOcean, LLC|
-|4|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|5|139.135.181.43|8082|Philippines|Tuguegarao City|ComClark Network & Technology Corp|
-|6|34.43.46.91|80|United States|Mountain View|Google LLC|
-|7|172.235.157.127|3128|United States|Miami|Akamai Technologies, Inc.|
-|8|113.160.155.121|19132|Vietnam|Từ Sơn|VietNam Post and Telecom Corporation|
-|9|216.125.18.67|3128|United States|Brookfield|Illinois Century Network|
-|10|36.67.114.94|8187|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
-|11|112.203.35.174|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|12|182.52.136.70|8080|Thailand|Bangkok|TOT Public Company Limited|
-|13|180.180.156.111|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|14|1.10.248.235|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|15|217.154.195.87|8888|Germany|Berlin|IONOS SE|
-|16|216.152.152.44|80|United States|Los Angeles|GTHost|
-|17|38.226.243.191|8080|Indonesia|Randudongkal|PT Putra Garsel Interkoneksi|
-|18|180.191.98.117|8080|Philippines|Makati City|Globe Telecom|
-|19|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
-|20|69.75.140.157|8080|United States|Los Angeles|Spectrum|
+|2|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|3|45.195.91.59|8080|India|Noida|Real Time Data Services Private Limited|
+|4|182.52.136.62|80|Thailand|Bangkok|TOT Public Company Limited|
+|5|172.235.157.127|3128|United States|Miami|Akamai Technologies, Inc.|
+|6|36.67.114.94|8187|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|7|34.105.252.3|3128|United Kingdom|London|Google LLC|
+|8|47.238.203.220|6666|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|9|38.226.243.129|8080|Indonesia|Kubang|PT Putra Garsel Interkoneksi|
+|10|181.119.185.194|999|Ecuador|Quito|Ufinet Panama S.A.|
+|11|125.25.167.187|80|Thailand|Bangkok|TOT Public Company Limited|
+|12|121.101.129.103|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|13|124.217.109.153|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|14|1.20.101.25|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
+|15|182.52.113.109|80|Thailand|Bangkok|TOT Public Company Limited|
+|16|1.4.141.40|8080|Thailand|Khon Kaen|TOT Public Company Limited|
+|17|45.177.147.119|80|Argentina|General Rodriguez|Netlatin S.R.L.|
+|18|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
+|19|103.251.153.75|8282|Indonesia|Magetan|Lintas Data Prima, PT|
+|20|187.249.112.221|999|Mexico|Villa de Zaachila|Transtelco Inc|
 
 
 
