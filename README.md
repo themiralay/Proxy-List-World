@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|805|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|805|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|805|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|646|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|646|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|646|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|151.243.153.157|8118|United States|Seattle|Black Apple|
-|2|112.208.165.218|8081|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|3|167.99.8.113|8006|United States|North Bergen|DigitalOcean, LLC|
-|4|146.190.60.147|8011|United States|Santa Clara|DigitalOcean, LLC|
-|5|34.43.46.91|443|United States|Mountain View|Google LLC|
-|6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|7|180.190.184.233|8082|Philippines|Lahug|Globe Telecom|
-|8|164.90.182.187|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|113.176.46.96|8080|Vietnam|Hanoi|VNPT|
-|10|187.188.171.231|10101|Mexico|Puebla City|TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.|
-|11|43.229.79.231|8080|Thailand|Ron Phibun|Readyidc Company Limited|
-|12|14.224.181.172|8080|Vietnam|Hanoi|VNPT|
-|13|103.189.138.254|8080|Indonesia|Bandung|PT. Nexa Media Pratama|
-|14|103.112.136.77|8080|Indonesia|Serang|PT Pisangmas Rayatama Perkasa|
+|1|202.138.242.31|9090|Indonesia|Bandung|PT Melvar Lintasnusa|
+|2|119.93.199.43|3128|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|3|146.190.60.147|8011|United States|Santa Clara|DigitalOcean, LLC|
+|4|101.255.151.89|8181|Indonesia|Central Jakarta|PT Remala Abadi|
+|5|181.232.190.121|999|Dominican Republic|Santo Domingo Este|Airtime Technology SRL|
+|6|125.25.53.180|8080|Thailand|Bangkok|TOT Public Company Limited|
+|7|161.49.91.13|1337|Philippines|Pasig|Converge ICT Solution Inc|
+|8|139.5.75.83|8080|Nepal|Patan|WLINK|
+|9|103.214.189.41|80|India|Varanasi|Ikon Broadband Private Limited|
+|10|103.136.250.154|8080|Taiwan|Taipei|Kaopu Cloud HK Limited|
+|11|103.155.196.48|8181|Indonesia|Sukabumi|JEMBATANDATA|
+|12|58.136.169.184|8080|Thailand|Bangkok|AIS-Fibre|
+|13|1.20.178.212|80|Thailand|Bangkok|TOT Public Company Limited|
+|14|188.132.150.249|8080|Turkey|Istanbul|High Speed For Internet Services L.L.C|
 |15|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
-|16|119.93.87.65|8080|Philippines|General Trias|Philippine Long Distance Telephone Co.|
+|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 |17|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
-|18|185.153.231.35|3129|Turkey|Aksaray|SAHINNETWORK|
-|19|74.214.254.17|8080|United States|Price|Emery Telcom|
-|20|175.158.40.224|1616|Indonesia|North Jakarta|Indonesia Network Information Center|
+|18|203.150.128.110|8080|Thailand|Bangkok|Internet Thailand Company Ltd|
+|19|103.66.12.225|8080|India|Gopālasamudram|Alacriy Net System Service Private Limited|
+|20|24.173.217.114|55443|United States|Balch Springs|Spectrum|
 
 
 
