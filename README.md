@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|869|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|869|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|869|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|780|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|780|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|780|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|151.243.153.157|8118|United States|Seattle|Black Apple|
-|2|50.238.106.26|3128|United States|Atlanta|Comcast Cable Communications, LLC|
-|3|112.204.117.49|8082|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|4|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|5|134.199.160.93|8888|Australia|Sydney|DigitalOcean, LLC|
-|6|160.19.146.227|2022|Indonesia|Tasikmalaya|PT Taska Sarana Nusantara|
-|7|36.64.54.98|8080|Indonesia|Tangerang|PT. Telekomunikasi Indonesia|
-|8|1.2.248.34|80|Thailand|Bang Khen|TOT Public Company Limited|
-|9|144.124.251.24|10804|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|180.148.25.42|8181|Indonesia|Ngamprah|PT GIGA NETWORK INDONESIA|
-|11|160.19.16.54|8181|Indonesia|Tanjungbalai|PT Media Balai Nusa|
-|12|182.253.21.26|46977|Indonesia|West Jakarta|Biznet Networks|
-|13|49.146.233.166|8081|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|14|45.230.170.30|999|Venezuela|Caracas|Soluciones DCN Network C.A|
-|15|103.193.144.251|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|16|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
-|17|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
-|18|34.43.46.91|443|United States|Mountain View|Google LLC|
-|19|184.70.113.34|3128|Canada|Calgary|Shaw Communications|
-|20|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
+|1|58.69.124.137|8080|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|2|45.194.3.108|8080|India|Noida|CtrlS|
+|3|103.132.54.42|8080|Indonesia|Taman|PT. ADEAKSA INDO JAYATAMA|
+|4|50.238.106.26|3128|United States|Atlanta|Comcast Cable Communications, LLC|
+|5|114.34.145.135|8080|Taiwan|Taoyuan|Chunghwa Telecom Co., Ltd.|
+|6|89.46.131.79|10000|The Netherlands|Amsterdam|Clodo Cloud Service CO. L.L.C|
+|7|182.52.136.41|80|Thailand|Bangkok|TOT Public Company Limited|
+|8|210.86.172.190|8080|Thailand|Prakanong|True Internet Corporation CO. Ltd.|
+|9|123.253.96.213|3214|Bangladesh|Dhaka|Md Rezaul Karim|
+|10|34.43.46.91|443|United States|Mountain View|Google LLC|
+|11|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
+|12|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
+|13|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
+|14|144.124.251.24|10804|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|103.251.153.75|8282|Indonesia|Magetan|Lintas Data Prima, PT|
+|16|206.135.47.106|999|Mexico|Puebla City|Ientc S De RL De CV|
+|17|58.254.153.146|17981|China|Shanwei|CNC Group CHINA169 Guangdong Province Network|
+|18|45.230.170.30|999|Venezuela|Caracas|Soluciones DCN Network C.A|
+|19|112.204.117.49|8082|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|20|47.84.179.9|3128|Singapore|Singapore|Alibaba.com LLC|
 
 
 
