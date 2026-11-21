@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|895|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|895|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|895|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|812|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|812|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|812|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|3|103.153.62.239|8085|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|4|103.175.241.14|8082|Indonesia|Purbalingga|LDP|
-|5|34.43.46.91|443|United States|Mountain View|Google LLC|
-|6|103.98.118.14|8080|Indonesia|Mamuju|TESOLCITYNET|
-|7|103.98.118.14|8080|Indonesia|Mamuju|TESOLCITYNET|
-|8|101.255.107.86|8085|Indonesia|West Jakarta|PT Remala Abadi|
-|9|104.194.146.9|80|United Kingdom|City of London|FranTech Solutions|
-|10|187.190.127.212|80|Mexico|Banus Vallarta|TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.|
-|11|171.4.65.201|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
-|12|189.195.138.234|9991|Mexico|Ahome|Mega Cable, S.A. de C.V.|
-|13|12.218.209.130|53281|United States|San Jose|AT&T Enterprises, LLC|
-|14|89.45.94.130|3128|Turkey|Umraniye|MUV Bilisim ve Telekomunikasyon Hizmetleri Ltd. Sti.|
-|15|187.251.224.167|80|Mexico|León|TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.|
-|16|34.42.192.244|8888|United States|Council Bluffs|Google LLC|
-|17|45.194.3.108|8080|India|Noida|CtrlS|
-|18|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|19|200.236.76.219|999|Mexico|Cosoleacaque|Alestra, S. de R.L. de C.V.|
-|20|147.161.246.34|12900|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|1|112.203.223.38|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|2|124.83.97.51|8081|Philippines|Marilao|Philippine Long Distance Telephone Co.|
+|3|163.227.146.38|8080|Indonesia|Cianjur|PT EXA TELEKOMUNIKASI NUSANTARA|
+|4|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|5|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|6|104.194.146.9|80|United Kingdom|City of London|FranTech Solutions|
+|7|34.43.46.91|443|United States|Mountain View|Google LLC|
+|8|103.184.180.2|1111|Indonesia|Magetan|Lintas Data Prima, PT|
+|9|103.147.77.212|8080|Indonesia|Madiun|TRIDATA|
+|10|200.236.76.219|999|Mexico|Cosoleacaque|Alestra, S. de R.L. de C.V.|
+|11|38.103.250.107|8080|Indonesia|Kudus|PT Erajaya Telco Indonesia / Eratel /Eratelindo|
+|12|180.180.217.52|80|Thailand|Chon Buri|TOT Public Company Limited|
+|13|1.10.248.236|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|14|180.180.156.74|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|15|103.124.226.80|3128|Bangladesh|Gazipur|Level3|
+|16|45.194.3.108|8080|India|Noida|CtrlS|
+|17|27.74.247.173|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|18|103.171.240.95|8090|Indonesia|Cikarang|PT Abs Multimedia Indonesia|
+|19|190.26.209.126|999|Colombia|Bogotá|ETB - Colombia|
+|20|171.252.33.109|3128|Vietnam|Ho Chi Minh City|Viettel Corporation|
 
 
 
