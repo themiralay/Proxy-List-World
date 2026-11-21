@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6006** proxies at the latest update. Usable proxies are below.
+> Scraper found **5850** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1207|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1253|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1239|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1037|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2860|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.138.242.31|9090|Indonesia|Bandung|PT Melvar Lintasnusa|
-|2|119.93.199.43|3128|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|3|146.190.60.147|8011|United States|Santa Clara|DigitalOcean, LLC|
-|4|101.255.151.89|8181|Indonesia|Central Jakarta|PT Remala Abadi|
-|5|181.232.190.121|999|Dominican Republic|Santo Domingo Este|Airtime Technology SRL|
-|6|125.25.53.180|8080|Thailand|Bangkok|TOT Public Company Limited|
-|7|161.49.91.13|1337|Philippines|Pasig|Converge ICT Solution Inc|
-|8|139.5.75.83|8080|Nepal|Patan|WLINK|
-|9|103.214.189.41|80|India|Varanasi|Ikon Broadband Private Limited|
-|10|103.136.250.154|8080|Taiwan|Taipei|Kaopu Cloud HK Limited|
-|11|103.155.196.48|8181|Indonesia|Sukabumi|JEMBATANDATA|
-|12|58.136.169.184|8080|Thailand|Bangkok|AIS-Fibre|
-|13|1.20.178.212|80|Thailand|Bangkok|TOT Public Company Limited|
-|14|188.132.150.249|8080|Turkey|Istanbul|High Speed For Internet Services L.L.C|
-|15|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
-|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|17|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
-|18|203.150.128.110|8080|Thailand|Bangkok|Internet Thailand Company Ltd|
-|19|103.66.12.225|8080|India|Gopālasamudram|Alacriy Net System Service Private Limited|
-|20|24.173.217.114|55443|United States|Balch Springs|Spectrum|
+|1|112.211.39.73|3128|Philippines|Pasay|Philippine Long Distance Telephone Co.|
+|2|113.176.46.96|8080|Vietnam|Hanoi|VNPT|
+|3|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|4|115.73.178.252|3128|Vietnam|Ho Chi Minh City|VIETELmetro|
+|5|36.213.79.159|1081|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
+|6|101.255.151.89|8181|Indonesia|Central Jakarta|PT Remala Abadi|
+|7|112.207.166.195|8082|Philippines|San Jose del Monte|Philippine Long Distance Telephone Co.|
+|8|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
+|9|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
+|10|36.213.79.159|1081|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
+|11|195.181.40.34|8080|Iran|Babol|Iran Telecommunication Company PJS|
+|12|38.7.22.165|999|Mexico|Morelia|Internet Telefonia Y TV De Michoacan SA De CV|
+|13|61.130.176.21|21409|China|Lishui|Chinanet|
+|14|36.64.241.218|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|15|182.52.136.39|80|Thailand|Bangkok|TOT Public Company Limited|
+|16|103.185.48.50|8080|Indonesia|Ciputat|PT Bittara Interkoneksi Nusantara|
+|17|14.170.154.193|19132|Vietnam|Thai Nguyen|VNPT-VNNIC|
+|18|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|19|126.209.13.13|8087|Philippines|Manila|Infinivan Incorporated|
+|20|14.224.181.172|8080|Vietnam|Hanoi|VNPT|
 
 
 
