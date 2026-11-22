@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|819|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|819|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|819|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|686|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|686|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|686|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.191.229.193|5050|Philippines|Talisay City|Globe Telecom|
-|2|104.194.146.9|80|United Kingdom|City of London|FranTech Solutions|
-|3|115.85.88.18|8080|Indonesia|Jakarta|Sudirman Central Business District|
-|4|180.191.231.19|8082|Philippines|Talisay City|Globe Telecom|
-|5|38.183.184.249|999|Venezuela|Santa Teresa del Tuy|OIT SERVICIO DE DATOS, C.A.|
-|6|112.203.122.32|7080|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|7|180.191.59.56|8081|Philippines|Tarlac City|Globe Telecom|
-|8|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|9|38.226.242.61|8080|Indonesia|Jakarta|PT Putra Garsel Interkoneksi|
-|10|222.127.54.16|8080|Philippines|Lahug|INNOVE|
-|11|157.20.220.51|8080|Indonesia|Parung|PT Nawasena Andalan Indonesia|
-|12|77.42.95.221|8888|Finland|Helsinki|Hetzner Online GmbH|
-|13|103.242.105.31|8080|Indonesia|Subang|PT Lintas Jaringan Nusantara|
-|14|43.240.83.70|8080|Indonesia|Cianjur|PT Indonesia Comnets Plus|
-|15|59.153.82.236|8080|Indonesia|North Jakarta|ATSINDO|
-|16|139.135.77.166|8085|Philippines|Tibigan|Dito Telecommunity Corp.|
-|17|195.181.40.34|8080|Iran|Babol|Iran Telecommunication Company PJS|
-|18|58.33.109.114|2021|China|Shanghai|China Telecom (Group)|
-|19|111.90.188.156|8080|Cambodia|Phnom Penh|MekongNet|
-|20|103.68.213.51|7789|Indonesia|Malang|PT Mars Data Telekomunikasi|
+|1|43.161.254.16|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|36.64.157.154|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|103.145.176.162|8080|Indonesia|South Tangerang|PT. Indonesia Comnets Plus|
+|5|38.103.250.204|8080|Indonesia|Kudus|PT Erajaya Telco Indonesia / Eratel /Eratelindo|
+|6|1.20.101.22|8080|Thailand|Phibun Mangsahan|TOT Public Company Limited|
+|7|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
+|8|45.198.20.252|8080|Indonesia|Bekasi|PT IKHLAS CIPTA TEKNOLOGI|
+|9|78.155.65.204|8080|Syria|Qadsayyā|ISP-TARASSUL|
+|10|1.4.141.42|80|Thailand|Khon Kaen|TOT Public Company Limited|
+|11|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
+|12|206.135.47.106|999|Mexico|Puebla City|Ientc S De RL De CV|
+|13|92.86.207.198|8080|Romania|Vaideeni|Romtelecom|
+|14|103.185.48.50|8080|Indonesia|Ciputat|PT Bittara Interkoneksi Nusantara|
+|15|112.208.165.218|8081|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|16|103.165.123.109|8080|Indonesia|Bogor|PT iForte Global Internet|
+|17|36.64.193.226|8080|Indonesia|West Bandung Regency|PT. Telekomunikasi Indonesia|
+|18|27.49.68.66|9999|Philippines|Cebu City|Converge ICT|
+|19|147.161.246.34|11129|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|20|89.43.134.39|8080|Syria|Aleppo|High Speed For Internet Services L.L.C|
 
 
 
