@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|444|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|444|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|444|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|401|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|401|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|401|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|163.47.25.50|8080|Indonesia|Purwakarta|PT STAR HOME INDONESIA|
-|3|38.58.117.201|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|4|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|167.99.8.113|8018|United States|North Bergen|DigitalOcean, LLC|
-|6|112.203.216.218|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|7|103.195.142.250|8180|Indonesia|Makassar|Universitas Hasanuddin|
-|8|34.43.46.91|80|United States|Mountain View|Google LLC|
-|9|160.22.198.28|8082|Indonesia|Terbanggi Besar|PT Ganesha Data Nusantara|
-|10|103.171.240.170|8090|Indonesia|Ciputat|PT Abs Multimedia Indonesia|
-|11|41.79.9.229|8080|Kenya|Nairobi|Frontier Optical Networks Ltd|
-|12|173.205.202.225|8181|United States|Kirklin|Swayzee Telephone Company, Inc.|
-|13|195.62.50.208|8080|Turkey|Ankara|High Speed For Internet Services L.L.C|
-|14|188.246.186.54|8080|Russia|Moscow|OOO WestCall Ltd|
-|15|116.204.166.205|8080|Turkey|Hıdırbey|High Speed For Internet Services L.L.C|
-|16|103.4.95.90|8080|Pakistan|Islamabad|HEC|
-|17|103.171.55.34|82|India|Pune|Gigaline Teleservices Opc Private Limited|
-|18|91.204.190.140|81|Armenia|Yerevan|BioNet LLC|
-|19|103.156.75.243|3125|Indonesia|Gianyar|PT Trika Global Media|
-|20|208.67.28.28|58090|United States|Lac du Flambeau|SonicNet Inc.|
+|2|167.99.8.113|8018|United States|North Bergen|DigitalOcean, LLC|
+|3|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|115.85.88.18|8080|Indonesia|Jakarta|Sudirman Central Business District|
+|5|219.148.171.178|9445|China|Hechi|Chinanet|
+|6|34.43.46.91|80|United States|Mountain View|Google LLC|
+|7|38.51.233.102|999|Colombia|Pasto|SP SISTEMAS PALACIOS|
+|8|154.58.138.231|8088|Indonesia|Purbalingga|Cogent Communications|
+|9|103.156.75.243|3125|Indonesia|Gianyar|PT Trika Global Media|
+|10|177.234.217.235|999|Ecuador|Quito|Ufinet Panama S.A.|
+|11|103.66.12.225|8080|India|Gopālasamudram|Alacriy Net System Service Private Limited|
+|12|154.59.207.8|999|Dominican Republic|Santo Domingo Este|Cogent Communications|
+|13|160.25.222.205|8181|Indonesia|Kurungannyawa|PT Telemedia Prima Nusantara|
+|14|47.77.214.110|80|United States|Minkler|Alibaba.com LLC|
+|15|177.234.217.84|999|Ecuador|Quito|Ufinet Panama S.A.|
+|16|103.76.108.158|8090|Indonesia|Kalipuro|PT Mahawira Nusantara Grup|
+|17|116.80.49.179|6000|Japan|Shinjuku|InfoSphere|
+|18|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|19|146.190.60.147|8001|United States|Santa Clara|DigitalOcean, LLC|
+|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 
 
 
