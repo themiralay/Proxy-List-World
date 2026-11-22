@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4744** proxies at the latest update. Usable proxies are below.
+> Scraper found **4807** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|433|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|433|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|433|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|447|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|447|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|447|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|663|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|726|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|698|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2683|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.248.84.131|8080|Vietnam|Hanoi|VNPT|
-|2|202.138.242.31|9090|Indonesia|Bandung|PT Melvar Lintasnusa|
-|3|45.178.74.54|999|Mexico|Solidaridad|Abix Telecomunicaciones S.a. De C.V.|
-|4|36.213.79.159|1081|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
-|5|38.224.32.188|999|Venezuela|Valera|SPEEDNET, C.A|
-|6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|7|203.9.195.4|9000|Philippines|Zamboanga City|Go Wiser Corporation|
-|8|36.64.241.218|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|9|148.224.57.58|999|Mexico|Tejupilco de Hidalgo|Rafael Rigoberto Lopez Orozco|
-|10|45.194.3.108|8080|India|Noida|CtrlS|
-|11|191.5.126.28|8080|Brazil|Olímpia|Via Fibra Internet Banda Larga EIRELI|
-|12|62.60.186.155|8080|Sweden|Stockholm|Aeza Group LLC|
-|13|181.119.224.25|8080|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|14|217.76.46.230|8080|Russia|Moscow|OOO NIIR-RadioNet|
-|15|181.204.81.179|999|Colombia|Pereira|EPM Telecomunicaciones S.A. E.S.P.|
-|16|217.154.195.87|8888|Germany|Berlin|IONOS SE|
-|17|165.0.136.30|8080|South Africa|Cape Town|RSAWEB (PTY) LTD|
-|18|177.234.217.84|999|Ecuador|Quito|Ufinet Panama S.A.|
-|19|45.198.20.246|8080|Indonesia|Bekasi|PT IKHLAS CIPTA TEKNOLOGI|
-|20|38.211.76.145|999|Colombia|Florencia|Cogent Communications|
+|1|146.190.60.147|8016|United States|Santa Clara|DigitalOcean, LLC|
+|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|3|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|4|45.195.105.20|8080|India|Mumbai|Real Time Data Services Private Limited|
+|5|45.194.3.108|8080|India|Noida|CtrlS|
+|6|36.213.79.159|1081|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
+|7|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
+|9|151.158.244.191|8080|Philippines|Paradahan|Mitztianpc Wired Internet Services|
+|10|101.255.211.46|8181|Indonesia|Depok|PT Remala Abadi|
+|11|178.252.171.229|8080|Iran|Golsār|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
+|12|87.192.231.122|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|36.213.79.159|1081|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
+|14|103.82.246.23|6080|Indonesia|Ciputat|PT Master Star Network|
+|15|34.43.46.91|80|United States|Mountain View|Google LLC|
+|16|46.101.21.9|10000|United Kingdom|Slough|DigitalOcean, LLC|
+|17|116.80.49.179|6000|Japan|Shinjuku|InfoSphere|
+|18|14.248.84.131|8080|Vietnam|Hanoi|VNPT|
+|19|45.194.3.132|8080|India|Noida|CtrlS|
+|20|167.99.8.113|8013|United States|North Bergen|DigitalOcean, LLC|
 
 
 
