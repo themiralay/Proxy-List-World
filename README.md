@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|747|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|747|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|747|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|772|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|772|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|772|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.191.232.182|3128|Philippines|Marilao|Globe Telecom|
-|2|146.190.60.147|8006|United States|Santa Clara|DigitalOcean, LLC|
-|3|112.201.179.242|5050|Philippines|Taguig|Philippine Long Distance Telephone Co.|
-|4|103.74.146.1|83|India|Dwarka|Airmax Internet Private Limited|
-|5|145.220.227.24|8080|The Netherlands|Utrecht|SURFnet III d|
-|6|34.43.46.91|443|United States|Mountain View|Google LLC|
-|7|5.75.173.39|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|8|144.124.251.24|10804|The Netherlands|Amsterdam|Servers Tech Fzco|
-|9|103.193.144.101|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|11|177.223.178.212|8080|Brazil|Santo Antônio de Jesus|Speed Serviços de Internet Ltda|
-|12|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
-|13|187.190.127.212|80|Mexico|Banus Vallarta|TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.|
-|14|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
-|15|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
-|16|103.155.196.178|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|17|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
-|18|182.52.113.61|80|Thailand|Bangkok|TOT Public Company Limited|
-|19|103.156.16.237|8090|Indonesia|Maribaya|RSTNET|
-|20|122.54.120.79|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|1|34.43.46.91|443|United States|Mountain View|Google LLC|
+|2|145.220.227.24|8080|The Netherlands|Utrecht|SURFnet III d|
+|3|144.124.251.24|10804|The Netherlands|Amsterdam|Servers Tech Fzco|
+|4|5.75.173.39|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|5|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|6|180.191.121.151|8080|Philippines|Quezon City|Globe Telecom|
+|7|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|8|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
+|9|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
+|10|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
+|11|177.234.217.85|999|Ecuador|Quito|Ufinet Panama S.A.|
+|12|200.110.173.240|999|Colombia|Cali|Media Commerce Partners S.A|
+|13|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
+|14|201.165.164.22|999|Mexico|Chetumal|Mega Cable, S.A. de C.V.|
+|15|187.190.127.212|8081|Mexico|Banus Vallarta|TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.|
+|16|38.19.106.44|999|Mexico|Progreso de Obregón|Hulux Telecomunicaciones|
+|17|103.217.179.216|8080|Pakistan|Lahore|Trans World Enterprise Services (Private) Limited|
+|18|147.161.246.34|11129|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|19|147.161.246.34|11129|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|20|147.161.246.34|11129|Switzerland|Zurich|Zscaler Switzerland GmbH|
 
 
 
