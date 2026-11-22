@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|588|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|588|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|588|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|538|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|538|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|538|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.129.170.202|8080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|1|180.191.232.182|3128|Philippines|Marilao|Globe Telecom|
 |2|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|218.100.23.130|8080|New Zealand|Te Aro|Vital Data Ltd|
+|3|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |4|145.220.227.24|8080|The Netherlands|Utrecht|SURFnet III d|
 |5|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
 |6|5.75.173.39|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|7|103.102.14.48|1111|Indonesia|Rembang|FISNET|
-|8|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|9|157.15.0.152|7778|Indonesia|Ngawi|Gopalnet|
-|10|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
-|11|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
-|12|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
-|13|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|14|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
-|15|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
-|16|1.20.101.20|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
-|17|103.193.144.101|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
+|7|36.213.79.159|1081|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
+|8|103.125.15.69|8080|Indonesia|Medan|PT. RACKH LINTAS ASIA|
+|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|10|180.180.156.117|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|11|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
+|12|119.159.233.2|8080|Pakistan|Lahore|PTCL Triple Play Project|
+|13|147.161.246.34|11129|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|14|147.161.246.34|11129|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|15|147.161.246.34|11129|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|16|147.161.246.34|11129|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|17|147.161.246.34|11129|Switzerland|Zurich|Zscaler Switzerland GmbH|
 |18|147.161.246.34|11129|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|19|147.161.246.34|11129|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|20|187.94.220.85|8080|Brazil|Vitória|Acesse Comunicação Ltda|
+|19|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
+|20|177.234.217.85|999|Ecuador|Quito|Ufinet Panama S.A.|
 
 
 
