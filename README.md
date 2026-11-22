@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|699|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|699|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|699|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|519|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|519|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|519|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|2|115.87.213.28|80|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|3|145.220.227.67|8080|The Netherlands|Utrecht|SURFnet III d|
-|4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|5|159.65.27.1|10000|United Kingdom|Slough|DigitalOcean, LLC|
-|6|177.223.178.212|8080|Brazil|Santo Antônio de Jesus|Speed Serviços de Internet Ltda|
-|7|80.225.250.95|8888|India|Mumbai|Oracle Corporation|
-|8|113.160.115.254|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|9|103.84.210.30|8080|Indonesia|Padang|CINOXMEDIANET|
-|10|103.112.136.77|8080|Indonesia|Serang|PT Pisangmas Rayatama Perkasa|
-|11|182.253.40.39|8080|Indonesia|Central Jakarta|BIZNET|
-|12|43.161.254.16|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|13|45.198.10.194|9191|Indonesia|Karawang|PT Jaringan Lintas Artha|
-|14|210.4.73.190|8585|Bangladesh|Dhaka|BDCOM Online Limited|
-|15|103.224.65.82|8080|Indonesia|Jember|BLAMBANGAN|
-|16|103.193.144.223|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|17|59.145.184.190|80|India|Ghaziabad|Bharti Airtel Limited|
-|18|103.126.87.175|53934|Indonesia|Trucuk|PT. Rasi Bintang Perkasa|
-|19|45.123.143.10|8080|Indonesia|Bayunglincir|PT Gelam Net Solusi|
-|20|103.183.8.139|8080|Indonesia|Cikadondongdesa|PT Cepat Multi Data|
+|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|2|180.191.231.82|5002|Philippines|Talisay City|Globe Telecom|
+|3|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|4|34.43.46.91|80|United States|Mountain View|Google LLC|
+|5|209.97.190.76|10000|United Kingdom|Slough|DigitalOcean, LLC|
+|6|159.65.27.1|10000|United Kingdom|Slough|DigitalOcean, LLC|
+|7|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|8|186.15.187.158|999|Costa Rica|San José|Telefonica de Costa Rica TC, SA|
+|9|187.245.220.100|999|Mexico|Monterrey|Mega Cable, S.A. de C.V.|
+|10|38.191.149.221|999|Mexico|Santa Cruz de Rosales|GRIDNED|
+|11|38.7.17.83|999|Mexico|Morelia|Internet Telefonia Y TV De Michoacan SA De CV|
+|12|103.86.135.98|8080|Pakistan|Multan|Mian Internet Services (Pvt) Ltd|
+|13|103.84.210.30|8080|Indonesia|Padang|CINOXMEDIANET|
+|14|103.183.8.139|8080|Indonesia|Cikadondongdesa|PT Cepat Multi Data|
+|15|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
+|16|181.119.111.59|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|17|103.164.229.149|8080|Indonesia|Pecangaan|PT Muria Data Utama|
+|18|165.99.194.240|8080|Indonesia|Guyangan|PT Network Bumi Saridin|
+|19|122.52.202.231|8080|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|20|154.57.208.127|8080|Pakistan|Lahore|Trans World Enterprise Services (Private) Limited|
 
 
 
