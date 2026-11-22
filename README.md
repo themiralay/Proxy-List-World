@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|481|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|481|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|481|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|585|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|585|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|585|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|134.199.160.93|8888|Australia|Sydney|DigitalOcean, LLC|
-|2|27.74.247.173|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|3|36.213.79.159|1080|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
-|4|45.174.76.182|999|Mexico|Chihuahua City|Raul Duarte Urita|
-|5|115.147.47.214|3128|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|6|145.220.227.24|8080|The Netherlands|Utrecht|SURFnet III d|
-|7|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|8|39.109.76.241|8080|Hong Kong|Hong Kong|Union FU WAH Digital Technology Limited|
-|9|187.251.224.167|80|Mexico|León|TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.|
-|10|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|114.141.54.2|8080|Indonesia|Bekasi|PT Cyberplus Media Pratama|
-|12|103.193.144.91|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|13|171.252.33.109|3128|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|14|103.125.15.69|8080|Indonesia|Medan|PT. RACKH LINTAS ASIA|
-|15|34.43.46.91|443|United States|Mountain View|Google LLC|
-|16|154.19.39.50|80|Indonesia|Tangerang|PT Lintas Network Solusi|
-|17|124.158.164.150|8080|Indonesia|Bekasi|ICON+|
-|18|180.180.156.74|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|19|103.24.215.165|8080|Indonesia|Weleri|PT. ADAU PUTRA NETWORK|
-|20|31.57.178.211|8080|Singapore|Singapore|PT Perwira Media Solusi|
+|2|182.52.113.57|80|Thailand|Bangkok|TOT Public Company Limited|
+|3|145.220.227.24|8080|The Netherlands|Utrecht|SURFnet III d|
+|4|34.43.46.91|443|United States|Mountain View|Google LLC|
+|5|200.48.64.107|999|Peru|El Pedregal|Telefonica del Peru S.A.A.|
+|6|187.251.224.167|80|Mexico|León|TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.|
+|7|180.180.217.53|80|Thailand|Chon Buri|TOT Public Company Limited|
+|8|103.193.144.91|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
+|9|210.61.216.63|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|10|190.97.226.232|999|Venezuela|Santa Bárbara|Viginet C.A|
+|11|36.64.241.218|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|12|27.131.14.9|8812|Bangladesh|Dhaka|Dhaka Fiber Net Limited|
+|13|39.109.76.241|8080|Hong Kong|Hong Kong|Union FU WAH Digital Technology Limited|
+|14|180.180.156.111|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|15|182.53.202.229|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|16|125.25.167.129|80|Thailand|Bangkok|TOT Public Company Limited|
+|17|182.52.113.106|80|Thailand|Bangkok|TOT Public Company Limited|
+|18|36.213.79.159|1081|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
+|19|180.180.156.69|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|20|160.202.42.156|80|Indonesia|Jakarta|Jakarta 5 8 Iconpln|
 
 
 
