@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|522|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|522|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|522|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|555|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|555|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|555|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.25.35.204|8181|Indonesia|Pandeglang|PT AURORA SENTRAL INFORMATIKA|
-|2|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|3|203.142.69.67|8080|Indonesia|Jakarta|BIZNET|
-|4|112.202.230.201|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|5|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|6|161.22.37.17|999|Venezuela|Petare|THUNDERNET, C.A.|
-|7|69.75.140.157|8080|United States|Los Angeles|Spectrum|
-|8|102.68.128.216|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|9|61.19.30.194|8188|Thailand|Khlong San|Data Comm. Dept. National Telecom Public Company Limited|
-|10|38.156.145.128|999|Mexico|Túxpam de Rodríguez Cano|Digy Networks S.a. De C.V|
-|11|201.139.180.38|999|Mexico|Puebla City|Computadoras y Servicios Especiales SA de CV|
-|12|1.20.101.18|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
-|13|161.22.33.152|999|Venezuela|Caracas|THUNDERNET, C.A|
-|14|177.234.217.83|999|Ecuador|Quito|Ufinet Panama S.A.|
-|15|146.190.60.147|8006|United States|Santa Clara|DigitalOcean, LLC|
-|16|38.252.145.15|999|Mexico|Actopan|Osbaldo Tovar Campero|
-|17|89.43.132.219|8080|Syria|Ad Dānā|High Speed For Internet Services L.L.C|
-|18|103.172.71.140|8989|Indonesia|Tangerang|AZNET|
-|19|147.161.246.34|10308|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|20|38.58.174.85|999|Mexico|San José del Rincón Centro|Cogent Communications|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|134.199.160.93|8888|Australia|Sydney|DigitalOcean, LLC|
+|3|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|4|45.194.3.119|8080|India|Noida|CtrlS|
+|5|160.25.35.204|8181|Indonesia|Pandeglang|PT AURORA SENTRAL INFORMATIKA|
+|6|209.61.77.188|999|Peru|Lima|Nextnet S.A.C|
+|7|206.135.47.106|999|Mexico|Puebla City|Ientc S De RL De CV|
+|8|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|9|103.79.183.109|8080|Bangladesh|Khulna|SPEEDNET|
+|10|186.96.111.214|999|Colombia|San Martín|TV AZTECA SUCURSAL COLOMBIA|
+|11|122.52.110.142|5050|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|12|36.37.251.137|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|13|79.98.32.87|8080|Turkey|Adana|High Speed For Internet Services L.L.C|
+|14|103.39.51.170|8181|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
+|15|112.202.230.201|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|16|152.169.106.145|8080|Argentina|Neuquén|Telecom Argentina S.A|
+|17|129.222.204.27|10000|Nigeria|Lagos|Space Exploration Technologies Corporation|
+|18|103.11.218.223|8787|Cambodia|Phnom Penh|M.A.T Co., Ltd.|
+|19|168.197.104.45|8080|Brazil|Guaratuba|Gtba Telecom Ltda ME|
+|20|38.7.22.165|999|Mexico|Morelia|Internet Telefonia Y TV De Michoacan SA De CV|
 
 
 
