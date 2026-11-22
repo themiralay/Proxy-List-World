@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|525|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|525|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|525|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|418|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|418|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|418|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|34.43.46.91|443|United States|Mountain View|Google LLC|
-|3|123.16.15.41|1452|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|134.199.160.93|8888|Australia|Sydney|DigitalOcean, LLC|
+|3|68.183.60.51|3129|United States|Clifton|DigitalOcean, LLC|
 |4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|5|160.25.35.206|8181|Indonesia|Pandeglang|PT AURORA SENTRAL INFORMATIKA|
-|6|38.80.12.142|999|Dominican Republic|San Cristobal|Cogent Communications|
+|5|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|34.43.46.91|443|United States|Mountain View|Google LLC|
 |7|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
-|8|49.146.231.205|8081|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|9|122.3.87.41|8080|Philippines|Tanza|Philippine Long Distance Telephone Co.|
-|10|125.25.167.176|80|Thailand|Bangkok|TOT Public Company Limited|
-|11|45.194.3.108|8080|India|Noida|CtrlS|
-|12|180.148.25.78|8080|Indonesia|Ngamprah|PT GIGA NETWORK INDONESIA|
-|13|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
-|14|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
-|15|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|16|14.172.88.126|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|17|49.156.44.166|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|8|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
+|9|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
+|10|59.153.82.236|8080|Indonesia|North Jakarta|ATSINDO|
+|11|101.255.104.117|8181|Indonesia|West Jakarta|PT Remala Abadi|
+|12|45.194.3.108|8080|India|Noida|CtrlS|
+|13|180.190.184.233|8082|Philippines|Lahug|Globe Telecom|
+|14|200.70.35.2|8080|Argentina|Lomas de Zamora|Telefonica de Argentina|
+|15|147.161.246.34|18000|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|16|147.161.246.34|18000|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|17|147.161.246.34|18000|Switzerland|Zurich|Zscaler Switzerland GmbH|
 |18|147.161.246.34|18000|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|19|180.180.156.95|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|19|147.161.246.34|18000|Switzerland|Zurich|Zscaler Switzerland GmbH|
 |20|147.161.246.34|18000|Switzerland|Zurich|Zscaler Switzerland GmbH|
 
 
