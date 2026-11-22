@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5399** proxies at the latest update. Usable proxies are below.
+> Scraper found **5324** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|557|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|557|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|557|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|652|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|652|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|652|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|942|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|867|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|532|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3225|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|146.190.60.147|8006|United States|Santa Clara|DigitalOcean, LLC|
-|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|3|103.172.71.165|9191|Indonesia|Colomadu|AZNET|
-|4|82.41.42.140|8181|Singapore|Singapore|PT Perwira Media Solusi|
-|5|49.149.162.144|8082|Philippines|Cagayan de Oro|Philippine Long Distance Telephone Co.|
-|6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|7|145.220.227.24|8080|The Netherlands|Utrecht|SURFnet III d|
-|8|115.147.47.214|3128|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|9|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
-|10|197.248.16.109|8080|Kenya|Nairobi|Safaricom Limited|
-|11|5.200.72.61|3128|Iran|Tehran|Bahar Samaneh Shargh|
-|12|203.201.190.36|8080|Indonesia|Tulang Bawang Regency|PT WIRA HASTA JITU|
-|13|23.185.192.66|8181|United States|Frankfort|Swayzee Telephone Company, Inc.|
-|14|103.242.105.31|8080|Indonesia|Subang|PT Lintas Jaringan Nusantara|
-|15|103.193.144.91|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|16|45.4.200.67|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|17|212.175.50.80|8085|Türkiye|Ankara|Turk Telekomunikasyon Anonim Sirketi|
-|18|69.75.140.157|8080|United States|Los Angeles|Spectrum|
-|19|103.247.23.244|1111|Indonesia|Banyumas|PT wifian Solution|
-|20|206.135.80.74|999|Mexico|Querétaro City|Ientc S De RL De CV|
+|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|2|110.77.177.22|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|3|145.220.227.24|8080|The Netherlands|Utrecht|SURFnet III d|
+|4|34.43.46.91|443|United States|Mountain View|Google LLC|
+|5|203.201.190.33|8080|Indonesia|Tulang Bawang Regency|PT WIRA HASTA JITU|
+|6|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
+|7|103.122.66.221|8080|Indonesia|Ponorogo|PT. Jinom Network Indonesia|
+|8|180.194.78.50|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
+|9|34.43.46.91|443|United States|Mountain View|Google LLC|
+|10|103.97.140.199|8080|Indonesia|Cianjur|PT Jembatan Data Pangrango|
+|11|195.142.25.177|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
+|12|118.179.84.131|81|Bangladesh|Dhaka|AmberIT Limited|
+|13|38.156.235.34|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L|
+|14|1.20.101.25|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
+|15|206.135.47.108|999|Mexico|Puebla City|Ientc S De RL De CV|
+|16|103.66.44.34|8080|Indonesia|Bogor|PT Iconmedia Lintas Nusantara|
+|17|103.160.205.12|8081|Indonesia|Gerung|PRIME|
+|18|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|19|125.25.167.128|80|Thailand|Bangkok|TOT Public Company Limited|
+|20|103.20.108.51|8080|Indonesia|Bangkinang|PT Chandra Media Nusantara|
 
 
 
