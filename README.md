@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|830|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|830|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|830|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|684|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|684|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|684|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|3|34.43.46.91|443|United States|Mountain View|Google LLC|
-|4|58.69.124.137|8080|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|5|46.101.21.9|10000|United Kingdom|Slough|DigitalOcean, LLC|
-|6|206.135.38.38|999|Mexico|San Cristóbal de las Casas|Ientc S De RL De CV|
-|7|103.69.106.78|8181|Indonesia|Serang|PT. Berkat Dunia Digital Cikande|
+|1|38.226.243.191|8080|Indonesia|Randudongkal|PT Putra Garsel Interkoneksi|
+|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|3|50.238.106.26|3128|United States|Atlanta|Comcast Cable Communications, LLC|
+|4|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|5|34.43.46.91|443|United States|Mountain View|Google LLC|
+|6|145.220.227.67|8080|The Netherlands|Utrecht|SURFnet III d|
+|7|46.101.21.9|10000|United Kingdom|Slough|DigitalOcean, LLC|
 |8|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|9|45.174.242.147|999|Mexico|San Pablo Pixtún|Sistemas Y Soluciones De Campeche SAS De CV|
-|10|49.0.26.43|1080|Indonesia|Bean|SIMS Jabar Banten Medianet|
-|11|112.201.227.236|5050|Philippines|Caloocan|Philippine Long Distance Telephone Co.|
-|12|98.153.152.141|7070|United States|Los Angeles|Charter Communications Inc|
-|13|116.204.166.151|8080|Turkey|Hıdırbey|High Speed For Internet Services L.L.C|
-|14|27.147.28.73|8080|Taiwan|Xindian District|Extra-Lan Technologies Co., LTD|
-|15|190.114.242.155|999|Venezuela|Caracas|Gold Data USA Inc|
-|16|160.25.222.205|8181|Indonesia|Kurungannyawa|PT Telemedia Prima Nusantara|
-|17|91.224.77.229|8090|Russia|Moscow|LLC Telecom MPK|
-|18|125.25.167.196|8080|Thailand|Bangkok|TOT Public Company Limited|
-|19|45.167.124.30|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|20|149.210.4.75|18080|Greece|Athens|Cosmote Mobile Telecommunication S.A.|
+|9|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|10|112.203.223.38|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|11|113.53.29.176|8080|Thailand|Phuket|TOT Public Company Limited|
+|12|157.66.236.199|1111|Indonesia|Kediri|PT DHAHA PRIMA NET|
+|13|125.25.167.132|80|Thailand|Bangkok|TOT Public Company Limited|
+|14|112.204.185.125|3128|Philippines|Pasig|Philippine Long Distance Telephone Co.|
+|15|103.39.51.170|8181|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
+|16|78.155.66.87|8080|Syria|Douma|ISP-TARASSUL|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|177.234.217.235|999|Ecuador|Quito|Ufinet Panama S.A.|
+|19|1.4.141.80|80|Thailand|Khon Kaen|TOT Public Company Limited|
+|20|103.134.222.170|8888|Indonesia|Boyolali|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
 
 
 
