@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5973** proxies at the latest update. Usable proxies are below.
+> Scraper found **5927** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|693|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|693|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|693|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|819|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|819|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|819|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1130|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1084|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|918|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3225|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|2|216.125.18.67|3128|United States|Brookfield|Illinois Century Network|
-|3|34.43.46.91|443|United States|Mountain View|Google LLC|
-|4|144.124.251.24|10804|The Netherlands|Amsterdam|Servers Tech Fzco|
-|5|38.188.63.115|8081|Indonesia|Margasari|PT Nesta Indo Media|
-|6|110.76.147.22|3128|Indonesia|Kutoarjo|PT Pika Media Komunika|
-|7|217.154.195.87|8888|Germany|Berlin|IONOS SE|
-|8|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
-|9|103.112.136.77|8080|Indonesia|Serang|PT Pisangmas Rayatama Perkasa|
-|10|103.214.189.41|80|India|Varanasi|Ikon Broadband Private Limited|
-|11|80.65.211.149|8888|France|Lauterbourg|Contabo GmbH|
-|12|113.160.155.121|19132|Vietnam|Từ Sơn|VietNam Post and Telecom Corporation|
-|13|147.161.246.34|11129|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|14|147.161.246.34|11129|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|15|147.161.246.34|11129|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|16|147.161.246.34|11129|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|17|147.161.246.34|11129|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|18|147.161.246.34|11129|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|19|187.245.220.100|999|Mexico|Monterrey|Mega Cable, S.A. de C.V.|
-|20|103.153.63.146|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|1|180.191.229.193|5050|Philippines|Talisay City|Globe Telecom|
+|2|104.194.146.9|80|United Kingdom|City of London|FranTech Solutions|
+|3|115.85.88.18|8080|Indonesia|Jakarta|Sudirman Central Business District|
+|4|180.191.231.19|8082|Philippines|Talisay City|Globe Telecom|
+|5|38.183.184.249|999|Venezuela|Santa Teresa del Tuy|OIT SERVICIO DE DATOS, C.A.|
+|6|112.203.122.32|7080|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|7|180.191.59.56|8081|Philippines|Tarlac City|Globe Telecom|
+|8|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|38.226.242.61|8080|Indonesia|Jakarta|PT Putra Garsel Interkoneksi|
+|10|222.127.54.16|8080|Philippines|Lahug|INNOVE|
+|11|157.20.220.51|8080|Indonesia|Parung|PT Nawasena Andalan Indonesia|
+|12|77.42.95.221|8888|Finland|Helsinki|Hetzner Online GmbH|
+|13|103.242.105.31|8080|Indonesia|Subang|PT Lintas Jaringan Nusantara|
+|14|43.240.83.70|8080|Indonesia|Cianjur|PT Indonesia Comnets Plus|
+|15|59.153.82.236|8080|Indonesia|North Jakarta|ATSINDO|
+|16|139.135.77.166|8085|Philippines|Tibigan|Dito Telecommunity Corp.|
+|17|195.181.40.34|8080|Iran|Babol|Iran Telecommunication Company PJS|
+|18|58.33.109.114|2021|China|Shanghai|China Telecom (Group)|
+|19|111.90.188.156|8080|Cambodia|Phnom Penh|MekongNet|
+|20|103.68.213.51|7789|Indonesia|Malang|PT Mars Data Telekomunikasi|
 
 
 
