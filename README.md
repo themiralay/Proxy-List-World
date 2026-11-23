@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4650** proxies at the latest update. Usable proxies are below.
+> Scraper found **4719** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|369|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|369|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|369|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|411|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|411|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|411|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|767|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|836|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|782|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2401|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|2|175.158.40.224|1616|Indonesia|North Jakarta|Indonesia Network Information Center|
 |3|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|4|170.78.208.28|999|Mexico|San Juan del Río|Wantelco SAS de CV|
-|5|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|6|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|113.176.46.96|8080|Vietnam|Hanoi|VNPT|
-|8|38.7.17.83|999|Mexico|Morelia|Internet Telefonia Y TV De Michoacan SA De CV|
-|9|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|10|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|36.50.92.164|8080|Indonesia|Gombong|PT Ring Media Nusantara|
+|4|34.43.46.91|443|United States|Mountain View|Google LLC|
+|5|103.4.81.218|8082|Indonesia|Bagan Si Api-api|FASTLINKONEKSI|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|110.232.92.49|8080|Indonesia|Bandung|PT. Media Antar Nusa|
+|8|181.119.185.194|999|Ecuador|Quito|Ufinet Panama S.A.|
+|9|202.152.134.202|8071|Indonesia|Yogyakarta|PT Jembatan Citra Nusantara|
+|10|161.22.37.18|999|Venezuela|Petare|THUNDERNET, C.A.|
+|11|103.97.141.142|8080|Indonesia|Cianjur|PT Jembatan Data Pangrango|
+|12|125.25.167.135|80|Thailand|Bangkok|TOT Public Company Limited|
 |13|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|14|101.53.9.226|3128|Vietnam|Ho Chi Minh City|NetNam Corporation|
-|15|38.76.251.115|999|Dominican Republic|Pizarrete|Cogent Communications|
-|16|165.99.239.17|7777|Indonesia|Kudus|PT MERDEKA TELEKOMUNIKASI CENTER|
-|17|223.25.110.76|3125|Indonesia|Purbalingga|SinergiNet|
-|18|38.9.184.177|999|Venezuela|Ocumare|Cogent Communications|
-|19|203.142.74.116|8080|Indonesia|Tabanan|BIZNET|
-|20|182.253.221.147|8080|Indonesia|Surabaya|Biznet Networks|
+|14|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
+|15|175.100.103.170|1256|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|16|1.10.185.111|443|Thailand|Suphan Buri|TOT Public Company Limited|
+|17|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|18|139.5.75.83|8080|Nepal|Patan|WLINK|
+|19|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
+|20|151.242.173.217|8080|Indonesia|Jakarta|PT Mahawira Nusantara Grup|
 
 
 
