@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4859** proxies at the latest update. Usable proxies are below.
+> Scraper found **4965** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|466|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|466|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|466|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|363|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|363|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|363|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|957|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1063|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|801|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2401|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|146.190.60.147|8013|United States|Santa Clara|DigitalOcean, LLC|
-|4|41.33.173.85|8080|Egypt|Cairo|TE Data|
-|5|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
-|6|51.68.102.5|3130|France|Roubaix|OVH SAS|
-|7|186.101.251.197|8080|Ecuador|Guayaquil|Telconet S.A|
-|8|180.149.235.165|311|Bangladesh|Dhaka|Digi Jadoo Broadband Ltd|
-|9|124.217.0.75|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|10|180.180.156.117|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|11|94.130.50.22|3129|Germany|Falkenstein|Hetzner Online GmbH|
-|12|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|13|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|14|206.135.80.74|999|Mexico|Querétaro City|Ientc S De RL De CV|
-|15|118.137.63.115|8080|Indonesia|Surabaya|Linknet-Fastnet ASN|
-|16|45.198.8.110|8080|Indonesia|Enrekang|PT Citra Celebas Multimedia|
-|17|187.190.127.212|8081|Mexico|Banus Vallarta|TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.|
-|18|116.80.49.179|6000|Japan|Shinjuku|InfoSphere|
-|19|103.118.85.144|6321|Bangladesh|Dhaka|Abuzz IT Limited|
-|20|112.202.230.201|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|1|165.154.236.164|3128|Singapore|Singapore|Scloud Pte Ltd|
+|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|3|160.22.45.22|8097|Indonesia|Marisa|PT Celebes Multi Network|
+|4|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|5|103.68.215.93|8080|Indonesia|Sepatan|PT Media Grasi Internet|
+|6|183.88.231.188|34599|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|7|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|8|103.193.144.118|8082|Indonesia|Batam|PT Lintas Jaringan Nusantara|
+|9|103.173.140.181|8080|Indonesia|Brak|WIFIAN ID|
+|10|103.242.107.19|3125|Indonesia|Subang|PT Lintas Jaringan Nusantara|
+|11|190.237.238.102|999|Peru|Lima|TDP-GRS|
+|12|159.65.27.1|10000|United Kingdom|Slough|DigitalOcean, LLC|
+|13|200.48.64.107|999|Peru|El Pedregal|Telefonica del Peru S.A.A.|
+|14|210.213.119.28|3128|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|15|161.22.34.57|999|Venezuela|Caracas|THUNDERNET, C.A.|
+|16|93.185.68.82|8080|Kazakhstan|Atyrau|JSC "KazTransCom"|
+|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|18|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
+|19|67.206.213.202|3120|Puerto Rico|San Juan|Liberty Mobile Puerto Rico Inc.|
+|20|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
 
 
 
