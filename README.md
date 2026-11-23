@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|376|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|376|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|376|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|165.101.43.125|8080|Indonesia|Panaragan|PT Lintas Jaringan Nusantara|
-|3|134.199.160.93|8888|Australia|Sydney|DigitalOcean, LLC|
-|4|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|5|113.176.46.96|8080|Vietnam|Hanoi|VNPT|
-|6|145.220.227.24|8080|The Netherlands|Utrecht|SURFnet III d|
-|7|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|8|180.190.76.170|8082|Philippines|Cagayan de Oro|Globe Telecom|
-|9|123.253.137.224|8082|Philippines|Aroroy|ComClark Network & Technology Corp|
-|10|103.125.174.83|8080|Indonesia|Stabat|PT Trinity Teknologi Nusantara|
-|11|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
-|12|181.119.111.239|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|13|103.75.84.63|8085|Indonesia|Pugeran Maguwoharjo|MEGADATA|
-|14|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|15|110.232.92.49|8080|Indonesia|Bandung|PT. Media Antar Nusa|
-|16|5.26.111.181|8080|Türkiye|Kartal|Turkcell Internet|
-|17|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|18|49.145.60.240|8080|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|19|107.181.112.136|8444|United States|Wilmington|DedFiberCo|
-|20|49.151.183.37|8082|Philippines|Clark Freeport Zone|Philippine Long Distance Telephone Co.|
+|2|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|3|145.220.227.24|8080|The Netherlands|Utrecht|SURFnet III d|
+|4|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|5|138.2.64.185|8118|Singapore|Singapore|Oracle Corporation|
+|6|179.1.182.26|999|Colombia|Villavieja|Internexa S.a. E.S.P|
+|7|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|8|202.154.17.18|8080|Indonesia|Krian|PT Eno Cyber Sentinel|
+|9|38.7.17.83|999|Mexico|Morelia|Internet Telefonia Y TV De Michoacan SA De CV|
+|10|107.181.112.136|8443|United States|Wilmington|DedFiberCo|
+|11|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|12|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
+|13|125.25.53.180|8080|Thailand|Bangkok|TOT Public Company Limited|
+|14|185.109.244.69|8080|Iran|Tehran|Asiatech Data Transmission company|
+|15|190.90.21.35|999|Colombia|Cartagena|Internexa S.a. E.S.P|
+|16|116.80.49.179|6000|Japan|Shinjuku|InfoSphere|
+|17|45.175.39.115|999|Venezuela|Caracas|TCA SERVICES C.A.|
+|18|194.124.36.162|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|19|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|146.190.60.147|8020|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
