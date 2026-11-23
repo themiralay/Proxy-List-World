@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4723** proxies at the latest update. Usable proxies are below.
+> Scraper found **4810** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|501|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|501|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|501|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|447|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|447|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|447|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|849|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|936|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|773|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2401|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.191.232.182|3128|Philippines|Marilao|Globe Telecom|
-|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|3|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|4|27.147.153.179|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|5|36.64.54.98|8080|Indonesia|Tangerang|PT. Telekomunikasi Indonesia|
-|6|103.171.255.204|8080|Indonesia|Sleman|PT Zona Kolektif Indonesia|
-|7|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
-|8|49.48.101.15|8080|Thailand|Nakhon Ratchasima|Advanced Wireless Network Company Limited|
-|9|91.107.186.23|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|45.194.3.108|8080|India|Noida|CtrlS|
-|11|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
-|12|103.165.123.109|8080|Indonesia|Bogor|PT iForte Global Internet|
-|13|202.152.134.202|8071|Indonesia|Yogyakarta|PT Jembatan Citra Nusantara|
-|14|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|15|186.125.218.150|999|Argentina|Cafayate|CARDOZO JAVIER ALEJANDRO (KILLA INTERNET)|
-|16|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|17|24.172.82.94|53281|United States|Charlotte|Spectrum|
-|18|122.52.110.142|5050|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|19|106.51.185.233|8080|India|Bengaluru|ACT Fibernet|
-|20|118.69.176.114|8080|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|1|49.48.101.15|8080|Thailand|Nakhon Ratchasima|Advanced Wireless Network Company Limited|
+|2|34.43.46.91|80|United States|Mountain View|Google LLC|
+|3|51.68.102.5|3130|France|Roubaix|OVH SAS|
+|4|119.93.139.196|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|5|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|6|1.4.141.66|80|Thailand|Khon Kaen|TOT Public Company Limited|
+|7|160.30.204.24|60062|Vietnam|Vinhomes Smart City|TVC|
+|8|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|124.83.126.61|8085|Philippines|Meycauayan|Philippine Long Distance Telephone Co.|
+|10|103.125.19.94|8080|Indonesia|Kresek|JAVAMEDIA|
+|11|124.83.116.153|8081|Philippines|Meycauayan|Philippine Long Distance Telephone Co.|
+|12|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|13|118.179.136.153|81|Bangladesh|Dhaka|AmberIT Limited|
+|14|113.176.46.96|8080|Vietnam|Hanoi|VNPT|
+|15|119.93.178.99|8081|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|16|112.208.166.226|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|17|38.44.17.142|999|Dominican Republic|Yamasá|REYNOSO, S.R.L.|
+|18|160.25.35.204|8181|Indonesia|Pandeglang|PT AURORA SENTRAL INFORMATIKA|
+|19|103.122.67.91|8080|Indonesia|Ponorogo|PT. Jinom Network Indonesia|
+|20|186.125.218.150|999|Argentina|Cafayate|CARDOZO JAVIER ALEJANDRO (KILLA INTERNET)|
 
 
 
