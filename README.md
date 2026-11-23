@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|487|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|487|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|487|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|451|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|451|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|451|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.122.67.91|8080|Indonesia|Ponorogo|PT. Jinom Network Indonesia|
-|2|134.199.160.93|8888|Australia|Sydney|DigitalOcean, LLC|
-|3|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
-|4|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|5|103.106.112.166|1234|Indonesia|Labuhanmaringgai|SMSNET|
-|6|160.19.19.9|8080|Indonesia|Bandung|PT Indo Telemedia Solusi|
-|7|36.66.121.131|8080|Indonesia|East Jakarta|Telekomunikasi Indonesia|
-|8|51.68.102.5|3130|France|Roubaix|OVH SAS|
-|9|160.19.145.101|3127|Indonesia|Demak|Lintas Data Prima, PT|
-|10|202.21.124.132|1011|Mongolia|Ulan Bator|Mobinet LLC|
-|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|12|103.185.48.50|8080|Indonesia|Ciputat|PT Bittara Interkoneksi Nusantara|
-|13|45.194.3.108|8080|India|Noida|CtrlS|
-|14|101.255.151.246|8080|Indonesia|Central Jakarta|PT Remala Abadi|
-|15|152.32.64.43|8095|Philippines|Mandaluyong|Converge ICT Solution Inc|
-|16|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
-|17|103.22.99.95|1111|Indonesia|Magetan|KHALISTAGROUP|
-|18|1.20.101.24|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
-|19|114.130.153.46|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|20|103.210.123.195|8080|Indonesia|Makassar|JNETWORK|
+|1|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
+|2|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|3|134.199.160.93|8888|Australia|Sydney|DigitalOcean, LLC|
+|4|186.7.157.48|8080|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A.|
+|5|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|6|51.68.102.5|3130|France|Roubaix|OVH SAS|
+|7|45.194.3.108|8080|India|Noida|CtrlS|
+|8|103.121.22.192|8080|Indonesia|Depok|PT. Eka Mas Republik|
+|9|94.76.224.104|5002|United Kingdom|Reading|Simply Transit Ltd|
+|10|103.106.112.166|1234|Indonesia|Labuhanmaringgai|SMSNET|
+|11|45.198.10.130|8080|Indonesia|Jatiroto|PT Jaringan Lintas Artha|
+|12|160.22.134.77|1111|Indonesia|Tangerang|PT GALAXY SINERGI NETWORK|
+|13|200.41.149.66|12323|Argentina|Buenos Aires|Telefonica de Argentina|
+|14|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|177.234.217.84|999|Ecuador|Quito|Ufinet Panama S.A.|
+|16|149.50.231.182|8085|Türkiye|Istanbul|Veganet Teknolojileri VE Hizmetleri Limited Sirketi|
+|17|163.223.150.31|8080|Indonesia|Sragen|PT Microcyber Data Indonesia|
+|18|161.22.37.20|999|Venezuela|Petare|THUNDERNET, C.A.|
+|19|185.226.118.203|3128|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|20|175.162.112.111|6000|China|Shenyang|China Unicom Liaoning Province Network|
 
 
 
