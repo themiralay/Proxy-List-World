@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4944** proxies at the latest update. Usable proxies are below.
+> Scraper found **4849** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|510|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|510|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|510|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|810|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|715|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|875|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2559|✅|
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.161.254.16|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|3|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|4|145.220.227.24|8080|The Netherlands|Utrecht|SURFnet III d|
-|5|34.43.46.91|443|United States|Mountain View|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
-|8|38.191.198.90|999|Colombia|Puerto López|TV&MÁS S.A.S|
-|9|147.161.246.34|11516|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|10|205.234.123.22|8080|Türkiye|Istanbul|High Speed For Internet Services L.L.C|
-|11|147.161.246.34|11516|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|12|147.161.246.34|11516|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|13|147.161.246.34|11516|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|1|180.194.78.50|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
+|2|134.199.160.93|8888|Australia|Sydney|DigitalOcean, LLC|
+|3|145.220.227.24|8080|The Netherlands|Utrecht|SURFnet III d|
+|4|43.161.254.16|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|5|159.65.27.1|10000|United Kingdom|Slough|DigitalOcean, LLC|
+|6|34.43.46.91|443|United States|Mountain View|Google LLC|
+|7|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|8|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|9|2.28.105.45|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|10|148.230.212.70|8080|Mexico|Mexico City|TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.|
+|11|91.107.186.23|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|206.135.38.38|999|Mexico|San Cristóbal de las Casas|Ientc S De RL De CV|
+|13|154.57.208.127|8080|Pakistan|Lahore|Trans World Enterprise Services (Private) Limited|
 |14|147.161.246.34|11516|Switzerland|Zurich|Zscaler Switzerland GmbH|
 |15|147.161.246.34|11516|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|16|147.161.246.34|11516|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|16|181.119.103.237|999|Guatemala|San José Acatempa|Ufinet Panama S.A.|
 |17|147.161.246.34|11516|Switzerland|Zurich|Zscaler Switzerland GmbH|
 |18|147.161.246.34|11516|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|19|96.3.60.222|80|United States|Bismarck|Midcontinent Communications|
+|19|147.161.246.34|11516|Switzerland|Zurich|Zscaler Switzerland GmbH|
 |20|147.161.246.34|11516|Switzerland|Zurich|Zscaler Switzerland GmbH|
 
 
