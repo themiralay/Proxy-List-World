@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5001** proxies at the latest update. Usable proxies are below.
+> Scraper found **4407** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|461|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|461|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|461|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|443|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|443|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|443|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|642|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1100|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|506|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2559|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|121.101.133.96|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|2|180.191.234.124|8080|Philippines|Marilao|Globe Telecom|
-|3|38.58.117.72|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|4|173.205.202.225|8181|United States|Kirklin|Swayzee Telephone Company, Inc.|
-|5|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|6|190.110.36.184|999|Dominican Republic|Santiago de los Caballeros|Centric Mobility|
-|7|202.148.13.182|8080|Indonesia|Mojosari|DNET-SBY|
-|8|151.242.116.35|8080|Singapore|Singapore|PT Perwira Media Solusi|
-|9|161.22.37.20|999|Venezuela|Petare|THUNDERNET, C.A.|
-|10|160.25.35.206|8181|Indonesia|Pandeglang|PT AURORA SENTRAL INFORMATIKA|
-|11|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|12|38.188.63.115|8081|Indonesia|Margasari|PT Nesta Indo Media|
-|13|147.161.246.34|12744|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|14|38.226.243.161|8080|Indonesia|Randudongkal|PT Putra Garsel Interkoneksi|
-|15|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|16|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|17|147.161.246.34|12744|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|18|147.161.246.34|12744|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|19|147.161.246.34|12744|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|20|34.43.46.91|80|United States|Mountain View|Google LLC|
+|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|2|112.203.223.140|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|4|171.252.33.109|3128|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|5|203.201.190.36|8080|Indonesia|Tulang Bawang Regency|PT WIRA HASTA JITU|
+|6|45.127.205.10|7777|Indonesia|Bogor|FORPRO|
+|7|113.53.29.159|8080|Thailand|Phuket|TOT Public Company Limited|
+|8|38.183.184.249|999|Venezuela|Santa Teresa del Tuy|OIT SERVICIO DE DATOS, C.A.|
+|9|38.50.165.182|999|Dominican Republic|Dajabon|NEXTELECOM, S.R.L|
+|10|145.220.227.24|8080|The Netherlands|Utrecht|SURFnet III d|
+|11|202.154.17.18|8080|Indonesia|Krian|PT Eno Cyber Sentinel|
+|12|103.154.76.18|8080|Indonesia|Selong|T2NET|
+|13|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|14|161.22.33.93|999|Venezuela|Caracas|THUNDERNET, C.A|
+|15|77.163.47.213|3128|The Netherlands|Houten|KPN B.V.|
+|16|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
+|17|146.158.30.103|8080|Ukraine|Dnipro|Karelova Olena Viktorivna|
+|18|103.21.69.177|83|India|Hyderabad|Country Online Services PVT LTD|
+|19|154.58.138.231|8088|Indonesia|Purbalingga|Cogent Communications|
+|20|187.245.220.100|999|Mexico|Monterrey|Mega Cable, S.A. de C.V.|
 
 
 
