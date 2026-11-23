@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|842|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|842|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|842|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|639|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|639|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|639|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|151.158.244.191|8080|Philippines|Paradahan|Mitztianpc Wired Internet Services|
-|2|180.191.234.124|8080|Philippines|Marilao|Globe Telecom|
-|3|187.245.220.100|999|Mexico|Monterrey|Mega Cable, S.A. de C.V.|
-|4|103.147.247.83|8080|Indonesia|Pasarkemis|PLBNET|
-|5|49.147.42.169|8080|Philippines|Silay|Philippine Long Distance Telephone Co.|
-|6|180.190.80.43|5050|Philippines|Cagayan de Oro|Globe Telecom|
-|7|170.78.208.28|999|Mexico|San Juan del Río|Wantelco SAS de CV|
-|8|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
-|9|157.10.97.185|8080|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
-|10|180.191.142.188|8080|Philippines|Makati City|Globe Telecom|
-|11|187.200.64.247|999|Mexico|Iguala de la Independencia|Uninet S.A. de C.V.|
-|12|171.239.136.134|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|13|145.220.227.67|8080|The Netherlands|Utrecht|SURFnet III d|
-|14|170.78.208.28|999|Mexico|San Juan del Río|Wantelco SAS de CV|
-|15|118.69.186.75|1452|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|16|115.178.50.125|8080|Indonesia|Pameungpeuk|NOC SIMAYA|
-|17|223.25.110.76|3125|Indonesia|Purbalingga|SinergiNet|
-|18|103.18.184.35|8080|Indonesia|Jember|PT. Jember Teknologi Solusi|
-|19|103.54.43.131|8080|Bangladesh|Dhaka|THE NET HEADS|
-|20|103.217.108.231|8080|Bangladesh|Dhaka|Dot Internet|
+|1|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
+|2|145.220.227.67|8080|The Netherlands|Utrecht|SURFnet III d|
+|3|219.94.75.2|8080|Malaysia|Seremban|TMnet|
+|4|151.242.116.35|8080|Singapore|Singapore|PT Perwira Media Solusi|
+|5|82.41.42.140|8181|Singapore|Singapore|PT Perwira Media Solusi|
+|6|125.25.167.196|80|Thailand|Bangkok|TOT Public Company Limited|
+|7|187.243.251.254|999|Mexico|Ahome|Mega Cable, S.A. de C.V.|
+|8|103.184.181.71|8080|Indonesia|Bangil|Lintas Data Prima, PT|
+|9|103.18.184.35|8080|Indonesia|Jember|PT. Jember Teknologi Solusi|
+|10|187.245.220.100|999|Mexico|Monterrey|Mega Cable, S.A. de C.V.|
+|11|103.139.98.118|8080|Indonesia|Bandar Lampung|Digital Network Setiawan|
+|12|49.147.42.169|8080|Philippines|Silay|Philippine Long Distance Telephone Co.|
+|13|45.175.39.115|999|Venezuela|Caracas|TCA SERVICES C.A.|
+|14|103.54.43.131|8080|Bangladesh|Dhaka|THE NET HEADS|
+|15|102.0.20.92|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
+|16|147.161.246.34|11516|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|17|181.233.88.218|999|Venezuela|Cabimas|Colnetwork C.A.|
+|18|154.17.8.103|1680|United States|Los Angeles|DMIT Cloud Services|
+|19|147.161.246.34|11516|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|20|138.122.184.167|999|Mexico|Mérida|Eva Virginia Castillo Chan|
 
 
 
