@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|462|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|462|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|462|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|620|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|620|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|620|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|3|145.220.227.67|8080|The Netherlands|Utrecht|SURFnet III d|
-|4|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|36.50.56.105|8818|Indonesia|Cibinong|PT Andromega Data Nusantara|
-|6|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|7|35.238.48.39|8888|United States|Council Bluffs|Google LLC|
-|8|147.161.246.34|11516|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|9|147.161.246.34|11516|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|10|147.161.246.34|11516|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|11|147.161.246.34|11516|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|12|147.161.246.34|11516|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|13|147.161.246.34|11516|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|14|147.161.246.34|11516|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|15|147.161.246.34|11516|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|16|147.161.246.34|11516|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|17|124.106.83.244|8083|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|18|213.217.34.20|8080|Syria|Damascus|ISP-TARASSUL|
-|19|34.43.46.91|443|United States|Mountain View|Google LLC|
-|20|103.53.184.186|8080|Indonesia|Makassar|BOSOWA|
+|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|2|124.217.78.75|8082|Philippines|Calasiao|Philippine Long Distance Telephone Co.|
+|3|167.99.8.113|8006|United States|North Bergen|DigitalOcean, LLC|
+|4|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|5|145.220.227.67|8080|The Netherlands|Utrecht|SURFnet III d|
+|6|34.43.46.91|443|United States|Mountain View|Google LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|38.188.63.115|8081|Indonesia|Margasari|PT Nesta Indo Media|
+|9|82.41.42.140|8181|Singapore|Singapore|PT Perwira Media Solusi|
+|10|45.195.105.20|8080|India|Mumbai|Real Time Data Services Private Limited|
+|11|160.30.204.24|60062|Vietnam|Vinhomes Smart City|TVC|
+|12|180.191.127.7|8082|Philippines|Cagayan de Oro|Globe Telecom|
+|13|180.191.142.188|8080|Philippines|Makati City|Globe Telecom|
+|14|118.69.186.75|1452|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|15|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|17|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|18|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|19|5.200.72.58|3128|Iran|Tehran|Bahar Samaneh Shargh|
+|20|103.215.187.67|8080|Indonesia|South Jakarta|PT Jaringan Inti Exadata|
 
 
 
