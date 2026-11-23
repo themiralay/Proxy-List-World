@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|460|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|460|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|460|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|419|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|419|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|419|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|124.105.196.148|8081|Philippines|Paco|Philippine Long Distance Telephone Co.|
-|2|163.128.137.235|8080|Indonesia|Srandakan|PT DIGITAL MYFREND SOLUSINDO|
-|3|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|4|165.101.43.125|8080|Indonesia|Panaragan|PT Lintas Jaringan Nusantara|
-|5|160.30.204.24|60062|Vietnam|Vinhomes Smart City|TVC|
-|6|103.151.35.141|8080|Indonesia|Tangerang|GAYUHNET|
-|7|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|8|125.25.53.180|8080|Thailand|Bangkok|TOT Public Company Limited|
-|9|125.25.53.180|8080|Thailand|Bangkok|TOT Public Company Limited|
-|10|49.149.162.144|8082|Philippines|Cagayan de Oro|Philippine Long Distance Telephone Co.|
-|11|37.187.109.70|10111|France|Roubaix|OVH SAS|
-|12|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|13|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|14|188.132.249.144|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
-|15|200.118.238.71|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|1.20.101.33|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
-|18|183.236.232.160|8080|China|Guangzhou|China Mobile communications corporation|
-|19|134.199.160.93|8888|Australia|Sydney|DigitalOcean, LLC|
-|20|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
+|1|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|2|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|3|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
+|4|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|5|163.128.137.235|8080|Indonesia|Srandakan|PT DIGITAL MYFREND SOLUSINDO|
+|6|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|7|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|8|103.151.35.141|8080|Indonesia|Tangerang|GAYUHNET|
+|9|185.196.182.29|8080|Albania|Krume|shqiponjaisp.al LLC|
+|10|79.106.229.208|8989|Albania|Peqin|DUR-ISP|
+|11|103.160.202.174|3125|Indonesia|Ponorogo|PT Sembilan Mediadata Nusaraya|
+|12|190.104.35.30|8081|Argentina|Buenos Aires|Jumpnet Soluciones de Internet S.R.L.|
+|13|177.234.217.85|999|Ecuador|Quito|Ufinet Panama S.A.|
+|14|43.129.31.69|9055|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|15|49.146.231.205|8081|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|16|206.135.63.146|999|Mexico|Huamantla|Ientc S De RL De CV|
+|17|181.78.195.137|999|Ecuador|Naranjito|Ufinet Panama S.A.|
+|18|134.199.160.93|8888|Australia|Sydney|DigitalOcean, LLC|
+|19|161.49.84.3|8081|Philippines|Pasig|Converge ICT Solution Inc|
+|20|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 
 
 
