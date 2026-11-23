@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4696** proxies at the latest update. Usable proxies are below.
+> Scraper found **4742** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|402|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|402|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|402|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|487|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|487|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|487|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|786|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|832|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|809|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2401|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|2|112.208.166.226|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|3|202.29.215.78|8080|Thailand|Sai Buri|Office of Info.Tech. Admin. for Educational Development|
-|4|177.234.217.84|999|Ecuador|Quito|Ufinet Panama S.A.|
-|5|122.3.127.68|8080|Philippines|Pasig|Philippine Long Distance Telephone Co.|
-|6|144.79.181.39|8090|Indonesia|Lubuk Pakam|PT SAHABAT INDONESIA INTERNET|
-|7|38.44.17.142|999|Dominican Republic|Yamasá|REYNOSO, S.R.L.|
-|8|114.130.153.46|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|9|175.162.112.111|6000|China|Shenyang|China Unicom Liaoning Province Network|
-|10|116.80.49.179|6000|Japan|Shinjuku|InfoSphere|
-|11|36.92.199.158|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
-|12|212.175.50.76|8085|Türkiye|Ankara|Turk Telekomunikasyon Anonim Sirketi|
-|13|103.215.187.67|8080|Indonesia|South Jakarta|PT Jaringan Inti Exadata|
-|14|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|15|36.67.114.94|8187|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
-|16|181.78.79.11|999|Colombia|Manizales|Ufinet Panama S.A.|
-|17|103.220.23.115|8080|Indonesia|Surabaya|CV. LINTAS MEDIA|
-|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|19|154.201.127.230|8080|India|Noida|Real Time Data Services Private Limited|
-|20|181.119.185.194|999|Ecuador|Quito|Ufinet Panama S.A.|
+|1|103.122.67.91|8080|Indonesia|Ponorogo|PT. Jinom Network Indonesia|
+|2|134.199.160.93|8888|Australia|Sydney|DigitalOcean, LLC|
+|3|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
+|4|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|5|103.106.112.166|1234|Indonesia|Labuhanmaringgai|SMSNET|
+|6|160.19.19.9|8080|Indonesia|Bandung|PT Indo Telemedia Solusi|
+|7|36.66.121.131|8080|Indonesia|East Jakarta|Telekomunikasi Indonesia|
+|8|51.68.102.5|3130|France|Roubaix|OVH SAS|
+|9|160.19.145.101|3127|Indonesia|Demak|Lintas Data Prima, PT|
+|10|202.21.124.132|1011|Mongolia|Ulan Bator|Mobinet LLC|
+|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|12|103.185.48.50|8080|Indonesia|Ciputat|PT Bittara Interkoneksi Nusantara|
+|13|45.194.3.108|8080|India|Noida|CtrlS|
+|14|101.255.151.246|8080|Indonesia|Central Jakarta|PT Remala Abadi|
+|15|152.32.64.43|8095|Philippines|Mandaluyong|Converge ICT Solution Inc|
+|16|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
+|17|103.22.99.95|1111|Indonesia|Magetan|KHALISTAGROUP|
+|18|1.20.101.24|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
+|19|114.130.153.46|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|20|103.210.123.195|8080|Indonesia|Makassar|JNETWORK|
 
 
 
