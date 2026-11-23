@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|440|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|440|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|440|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|470|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|470|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|470|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|1|118.69.186.75|1452|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
 |2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|3|34.43.46.91|443|United States|Mountain View|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|6|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|7|37.187.109.70|10111|France|Roubaix|OVH SAS|
-|8|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|9|45.195.91.59|8080|India|Noida|Real Time Data Services Private Limited|
-|10|37.187.109.70|10111|France|Roubaix|OVH SAS|
-|11|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|12|113.53.29.176|8080|Thailand|Phuket|TOT Public Company Limited|
-|13|43.161.254.16|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|104.219.55.50|8118|United States|Dallas|Atlantic.net|
+|4|125.25.53.180|8080|Thailand|Bangkok|TOT Public Company Limited|
+|5|112.203.216.218|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|6|146.190.60.147|8019|United States|Santa Clara|DigitalOcean, LLC|
+|7|27.147.155.206|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|8|163.227.87.123|5050|Philippines|Mabini|Clian Internet and I.T. Services|
+|9|180.191.98.117|8080|Philippines|Makati City|Globe Telecom|
+|10|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|11|38.49.138.197|999|Mexico|Emiliano Zapata|IENTC S de RL de CV|
+|12|103.165.212.26|8080|Indonesia|Malang|PT iForte Global Internet|
+|13|203.99.183.197|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
 |14|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|15|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
-|16|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|15|112.202.247.109|3128|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|16|157.10.226.93|8080|Pakistan|Lahore|ROUTE 1 DIGITAL (PVT.) LIMITED|
 |17|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
 |18|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|19|206.135.47.107|999|Mexico|Puebla City|Ientc S De RL De CV|
-|20|34.43.46.91|443|United States|Mountain View|Google LLC|
+|19|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|20|177.234.217.43|999|Ecuador|Quito|Ufinet Panama S.A.|
 
 
 
