@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|452|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|452|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|452|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|437|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|437|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|437|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.161.254.16|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|180.191.59.56|8081|Philippines|Tarlac City|Globe Telecom|
+|1|103.4.76.237|1111|Indonesia|Depok|PT Khazanah Net Indonesia|
+|2|151.242.116.35|8080|Singapore|Singapore|PT Perwira Media Solusi|
 |3|171.232.69.145|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
 |4|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
-|5|38.226.243.191|8080|Indonesia|Randudongkal|PT Putra Garsel Interkoneksi|
-|6|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|7|38.57.65.195|999|Dominican Republic|Santo Domingo Este|FALCO TELECOM, S.R.L.|
-|8|101.255.210.9|3125|Indonesia|Depok|PT Remala Abadi|
-|9|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|5|58.136.169.184|8080|Thailand|Bangkok|AIS-Fibre|
+|6|182.52.113.74|80|Thailand|Bangkok|TOT Public Company Limited|
+|7|202.47.188.205|1111|Indonesia|Madiun|Lintas Data Prima, PT|
+|8|145.220.227.67|8080|The Netherlands|Utrecht|SURFnet III d|
+|9|38.253.85.3|999|Dominican Republic|Maimón|Cogent Communications|
 |10|8.219.94.23|7890|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|103.242.105.31|8080|Indonesia|Subang|PT Lintas Jaringan Nusantara|
-|12|126.209.53.149|8181|Philippines|Manila|Infinivan Incoporated|
-|13|103.234.19.238|8080|Indonesia|Tangerang|PT Widjaja Piranti Teknologi|
-|14|160.191.173.53|8080|Indonesia|Salatiga|PT Citra Angkasa Lintas Media|
-|15|38.252.145.15|999|Mexico|Actopan|Osbaldo Tovar Campero|
-|16|38.226.243.161|8080|Indonesia|Randudongkal|PT Putra Garsel Interkoneksi|
-|17|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|18|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|19|103.234.35.166|8080|Indonesia|Jember|PT. EXABIT GROUP NETWORK|
-|20|51.68.102.5|3130|France|Roubaix|OVH SAS|
+|11|122.52.110.142|5050|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|12|160.25.35.206|8181|Indonesia|Pandeglang|PT AURORA SENTRAL INFORMATIKA|
+|13|103.122.66.221|8080|Indonesia|Ponorogo|PT. Jinom Network Indonesia|
+|14|51.68.102.5|3130|France|Roubaix|OVH SAS|
+|15|103.183.8.243|8080|Indonesia|Cilaja|PT Cepat Multi Data|
+|16|103.168.210.122|80|India|Delhi|ATC INFOCOM SOLUTIONS|
+|17|38.191.198.90|999|Colombia|Puerto López|TV&MÁS S.A.S|
+|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|19|38.49.138.202|999|Mexico|Emiliano Zapata|IENTC S de RL de CV|
+|20|153.56.246.169|8080|Türkiye|Istanbul|High Speed For Internet Services L.L.C|
 
 
 
