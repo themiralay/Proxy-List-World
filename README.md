@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4741** proxies at the latest update. Usable proxies are below.
+> Scraper found **4482** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|527|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|564|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|750|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|454|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2764|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.43.46.91|80|United States|Mountain View|Google LLC|
-|2|27.72.98.89|8443|Vietnam|Hanoi|Newass2011xDSLHN|
-|3|34.43.46.91|80|United States|Mountain View|Google LLC|
-|4|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
-|5|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|6|34.43.46.91|80|United States|Mountain View|Google LLC|
-|7|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
-|8|113.53.29.176|80|Thailand|Phuket|TOT Public Company Limited|
-|9|103.97.140.226|8080|Indonesia|Cianjur|PT Jembatan Data Pangrango|
+|1|134.199.160.93|8888|Australia|Sydney|DigitalOcean, LLC|
+|2|34.43.46.91|80|United States|Mountain View|Google LLC|
+|3|125.25.53.180|8080|Thailand|Bangkok|TOT Public Company Limited|
+|4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|5|34.43.46.91|80|United States|Mountain View|Google LLC|
+|6|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
+|7|91.210.117.184|8080|Ukraine|Odesa|Miratel Ltd|
+|8|103.130.129.231|10001|Indonesia|Bogor|PT. Eka Mas Republik|
+|9|103.31.103.71|8080|Pakistan|Karachi|Cyber Internet Services Pakistan|
 |10|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|11|171.252.33.109|3128|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|12|103.130.129.231|10001|Indonesia|Bogor|PT. Eka Mas Republik|
-|13|177.234.217.85|999|Ecuador|Quito|Ufinet Panama S.A.|
-|14|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
-|15|192.141.165.131|999|Honduras|Catacamas|Denis Javier Rodríguez Guzmán|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|125.25.53.180|8080|Thailand|Bangkok|TOT Public Company Limited|
-|18|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|19|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|20|103.81.65.77|8080|Indonesia|Sukoharjo Satu|QIUNET|
+|11|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|12|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|13|103.217.108.231|8080|Bangladesh|Dhaka|Dot Internet|
+|14|123.24.119.227|3128|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|177.234.217.85|999|Ecuador|Quito|Ufinet Panama S.A.|
+|16|89.251.21.179|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
+|17|167.99.3.26|9311|United States|North Bergen|DigitalOcean, LLC|
+|18|20.33.10.79|80|South Africa|Johannesburg|Microsoft Corporation|
+|19|113.53.29.212|80|Thailand|Phuket|TOT Public Company Limited|
+|20|113.53.29.115|80|Thailand|Phuket|TOT Public Company Limited|
 
 
 
