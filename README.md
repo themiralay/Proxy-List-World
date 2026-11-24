@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|2|34.43.46.91|80|United States|Mountain View|Google LLC|
-|3|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
-|4|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|5|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|6|103.147.135.17|8082|Indonesia|Gunungtengah|PT.MURNI MAKMUR ABADI|
-|7|103.112.44.197|8085|Indonesia|Bandung|PT.Globalnet Multi Data|
-|8|45.175.39.115|999|Venezuela|Caracas|TCA SERVICES C.A.|
-|9|203.201.190.67|8080|Indonesia|Tulang Bawang Regency|PT WIRA HASTA JITU|
-|10|182.52.136.70|80|Thailand|Bangkok|TOT Public Company Limited|
-|11|38.10.71.91|8080|Turkey|Karaköprü|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|12|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
-|13|147.161.246.34|12564|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|1|34.43.46.91|80|United States|Mountain View|Google LLC|
+|2|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|3|145.220.227.67|8080|The Netherlands|Utrecht|SURFnet III d|
+|4|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
+|5|45.144.49.64|5443|Poland|Warsaw|3hcloud|
+|6|180.191.143.156|8081|Philippines|Makati City|Globe Telecom|
+|7|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|8|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|9|103.66.12.225|8080|India|Gopālasamudram|Alacriy Net System Service Private Limited|
+|10|170.244.91.137|999|Venezuela|Caracas|WELLCOMM TECNOLOGÍA, C.A.|
+|11|101.255.32.42|8080|Indonesia|East Jakarta|PT Remala Abadi|
+|12|206.135.47.107|999|Mexico|Puebla City|Ientc S De RL De CV|
+|13|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
 |14|147.161.246.34|12564|Switzerland|Zurich|Zscaler Switzerland GmbH|
 |15|147.161.246.34|12564|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|16|38.156.23.41|999|Dominican Republic|Santo Domingo Este|Visnetwork SRL|
-|17|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|18|147.161.246.34|12564|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|19|147.161.246.34|12564|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|20|147.161.246.34|12564|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|16|147.161.246.34|12564|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|17|147.161.246.34|12564|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|18|91.208.42.2|7890|Russia|Moscow|Pravilnyy khosting Ltd|
+|19|103.125.19.94|8080|Indonesia|Kresek|JAVAMEDIA|
+|20|201.4.68.252|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
 
 
 
