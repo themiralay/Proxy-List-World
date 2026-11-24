@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|497|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|497|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|497|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|3|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|4|34.43.46.91|80|United States|Mountain View|Google LLC|
-|5|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|6|103.193.144.251|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|7|113.160.155.121|19132|Vietnam|Từ Sơn|VietNam Post and Telecom Corporation|
-|8|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
-|9|121.101.130.135|8181|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|10|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
-|11|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
+|2|180.190.24.163|9999|Philippines|Marikina City|Globe Telecom|
+|3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|4|103.134.222.170|8888|Indonesia|Boyolali|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
+|5|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
+|6|118.173.233.203|443|Thailand|Bangkok|TOT Public Company Limited|
+|7|45.198.10.106|8080|Indonesia|Jatiroto|PT Jaringan Lintas Artha|
+|8|34.43.46.91|80|United States|Mountain View|Google LLC|
+|9|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|10|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|11|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
 |12|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|13|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
-|14|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|15|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
-|16|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|17|5.200.72.58|3128|Iran|Tehran|Bahar Samaneh Shargh|
-|18|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|19|216.125.18.67|3128|United States|Brookfield|Illinois Century Network|
-|20|154.59.207.8|999|Dominican Republic|Santo Domingo Este|Cogent Communications|
+|13|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
+|14|193.43.140.240|8080|Syria|Damascus|Syrian Telecom|
+|15|103.125.174.83|8080|Indonesia|Stabat|PT Trinity Teknologi Nusantara|
+|16|34.43.46.91|80|United States|Mountain View|Google LLC|
+|17|112.203.35.174|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|18|95.3.92.2|8080|Türkiye|Arnavutköy|Turk Telekomunikasyon Anonim Sirketi|
+|19|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|20|103.97.140.226|8080|Indonesia|Cianjur|PT Jembatan Data Pangrango|
 
 
 
