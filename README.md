@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|398|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|398|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|398|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|493|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|493|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|493|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|3|103.247.23.244|1111|Indonesia|Banyumas|PT wifian Solution|
-|4|118.173.233.203|443|Thailand|Bangkok|TOT Public Company Limited|
-|5|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|6|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
-|7|147.161.246.34|12564|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|8|200.36.152.6|999|Venezuela|Concepción|NAVEGANTE NETWORK, C.A.|
-|9|147.161.246.34|12564|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|10|147.161.246.34|12564|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|11|147.161.246.34|12564|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|2|222.127.54.16|8080|Philippines|Lahug|INNOVE|
+|3|34.43.46.91|80|United States|Mountain View|Google LLC|
+|4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|5|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
+|6|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|7|103.13.204.84|8082|Indonesia|Kajar|PT JARINGANKU SARANA NUSANTARA|
+|8|157.66.50.125|1111|Indonesia|Rengasdengklok|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|9|157.10.97.91|7000|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
+|10|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|11|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
 |12|147.161.246.34|12564|Switzerland|Zurich|Zscaler Switzerland GmbH|
 |13|147.161.246.34|12564|Switzerland|Zurich|Zscaler Switzerland GmbH|
 |14|147.161.246.34|12564|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|15|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|15|147.161.246.34|12564|Switzerland|Zurich|Zscaler Switzerland GmbH|
 |16|147.161.246.34|12564|Switzerland|Zurich|Zscaler Switzerland GmbH|
 |17|147.161.246.34|12564|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|18|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|19|38.103.250.204|8080|Indonesia|Kudus|PT Erajaya Telco Indonesia / Eratel /Eratelindo|
-|20|103.80.214.177|8080|Indonesia|Sidoarjo|PT Redi Revolusi Digital Solusi|
+|18|147.161.246.34|12564|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|19|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|20|147.161.246.34|12564|Switzerland|Zurich|Zscaler Switzerland GmbH|
 
 
 
