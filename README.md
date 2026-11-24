@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|448|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|448|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|448|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|388|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|388|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|388|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.248.84.131|8080|Vietnam|Hanoi|VNPT|
+|1|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
 |2|34.43.46.91|80|United States|Mountain View|Google LLC|
 |3|34.43.46.91|80|United States|Mountain View|Google LLC|
-|4|200.94.24.47|999|Mexico|Francisco I. Madero|Alestra, S. de R.L. de C.V.|
-|5|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|6|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
-|7|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
-|8|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
-|9|1.20.101.17|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
-|10|125.25.53.180|8080|Thailand|Bangkok|TOT Public Company Limited|
-|11|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|5|49.151.183.37|8082|Philippines|Clark Freeport Zone|Philippine Long Distance Telephone Co.|
+|6|203.201.190.67|8080|Indonesia|Tulang Bawang Regency|PT WIRA HASTA JITU|
+|7|103.90.67.170|8080|Indonesia|Belawan|PT Rajawali Bintang Cemerlang Telkomedia|
+|8|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
+|9|206.135.47.107|999|Mexico|Puebla City|Ientc S De RL De CV|
+|10|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|11|180.190.24.163|9999|Philippines|Marikina City|Globe Telecom|
 |12|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
 |13|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|14|181.204.39.202|26312|Colombia|Floridablanca|EPM Telecomunicaciones S.A. E.S.P.|
-|15|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|16|113.53.29.245|80|Thailand|Phuket|TOT Public Company Limited|
-|17|87.225.97.15|81|Russia|Khabarovsk|PJSC Rostelecom|
-|18|181.205.205.170|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|19|177.234.217.84|999|Ecuador|Quito|Ufinet Panama S.A.|
-|20|177.234.217.85|999|Ecuador|Quito|Ufinet Panama S.A.|
+|14|171.252.33.109|3128|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|15|113.53.29.245|80|Thailand|Phuket|TOT Public Company Limited|
+|16|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|17|200.94.24.47|999|Mexico|Francisco I. Madero|Alestra, S. de R.L. de C.V.|
+|18|181.176.2.246|8443|Peru|Lima|VIETTEL PERÚ S.A.C.|
+|19|103.86.135.98|8080|Pakistan|Multan|Mian Internet Services (Pvt) Ltd|
+|20|182.253.40.39|8080|Indonesia|Central Jakarta|BIZNET|
 
 
 
