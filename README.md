@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|462|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|462|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|462|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|509|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|509|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|509|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|58.69.124.137|8080|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|2|171.252.33.109|3128|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|3|145.220.227.24|8080|The Netherlands|Utrecht|SURFnet III d|
-|4|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
-|5|36.50.92.164|8080|Indonesia|Gombong|PT Ring Media Nusantara|
-|6|202.152.134.202|8071|Indonesia|Yogyakarta|PT Jembatan Citra Nusantara|
-|7|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
-|8|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
-|9|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
-|10|182.253.40.39|8080|Indonesia|Central Jakarta|BIZNET|
-|11|180.191.235.172|8080|Philippines|Marilao|Globe Telecom|
-|12|38.191.198.90|999|Colombia|Puerto López|TV&MÁS S.A.S|
-|13|206.135.78.58|999|Mexico|San Rafael|Ientc S De RL De CV|
-|14|103.156.114.46|8080|Indonesia|Cileunyi|MYREPUBLIC|
-|15|120.28.169.31|5050|Philippines|Iloilo City|Globe Telecom|
+|1|157.15.40.219|8080|Indonesia|Madiun|PT Trisari Data Indonusa|
+|2|145.220.227.24|8080|The Netherlands|Utrecht|SURFnet III d|
+|3|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
+|4|38.43.88.123|999|Mexico|Villahermosa|Gotv S De RL De CV|
+|5|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
+|6|85.133.169.45|8118|Iran|Tehran|Dade Pardaz Kimia Pouyesh PJS.|
+|7|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
+|8|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
+|9|1.10.133.83|8081|Thailand|Tha Kham|TOT Public Company Limited|
+|10|180.194.112.227|2020|Philippines|Davao City|Philippine Long Distance Telephone Co.|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|58.69.124.137|8080|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|13|103.227.187.23|8080|Indonesia|Wirodayan|PT Master Star Network|
+|14|147.161.246.34|10186|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|15|147.161.246.34|10186|Switzerland|Zurich|Zscaler Switzerland GmbH|
 |16|147.161.246.34|10186|Switzerland|Zurich|Zscaler Switzerland GmbH|
 |17|147.161.246.34|10186|Switzerland|Zurich|Zscaler Switzerland GmbH|
 |18|147.161.246.34|10186|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|19|147.161.246.34|10186|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|19|103.214.189.41|80|India|Varanasi|Ikon Broadband Private Limited|
 |20|147.161.246.34|10186|Switzerland|Zurich|Zscaler Switzerland GmbH|
 
 
