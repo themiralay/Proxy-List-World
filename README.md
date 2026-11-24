@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|573|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|573|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|573|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|693|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|693|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|693|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|3|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|5|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
-|6|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
-|7|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|8|123.24.119.227|3128|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|181.143.42.138|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|10|45.167.125.62|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|11|112.203.223.38|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|13|147.161.246.34|10868|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|14|90.38.232.85|8118|France|Saint-Etienne|Orange|
-|15|147.161.246.34|10868|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|16|116.204.166.148|8080|Turkey|Hıdırbey|High Speed For Internet Services L.L.C|
-|17|180.191.232.182|3128|Philippines|Marilao|Globe Telecom|
-|18|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|19|147.161.246.34|10868|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|20|147.161.246.34|10868|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|2|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|4|34.43.46.91|80|United States|Mountain View|Google LLC|
+|5|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|7|103.155.196.48|8181|Indonesia|Sukabumi|JEMBATANDATA|
+|8|82.41.42.140|8181|Singapore|Singapore|PT Perwira Media Solusi|
+|9|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
+|10|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
+|11|186.7.157.48|8080|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A.|
+|12|202.84.39.103|8674|Bangladesh|Dhaka|Bangladesh Online Ltd.|
+|13|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|14|103.97.140.199|8080|Indonesia|Cianjur|PT Jembatan Data Pangrango|
+|15|38.226.243.161|8080|Indonesia|Randudongkal|PT Putra Garsel Interkoneksi|
+|16|45.227.195.121|8082|Brazil|Chapecó|Mhnet Telecom|
+|17|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
+|18|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|19|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|20|103.97.141.85|8080|Indonesia|Cianjur|PT Jembatan Data Pangrango|
 
 
 
