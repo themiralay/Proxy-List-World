@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|2|173.205.202.225|8181|United States|Kirklin|Swayzee Telephone Company, Inc.|
-|3|180.194.222.21|8000|Philippines|Zamboanga City|Philippine Long Distance Telephone Co.|
-|4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|5|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|6|124.106.83.244|8083|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|7|180.191.120.247|5050|Philippines|Cagayan de Oro|Globe Telecom|
+|2|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
+|3|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|4|34.43.46.91|80|United States|Mountain View|Google LLC|
+|5|34.43.46.91|80|United States|Mountain View|Google LLC|
+|6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|7|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
 |8|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
-|9|187.245.220.100|999|Mexico|Monterrey|Mega Cable, S.A. de C.V.|
+|9|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
 |10|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
 |11|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|12|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|12|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
 |13|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|14|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
-|15|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|16|1.20.101.21|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
-|17|180.191.100.135|8082|Philippines|Makati City|Globe Telecom|
-|18|5.26.111.181|8080|Türkiye|Kartal|Turkcell Internet|
-|19|206.135.47.107|999|Mexico|Puebla City|Ientc S De RL De CV|
-|20|103.51.205.94|8080|Indonesia|Karanganyar|Lintas Data Prima, PT|
+|14|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|15|180.191.120.247|5050|Philippines|Cagayan de Oro|Globe Telecom|
+|16|113.53.29.204|80|Thailand|Phuket|TOT Public Company Limited|
+|17|112.202.247.109|3128|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|18|206.135.47.110|999|Mexico|Puebla City|Ientc S De RL De CV|
+|19|124.106.83.244|8083|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|20|13.231.154.29|80|Japan|Tokyo|Amazon.com, Inc.|
 
 
 
