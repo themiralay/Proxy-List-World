@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|491|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|491|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|491|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|556|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|556|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|556|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|119.28.155.151|3128|South Korea|Seoul|ComsenzNet|
-|2|45.194.3.108|8080|India|Noida|CtrlS|
-|3|115.85.88.18|8080|Indonesia|Jakarta|Sudirman Central Business District|
-|4|27.147.156.174|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|5|34.43.46.91|80|United States|Mountain View|Google LLC|
-|6|34.43.46.91|80|United States|Mountain View|Google LLC|
-|7|27.147.153.179|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|8|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
-|9|101.255.45.44|8080|Indonesia|East Jakarta|PT Remala Abadi|
-|10|51.68.102.5|3130|France|Roubaix|OVH SAS|
-|11|197.248.210.41|8080|Kenya|Nairobi|Safaricom Limited|
-|12|175.158.40.224|1616|Indonesia|North Jakarta|Indonesia Network Information Center|
-|13|49.151.183.37|8082|Philippines|Clark Freeport Zone|Philippine Long Distance Telephone Co.|
-|14|190.97.250.230|999|Venezuela|San Francisco de Yare|Viginet C.A|
-|15|107.181.112.136|8444|United States|Wilmington|DedFiberCo|
-|16|157.10.226.93|8080|Pakistan|Lahore|ROUTE 1 DIGITAL (PVT.) LIMITED|
-|17|201.131.237.163|999|Mexico|Fresnillo|Telecable del Mineral, S. A. de C.V.|
-|18|163.47.25.70|3128|Indonesia|Cikampek|PT STAR HOME INDONESIA|
-|19|45.6.224.76|1256|Ecuador|Ambato|Teneda Corporación CIA. LTDA|
-|20|163.223.105.86|5052|Philippines|Ormoc City|Queens link technology Inc.|
+|2|139.135.182.132|8081|Philippines|Santo Tomas|ComClark Network & Technology Corp|
+|3|34.43.46.91|80|United States|Mountain View|Google LLC|
+|4|34.43.46.91|80|United States|Mountain View|Google LLC|
+|5|103.156.75.243|3125|Indonesia|Gianyar|PT Trika Global Media|
+|6|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
+|7|51.68.102.5|3130|France|Roubaix|OVH SAS|
+|8|139.135.77.166|8085|Philippines|Tibigan|Dito Telecommunity Corp.|
+|9|118.136.142.110|8080|Indonesia|North Jakarta|Linknet-Fastnet ASN|
+|10|116.254.113.84|8080|Indonesia|Semarang|PT Media Sarana Data|
+|11|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
+|12|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
+|13|180.191.235.225|8080|Philippines|Marilao|Globe Telecom|
+|14|62.201.217.194|8080|Iraq|Kelar|BAG|
+|15|182.253.25.184|9091|Indonesia|West Jakarta|BIZNET|
+|16|103.188.252.39|8080|Indonesia|Ungaran|PT Data Lintas Media Indonesia|
+|17|190.43.92.28|999|Peru|Lima|Telefonica Del Peru|
+|18|38.188.63.115|8081|Indonesia|Margasari|PT Nesta Indo Media|
+|19|103.97.141.40|8080|Indonesia|Cianjur|PT Jembatan Data Pangrango|
+|20|160.19.19.122|8090|Indonesia|Bandung|PT Indo Telemedia Solusi|
 
 
 
