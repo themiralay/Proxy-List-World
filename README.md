@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|368|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|368|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|368|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.43.46.91|80|United States|Mountain View|Google LLC|
+|1|45.195.91.59|8080|India|Noida|Real Time Data Services Private Limited|
 |2|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|3|145.220.227.67|8080|The Netherlands|Utrecht|SURFnet III d|
-|4|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
-|5|45.144.49.64|5443|Poland|Warsaw|3hcloud|
-|6|180.191.143.156|8081|Philippines|Makati City|Globe Telecom|
-|7|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|8|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|9|103.66.12.225|8080|India|Gopālasamudram|Alacriy Net System Service Private Limited|
-|10|170.244.91.137|999|Venezuela|Caracas|WELLCOMM TECNOLOGÍA, C.A.|
-|11|101.255.32.42|8080|Indonesia|East Jakarta|PT Remala Abadi|
-|12|206.135.47.107|999|Mexico|Puebla City|Ientc S De RL De CV|
-|13|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|14|147.161.246.34|12564|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|15|147.161.246.34|12564|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|16|147.161.246.34|12564|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|17|147.161.246.34|12564|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|18|91.208.42.2|7890|Russia|Moscow|Pravilnyy khosting Ltd|
-|19|103.125.19.94|8080|Indonesia|Kresek|JAVAMEDIA|
-|20|201.4.68.252|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
+|3|34.43.46.91|80|United States|Mountain View|Google LLC|
+|4|202.154.17.18|8080|Indonesia|Krian|PT Eno Cyber Sentinel|
+|5|180.194.78.50|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
+|6|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
+|7|202.62.67.209|53281|India|Rasapūdipalem|CityOnline Services|
+|8|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
+|9|38.7.22.165|999|Mexico|Morelia|Internet Telefonia Y TV De Michoacan SA De CV|
+|10|1.20.101.25|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
+|11|160.22.45.78|8097|Indonesia|Marisa|PT Celebes Multi Network|
+|12|209.62.196.68|8080|United States|Cut Off|EATEL|
+|13|23.185.192.66|8181|United States|Frankfort|Swayzee Telephone Company, Inc.|
+|14|200.60.102.51|8080|Peru|Lima|Telefonica del Peru S.A.A.|
+|15|110.93.244.217|8080|Pakistan|Karachi|Trans World Enterprise Services (Private) Limited|
+|16|45.232.0.2|8080|Argentina|San Miguel de Tucumán|Sistemas Informaticos S.A.S.|
+|17|157.10.97.91|7000|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
+|18|200.59.191.137|999|Venezuela|Trujillo|TotalCom Venezuela C.A.|
+|19|180.191.136.92|8082|Philippines|Cebu City|Globe Telecom|
+|20|147.161.246.34|12564|Switzerland|Zurich|Zscaler Switzerland GmbH|
 
 
 
