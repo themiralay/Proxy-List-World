@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|739|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|739|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|739|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|659|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|659|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|659|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|223.25.110.76|3125|Indonesia|Purbalingga|SinergiNet|
-|2|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|34.43.46.91|80|United States|Mountain View|Google LLC|
-|4|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
-|5|122.53.48.41|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|1|103.134.222.170|8888|Indonesia|Boyolali|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
+|2|112.203.223.38|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|3|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
+|4|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|34.43.46.91|80|United States|Mountain View|Google LLC|
 |6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|7|104.161.23.122|5080|United States|Phoenix|Input Output Flood LLC|
+|7|149.56.110.191|8118|Canada|Montreal|OVH SAS|
 |8|51.68.102.5|3130|France|Roubaix|OVH SAS|
-|9|125.25.53.180|8080|Thailand|Bangkok|TOT Public Company Limited|
-|10|120.28.117.92|8081|Philippines|San Juan|Globe Telecom|
-|11|103.134.222.170|8888|Indonesia|Boyolali|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
-|12|212.175.50.85|8085|Türkiye|Ankara|Turk Telekomunikasyon Anonim Sirketi|
-|13|206.135.80.74|999|Mexico|Querétaro City|Ientc S De RL De CV|
-|14|38.226.243.191|8080|Indonesia|Randudongkal|PT Putra Garsel Interkoneksi|
-|15|151.242.116.35|8080|Singapore|Singapore|PT Perwira Media Solusi|
-|16|103.161.162.102|1111|Indonesia|Caringin|PT Orbit Eka Semesta|
-|17|183.88.218.225|8080|Thailand|Kanchanaburi|Triple T Broadband Public Company Limited|
-|18|169.58.121.28|6666|France|Lauterbourg|Contabo GmbH|
-|19|180.191.231.19|8082|Philippines|Talisay City|Globe Telecom|
-|20|103.153.62.155|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|9|201.165.146.146|999|Mexico|Yecuatla|Mega Cable, S.A. de C.V.|
+|10|103.153.62.155|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|11|104.161.23.122|5080|United States|Phoenix|Input Output Flood LLC|
+|12|125.22.79.106|80|India|Gurugram|Bharti Airtel Ltd.|
+|13|182.52.113.61|80|Thailand|Bangkok|TOT Public Company Limited|
+|14|80.225.250.95|8888|India|Mumbai|Oracle Corporation|
+|15|179.1.182.25|999|Colombia|Villavieja|Internexa S.a. E.S.P|
+|16|182.52.113.57|80|Thailand|Bangkok|TOT Public Company Limited|
+|17|103.55.22.52|8090|Indonesia|Kisaran|PT General Media Network|
+|18|47.245.30.253|8080|Japan|Tokyo|Alibaba Cloud LLC|
+|19|38.137.232.153|999|Venezuela|Caracas|CORPORACIÓN GALA IT C.A|
+|20|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
 
 
 
