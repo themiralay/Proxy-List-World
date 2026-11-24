@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4852** proxies at the latest update. Usable proxies are below.
+> Scraper found **4767** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|518|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|518|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|518|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|451|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|451|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|451|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|791|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|800|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|715|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2561|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.79.142.230|38414|Singapore|Singapore|OVH SAS|
+|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 |2|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|4|163.223.9.4|7777|Vietnam|Ho Chi Minh City|NPL|
-|5|157.66.236.199|1111|Indonesia|Kediri|PT DHAHA PRIMA NET|
-|6|145.220.227.24|8080|The Netherlands|Utrecht|SURFnet III d|
-|7|45.194.3.108|8080|India|Noida|CtrlS|
-|8|98.153.152.141|7070|United States|Los Angeles|Charter Communications Inc|
-|9|104.194.146.9|80|United Kingdom|City of London|FranTech Solutions|
-|10|103.139.98.118|8080|Indonesia|Bandar Lampung|Digital Network Setiawan|
-|11|167.234.251.155|8880|Brazil|São Paulo|Oracle Corporation|
-|12|192.232.48.1|8181|Indonesia|Pringsewu|PT Axindo Infinitas Network|
-|13|189.187.131.201|999|Mexico|Irapuato|Uninet S.A. de C.V|
-|14|111.118.149.40|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|15|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
-|16|206.135.47.106|999|Mexico|Puebla City|Ientc S De RL De CV|
-|17|160.19.41.45|80|India|New Delhi|ATC INFOCOM SOLUTIONS PVT LTD|
-|18|124.6.164.13|3128|Philippines|Lahug|INNOVE|
-|19|193.33.157.118|8080|Syria|Aleppo|High Speed For Internet Services L.L.C|
-|20|177.234.217.235|999|Ecuador|Quito|Ufinet Panama S.A.|
+|3|145.220.227.24|8080|The Netherlands|Utrecht|SURFnet III d|
+|4|45.194.3.108|8080|India|Noida|CtrlS|
+|5|124.105.20.100|8082|Philippines|Pasay|Philippine Long Distance Telephone Co.|
+|6|182.52.113.54|80|Thailand|Bangkok|TOT Public Company Limited|
+|7|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
+|8|91.149.142.139|8080|Belarus|Minsk|Cosmos TV Jllc|
+|9|67.20.129.199|8080|United States|Okatie|Hargray Communications Group, Inc.|
+|10|179.1.182.28|999|Colombia|Medellín|Internexa S.a. E.S.P|
+|11|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|124.6.164.13|3128|Philippines|Lahug|INNOVE|
+|13|147.161.246.34|10801|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|14|147.161.246.34|10801|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|15|147.161.246.34|10801|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|16|147.161.246.34|10801|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|17|147.161.246.34|10801|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|18|147.161.246.34|10801|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|19|160.19.16.45|8181|Indonesia|Tanjungbalai|PT Media Balai Nusa|
+|20|147.161.246.34|10801|Switzerland|Zurich|Zscaler Switzerland GmbH|
 
 
 
