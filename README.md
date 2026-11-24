@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|606|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|606|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|606|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|697|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|697|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|697|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|47.254.213.60|1082|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
 |2|47.254.213.60|1082|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
-|3|49.151.183.37|8082|Philippines|Clark Freeport Zone|Philippine Long Distance Telephone Co.|
-|4|103.224.65.82|8080|Indonesia|Jember|BLAMBANGAN|
-|5|47.254.213.60|1082|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
-|6|1.20.101.17|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
-|7|34.43.46.91|80|United States|Mountain View|Google LLC|
-|8|154.88.136.50|999|Dominican Republic|Santiago de los Caballeros|DOMINICAN CABLE GROUP DCG, S.R.L.|
-|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|11|51.68.102.5|3130|France|Roubaix|OVH SAS|
-|12|64.188.56.82|8118|Germany|Frankfurt am Main|Timeweb, LLP|
-|13|146.190.60.147|8019|United States|Santa Clara|DigitalOcean, LLC|
-|14|58.69.208.243|8081|Philippines|San Pedro|Philippine Long Distance Telephone Co.|
-|15|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
-|16|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|17|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
-|18|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|19|103.147.246.189|8181|Indonesia|Ketapang|PLBNET|
-|20|45.127.205.10|7777|Indonesia|Bogor|FORPRO|
+|3|34.43.46.91|80|United States|Mountain View|Google LLC|
+|4|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
+|5|180.191.34.111|8081|Philippines|Cabanatuan City|Globe Telecom|
+|6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|7|203.81.81.226|8055|Myanmar|Yangon|Myanma Post & Telecommunication|
+|8|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|9|51.68.102.5|3130|France|Roubaix|OVH SAS|
+|10|38.156.23.27|999|Dominican Republic|Santo Domingo Este|Visnetwork SRL|
+|11|223.25.110.76|3125|Indonesia|Purbalingga|SinergiNet|
+|12|148.222.136.64|999|Dominican Republic|Boca Chica|BITNET DOMINICANA, S.R.L.|
+|13|112.201.227.236|5050|Philippines|Caloocan|Philippine Long Distance Telephone Co.|
+|14|49.48.66.110|8080|Thailand|Nakhon Ratchasima|Advanced Wireless Network Company Limited|
+|15|103.122.67.91|8080|Indonesia|Ponorogo|PT. Jinom Network Indonesia|
+|16|181.119.84.134|8080|Colombia|Pradera|IFX Networks Argentina S.R.L|
+|17|146.190.60.147|8020|United States|Santa Clara|DigitalOcean, LLC|
+|18|45.127.205.10|7777|Indonesia|Bogor|FORPRO|
+|19|182.176.164.41|8080|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|20|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
 
 
 
