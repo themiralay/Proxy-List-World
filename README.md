@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5433** proxies at the latest update. Usable proxies are below.
+> Scraper found **5301** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|606|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|606|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|606|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|465|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|465|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|465|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|830|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|837|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|800|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|661|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3103|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.254.213.60|1082|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
-|2|47.254.213.60|1082|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
-|3|119.94.185.43|8082|Philippines|Marilao|Philippine Long Distance Telephone Co.|
-|4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|3|146.190.60.147|8020|United States|Santa Clara|DigitalOcean, LLC|
+|4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 |5|34.43.46.91|80|United States|Mountain View|Google LLC|
-|6|145.220.227.67|8080|The Netherlands|Utrecht|SURFnet III d|
-|7|103.97.140.226|8080|Indonesia|Cianjur|PT Jembatan Data Pangrango|
-|8|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
-|9|147.45.187.104|8080|The Netherlands|Amsterdam|Timeweb, LLP|
-|10|185.196.182.29|8080|Albania|Krume|shqiponjaisp.al LLC|
-|11|45.198.20.246|8080|Indonesia|Bekasi|PT IKHLAS CIPTA TEKNOLOGI|
-|12|183.88.218.225|8080|Thailand|Kanchanaburi|Triple T Broadband Public Company Limited|
-|13|103.156.75.243|3125|Indonesia|Gianyar|PT Trika Global Media|
-|14|45.230.170.30|999|Venezuela|Caracas|Soluciones DCN Network C.A|
-|15|180.190.84.213|8082|Philippines|Cagayan de Oro|Globe Telecom|
-|16|177.234.217.85|999|Ecuador|Quito|Ufinet Panama S.A.|
-|17|180.191.0.205|8081|Philippines|Cabanatuan City|Globe Telecom|
-|18|119.93.151.254|8081|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|19|217.219.83.186|2222|Iran|Tehran|Iran Telecommunication Company PJS|
-|20|38.50.165.182|999|Dominican Republic|Dajabon|NEXTELECOM, S.R.L|
+|6|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|7|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
+|8|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|43.240.83.70|8080|Indonesia|Cianjur|PT Indonesia Comnets Plus|
+|10|103.247.23.244|1111|Indonesia|Banyumas|PT wifian Solution|
+|11|43.161.254.16|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|12|147.161.246.34|10868|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|13|217.154.195.87|8888|Germany|Berlin|IONOS SE|
+|14|147.161.246.34|10868|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|15|147.161.246.34|10868|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|16|147.161.246.34|10868|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|17|103.112.163.131|8080|Indonesia|Jakarta|24AS|
+|18|147.161.246.34|10868|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|19|147.161.246.34|10868|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|20|147.161.246.34|10868|Switzerland|Zurich|Zscaler Switzerland GmbH|
 
 
 
