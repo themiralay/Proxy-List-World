@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|417|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|417|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|417|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|534|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|534|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|534|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|146.190.60.147|8020|United States|Santa Clara|DigitalOcean, LLC|
-|3|203.81.81.226|8055|Myanmar|Yangon|Myanma Post & Telecommunication|
-|4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|5|202.58.77.195|8080|Indonesia|Blitar|PT Data Buana Nusantara|
-|6|181.78.195.136|999|Ecuador|Naranjito|Ufinet Panama S.A.|
-|7|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
-|8|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|2|103.97.140.127|3125|Indonesia|Cianjur|PT Jembatan Data Pangrango|
+|3|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
+|4|49.149.162.144|8082|Philippines|Cagayan de Oro|Philippine Long Distance Telephone Co.|
+|5|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|6|42.116.10.198|514|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|7|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|8|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
 |9|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
 |10|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|11|50.238.106.26|3128|United States|Atlanta|Comcast Cable Communications, LLC|
-|12|79.98.32.137|8080|Turkey|Adana|High Speed For Internet Services L.L.C|
-|13|124.106.83.244|8083|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|14|41.79.9.229|8080|Kenya|Nairobi|Frontier Optical Networks Ltd|
-|15|147.161.246.34|12564|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|16|147.161.246.34|12564|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|17|147.161.246.34|12564|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|18|147.161.246.34|12564|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|19|147.161.246.34|12564|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|11|103.193.144.101|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
+|12|157.66.16.30|5568|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|13|146.190.60.147|8020|United States|Santa Clara|DigitalOcean, LLC|
+|14|103.98.116.10|8181|Indonesia|Pinrang|TESOLCITYNET|
+|15|118.179.136.153|81|Bangladesh|Dhaka|AmberIT Limited|
+|16|181.78.195.136|999|Ecuador|Naranjito|Ufinet Panama S.A.|
+|17|24.106.221.230|53281|United States|Pine Knoll Shores|Spectrum|
+|18|177.234.217.46|999|Ecuador|Quito|Ufinet Panama S.A.|
+|19|50.238.106.26|3128|United States|Atlanta|Comcast Cable Communications, LLC|
 |20|147.161.246.34|12564|Switzerland|Zurich|Zscaler Switzerland GmbH|
 
 
