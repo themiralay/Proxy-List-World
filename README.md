@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|172.236.235.129|8888|United States|Los Angeles|Akamai Technologies, Inc.|
-|3|120.136.23.176|8800|China|Beijing|China Unicom Beijing Province Network|
-|4|175.100.103.170|1256|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
-|6|1.10.248.236|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|7|120.136.23.170|8800|China|Beijing|China Unicom Beijing Province Network|
-|8|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|9|1.2.248.34|80|Thailand|Bang Khen|TOT Public Company Limited|
-|10|5.26.111.181|8080|Türkiye|Kartal|Turkcell Internet|
-|11|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
-|12|147.161.246.34|11288|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|13|88.204.19.8|7080|Russia|Tomsk|JSC "ER-Telecom Holding"|
-|14|147.161.246.34|11288|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|15|147.161.246.34|11288|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|16|147.161.246.34|11288|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|17|147.161.246.34|11288|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|18|147.161.246.34|11288|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|19|119.93.170.95|8085|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|20|171.252.33.109|3128|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|2|182.253.70.41|8080|Indonesia|Surabaya|BIZNET|
+|3|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|4|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
+|5|38.76.251.115|999|Dominican Republic|Pizarrete|Cogent Communications|
+|6|163.223.117.203|8080|Indonesia|Kuningan|PT Signall Network Nusantara|
+|7|1.10.248.236|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|8|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|9|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|10|203.99.183.197|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|11|147.161.246.34|10602|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|12|147.161.246.34|10602|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|13|147.161.246.34|10602|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|14|147.161.246.34|10602|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|15|147.161.246.34|10602|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|16|147.161.246.34|10602|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|17|147.161.246.34|10602|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|18|147.161.246.34|10602|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|19|120.136.23.170|8800|China|Beijing|China Unicom Beijing Province Network|
+|20|147.161.246.34|10602|Switzerland|Zurich|Zscaler Switzerland GmbH|
 
 
 
