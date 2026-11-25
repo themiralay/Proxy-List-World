@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|578|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|578|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|578|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|583|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|583|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|583|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|146.190.60.147|8016|United States|Santa Clara|DigitalOcean, LLC|
-|2|43.252.238.102|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|3|160.25.35.204|8181|Indonesia|Pandeglang|PT AURORA SENTRAL INFORMATIKA|
-|4|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|5|34.43.46.91|443|United States|Mountain View|Google LLC|
-|6|157.15.64.181|8080|Indonesia|Kendal|PT Cynet Indonesia Networks|
-|7|38.19.106.44|999|Mexico|Progreso de Obregón|Hulux Telecomunicaciones|
-|8|67.206.213.202|3120|Puerto Rico|San Juan|Liberty Mobile Puerto Rico Inc.|
-|9|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
-|11|201.163.152.54|999|Mexico|Frontera|Alestra, S. de R.L. de C.V.|
-|12|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
-|13|139.135.182.132|8081|Philippines|Santo Tomas|ComClark Network & Technology Corp|
-|14|38.211.76.98|999|Colombia|Florencia|Cogent Communications|
-|15|103.14.111.188|8080|Indonesia|Jakarta|PT Asia Teknologi Solusi|
-|16|37.187.109.70|10111|France|Roubaix|OVH SAS|
-|17|81.168.119.85|5443|United Kingdom|Maidenhead|Iomart Cloud Services Limited|
-|18|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
-|19|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
-|20|190.14.224.244|999|Colombia|Candelaria|Media Commerce Partners S.A|
+|1|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|2|132.145.164.194|2192|United States|Ashburn|Oracle Corporation|
+|3|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
+|4|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|5|45.198.20.246|8080|Indonesia|Bekasi|PT IKHLAS CIPTA TEKNOLOGI|
+|6|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
+|7|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|8|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
+|9|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|10|103.103.8.222|8080|India|Chennai|F2h Networks Pvt Ltd|
+|11|58.33.109.114|2021|China|Shanghai|China Telecom (Group)|
+|12|103.178.171.61|8080|Indonesia|Pacitan|PT Trisari Data Indonusa|
+|13|147.161.246.34|12548|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|14|147.161.246.34|12548|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|15|147.161.246.34|12548|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|16|147.161.246.34|12548|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|17|147.161.246.34|12548|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|18|147.161.246.34|12548|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|19|147.161.246.34|12548|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|20|45.232.0.2|8080|Argentina|San Miguel de Tucumán|Sistemas Informaticos S.A.S.|
 
 
 
