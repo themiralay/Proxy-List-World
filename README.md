@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4581** proxies at the latest update. Usable proxies are below.
+> Scraper found **4505** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|559|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|483|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|447|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2875|✅|
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 |4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 |5|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
-|6|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|7|141.133.172.92|3390|Czechia|Veselí nad Lužnicí|SmartApe OU|
-|8|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|9|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|10|125.25.53.180|8080|Thailand|Bangkok|TOT Public Company Limited|
-|11|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|12|206.135.47.107|999|Mexico|Puebla City|Ientc S De RL De CV|
-|13|125.25.167.187|80|Thailand|Bangkok|TOT Public Company Limited|
-|14|114.129.19.139|8080|Indonesia|Banjar Medura|PT Hipernet Indodata|
-|15|189.51.168.162|999|Mexico|Hunucmá|Comunicación por Fibra SA de CV|
-|16|177.234.217.45|999|Ecuador|Quito|Ufinet Panama S.A.|
-|17|1.20.101.15|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
-|18|47.254.213.60|1081|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
-|19|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|20|120.136.23.170|8800|China|Beijing|China Unicom Beijing Province Network|
+|6|181.119.103.237|999|Guatemala|San José Acatempa|Ufinet Panama S.A.|
+|7|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|8|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|9|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|10|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|11|1.20.101.21|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
+|12|38.172.181.51|999|Venezuela|Barquisimeto|RED SERVITEL, CA|
+|13|103.69.59.38|3128|Bangladesh|Bāndarban|MD ABDUR RAHMAN SAHIN|
+|14|181.209.125.236|999|Argentina|Santa Rosa|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|15|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
+|16|89.175.174.212|8080|Russia|Moscow|Mobile TeleSystems PJSC|
+|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|18|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|19|185.174.208.195|8080|Kosovo|Vushtrri|Podujeve-Broadband|
+|20|206.135.47.106|999|Mexico|Puebla City|Ientc S De RL De CV|
 
 
 
