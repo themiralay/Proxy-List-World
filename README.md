@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|362|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|362|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|362|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|2|126.209.112.164|8082|Philippines|Bulacan|Infinivan Incorporated|
 |3|34.43.46.91|80|United States|Mountain View|Google LLC|
 |4|50.238.106.26|3128|United States|Atlanta|Comcast Cable Communications, LLC|
-|5|139.135.181.43|8082|Philippines|Tuguegarao City|ComClark Network & Technology Corp|
-|6|75.109.189.86|8080|United States|Nacogdoches|Suddenlink Communications|
-|7|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
+|5|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|6|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
+|7|160.19.145.103|3127|Indonesia|Demak|Lintas Data Prima, PT|
 |8|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|9|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
-|10|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|11|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
-|12|112.202.247.109|3128|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|13|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
-|14|125.25.53.180|8080|Thailand|Bangkok|TOT Public Company Limited|
-|15|27.131.14.9|8812|Bangladesh|Dhaka|Dhaka Fiber Net Limited|
-|16|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
-|17|103.124.226.80|3128|Bangladesh|Gazipur|Level3|
-|18|210.213.119.28|3128|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|19|180.191.98.117|8080|Philippines|Makati City|Globe Telecom|
-|20|1.4.141.34|80|Thailand|Khon Kaen|TOT Public Company Limited|
+|9|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
+|10|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
+|11|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|12|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
+|13|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
+|14|210.213.119.28|3128|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|15|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|103.106.112.166|1234|Indonesia|Labuhanmaringgai|SMSNET|
+|17|191.5.126.28|8080|Brazil|Olímpia|Via Fibra Internet Banda Larga EIRELI|
+|18|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
+|19|160.19.16.45|8181|Indonesia|Tanjungbalai|PT Media Balai Nusa|
+|20|118.68.172.14|3128|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
