@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4735** proxies at the latest update. Usable proxies are below.
+> Scraper found **4620** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|664|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|549|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|496|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2875|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.194.78.50|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
-|2|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|3|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
-|4|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
-|5|38.253.85.3|999|Dominican Republic|Maimón|Cogent Communications|
+|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|2|160.30.204.24|10001|Vietnam|Vinhomes Smart City|TVC|
+|3|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
+|4|206.135.47.106|999|Mexico|Puebla City|Ientc S De RL De CV|
+|5|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
 |6|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
-|7|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
-|8|203.9.195.102|9000|Philippines|Zamboanga City|Go Wiser Corporation|
-|9|185.174.208.195|8080|Kosovo|Vushtrri|Podujeve-Broadband|
+|7|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|8|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
+|9|38.194.226.210|999|Mexico|Atengo|IENTC S de RL de CV|
 |10|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
-|11|203.201.190.36|8080|Indonesia|Tulang Bawang Regency|PT WIRA HASTA JITU|
-|12|103.106.112.166|1234|Indonesia|Labuhanmaringgai|SMSNET|
-|13|38.194.226.210|999|Mexico|Atengo|IENTC S de RL de CV|
-|14|103.188.252.38|8080|Indonesia|Ungaran|PT Data Lintas Media Indonesia|
-|15|120.136.23.170|8800|China|Beijing|China Unicom Beijing Province Network|
-|16|103.4.76.237|1111|Indonesia|Depok|PT Khazanah Net Indonesia|
-|17|103.14.111.188|8080|Indonesia|Jakarta|PT Asia Teknologi Solusi|
-|18|157.15.186.71|8080|Indonesia|Banyuwangi|HAPPYINET|
-|19|154.201.127.46|8080|India|Noida|Real Time Data Services Private Limited|
-|20|86.125.19.21|8080|Romania|Craiova|RCS & RDS|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|203.9.195.4|9000|Philippines|Zamboanga City|Go Wiser Corporation|
+|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|14|192.232.48.1|8181|Indonesia|Pringsewu|PT Axindo Infinitas Network|
+|15|185.174.208.195|8080|Kosovo|Vushtrri|Podujeve-Broadband|
+|16|147.161.246.34|13084|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|17|125.25.53.180|8080|Thailand|Bangkok|TOT Public Company Limited|
+|18|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
+|19|147.161.246.34|13084|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|20|27.131.14.9|8812|Bangladesh|Dhaka|Dhaka Fiber Net Limited|
 
 
 
