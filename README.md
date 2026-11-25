@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|134.199.160.93|8888|Australia|Sydney|DigitalOcean, LLC|
-|3|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
+|1|180.190.84.213|8082|Philippines|Cagayan de Oro|Globe Telecom|
+|2|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|3|34.43.46.91|80|United States|Mountain View|Google LLC|
 |4|145.220.227.67|8080|The Netherlands|Utrecht|SURFnet III d|
-|5|160.30.204.24|10001|Vietnam|Vinhomes Smart City|TVC|
-|6|161.22.37.18|999|Venezuela|Petare|THUNDERNET, C.A.|
-|7|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
-|8|103.97.141.40|8080|Indonesia|Cianjur|PT Jembatan Data Pangrango|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|101.53.9.226|3128|Vietnam|Ho Chi Minh City|NetNam Corporation|
-|11|114.5.97.150|8080|Indonesia|Surabaya|PT. INDOSAT Tbk|
-|12|14.34.180.21|38157|South Korea|Pyeongtaek-si|Korea Telecom|
-|13|105.22.37.218|8080|South Africa|Johannesburg|SEACOM Limited Networks|
-|14|154.57.208.127|8080|Pakistan|Lahore|Trans World Enterprise Services (Private) Limited|
-|15|101.96.122.196|8080|Vietnam|Hanoi|NetNam Corporation|
-|16|147.161.246.34|12604|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|17|147.161.246.34|12604|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|18|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|147.161.246.34|12604|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|20|213.135.1.195|8080|Germany|Saarbrücken|intersaar GmbH|
+|5|45.177.147.119|80|Argentina|General Rodriguez|Netlatin S.R.L.|
+|6|38.191.149.221|999|Mexico|Santa Cruz de Rosales|GRIDNED|
+|7|34.43.46.91|80|United States|Mountain View|Google LLC|
+|8|147.161.246.34|12604|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|9|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
+|10|177.234.217.235|999|Ecuador|Quito|Ufinet Panama S.A.|
+|11|147.161.246.34|12604|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|12|147.161.246.34|12604|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|13|171.4.65.201|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
+|14|147.161.246.34|12604|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|15|147.161.246.34|12604|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|16|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
+|17|58.69.119.69|8080|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|18|103.155.196.161|8181|Indonesia|Sukabumi|JEMBATANDATA|
+|19|180.191.51.69|8082|Philippines|Tarlac City|Globe Telecom|
+|20|177.234.217.83|999|Ecuador|Quito|Ufinet Panama S.A.|
 
 
 
