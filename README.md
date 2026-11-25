@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4403** proxies at the latest update. Usable proxies are below.
+> Scraper found **4424** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|496|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|517|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|646|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2561|✅|
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|2|119.94.185.43|8082|Philippines|Marilao|Philippine Long Distance Telephone Co.|
-|3|167.99.3.26|8059|United States|North Bergen|DigitalOcean, LLC|
-|4|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|5|103.195.142.250|8180|Indonesia|Makassar|Universitas Hasanuddin|
+|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|2|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|167.99.8.113|8017|United States|North Bergen|DigitalOcean, LLC|
+|5|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 |6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|7|167.99.8.113|8017|United States|North Bergen|DigitalOcean, LLC|
-|8|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|10|180.191.235.172|8080|Philippines|Marilao|Globe Telecom|
-|11|124.106.83.244|8083|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|12|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
-|13|163.227.149.137|3128|Indonesia|Palembang|PT Andalas Solusi Network|
-|14|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
-|15|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
-|16|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
+|7|180.191.229.193|5050|Philippines|Talisay City|Globe Telecom|
+|8|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
+|9|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
+|10|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
+|12|38.49.142.174|999|Mexico|Rincón de Centeno|IENTC S de RL de CV|
+|13|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
+|14|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
+|15|38.75.80.32|999|Dominican Republic|Santo Domingo Este|Cogent Communications|
+|16|177.234.217.84|999|Ecuador|Quito|Ufinet Panama S.A.|
 |17|147.161.246.34|12458|Switzerland|Zurich|Zscaler Switzerland GmbH|
 |18|147.161.246.34|12458|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|19|147.161.246.34|12458|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|19|119.94.185.43|8082|Philippines|Marilao|Philippine Long Distance Telephone Co.|
 |20|147.161.246.34|12458|Switzerland|Zurich|Zscaler Switzerland GmbH|
 
 
