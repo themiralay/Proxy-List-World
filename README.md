@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|34.43.46.91|80|United States|Mountain View|Google LLC|
-|3|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|5|45.144.49.64|5443|Poland|Warsaw|3hcloud|
-|6|120.136.23.176|8800|China|Beijing|China Unicom Beijing Province Network|
-|7|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|8|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
-|9|163.227.149.137|3128|Indonesia|Palembang|PT Andalas Solusi Network|
-|10|38.58.117.201|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|11|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
-|12|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
-|13|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
-|14|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
-|15|103.193.144.251|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|16|38.44.17.142|999|Dominican Republic|Yamasá|REYNOSO, S.R.L.|
-|17|37.187.109.70|10111|France|Roubaix|OVH SAS|
-|18|147.161.246.34|10504|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|19|147.161.246.34|10504|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|20|147.161.246.34|10504|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|2|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|3|34.43.46.91|80|United States|Mountain View|Google LLC|
+|4|120.136.23.176|3128|China|Beijing|China Unicom Beijing Province Network|
+|5|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|6|45.144.49.64|5443|Poland|Warsaw|3hcloud|
+|7|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
+|8|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|9|182.252.89.130|8080|Bangladesh|Dhaka|Agni Systems Limited|
+|10|175.158.40.224|1616|Indonesia|North Jakarta|Indonesia Network Information Center|
+|11|120.136.23.170|8800|China|Beijing|China Unicom Beijing Province Network|
+|12|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
+|13|103.191.251.197|8080|Indonesia|Pancur Biru Lestari II|PT Mulia Batam Net|
+|14|103.69.107.70|8181|Indonesia|Ciruas|PT. Berkat Dunia Digital Cikande|
+|15|190.102.146.98|10101|Peru|Lima|ON EMPRESAS S.A.C|
+|16|1.20.101.24|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
+|17|45.230.170.30|999|Venezuela|Caracas|Soluciones DCN Network C.A|
+|18|180.180.217.52|80|Thailand|Chon Buri|TOT Public Company Limited|
+|19|85.112.65.130|8080|Lebanon|Beirut|TerraNet sal|
+|20|163.227.149.137|3128|Indonesia|Palembang|PT Andalas Solusi Network|
 
 
 
