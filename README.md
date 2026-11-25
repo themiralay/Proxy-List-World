@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|408|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|408|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|408|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|451|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|451|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|451|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|120.136.23.170|8800|China|Beijing|China Unicom Beijing Province Network|
-|2|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|3|120.136.23.170|8800|China|Beijing|China Unicom Beijing Province Network|
-|4|125.25.53.180|8080|Thailand|Bangkok|TOT Public Company Limited|
-|5|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
-|6|182.53.202.220|80|Thailand|Chiang Mai|TOT Public Company Limited|
-|7|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
+|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|203.9.195.102|9000|Philippines|Zamboanga City|Go Wiser Corporation|
+|3|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
+|4|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
+|5|120.136.23.170|8800|China|Beijing|China Unicom Beijing Province Network|
+|6|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
+|7|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
 |8|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
-|9|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
-|10|202.166.220.40|8080|Nepal|Kathmandu|WorldLink Communications|
-|11|139.135.77.166|8085|Philippines|Tibigan|Dito Telecommunity Corp.|
-|12|161.22.33.185|999|Venezuela|Caracas|THUNDERNET, C.A|
-|13|41.90.103.85|8080|Kenya|Nairobi|Safaricom Limited|
-|14|182.52.136.39|80|Thailand|Bangkok|TOT Public Company Limited|
-|15|146.190.60.147|8018|United States|Santa Clara|DigitalOcean, LLC|
-|16|165.22.99.36|8017|Singapore|Singapore|DigitalOcean, LLC|
-|17|67.43.112.129|8080|United States|Russellville|Wisper ISP, Inc.|
-|18|45.4.200.67|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|19|146.190.60.147|8018|United States|Santa Clara|DigitalOcean, LLC|
-|20|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|9|201.165.187.252|999|Mexico|Comitán|Mega Cable, S.A. de C.V.|
+|10|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
+|11|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
+|12|163.47.25.70|3128|Indonesia|Cikampek|PT STAR HOME INDONESIA|
+|13|49.151.189.78|8082|Philippines|Clark Freeport Zone|Philippine Long Distance Telephone Co.|
+|14|120.136.23.170|8800|China|Beijing|China Unicom Beijing Province Network|
+|15|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
+|16|103.76.12.158|8080|Indonesia|Jambi City|PT Mora Telematika Indonesia|
+|17|42.115.112.128|8080|Vietnam|Hanoi|FPT Telecom Company|
+|18|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|19|104.128.228.69|8118|United States|Los Angeles|HostUS|
+|20|34.43.46.91|80|United States|Mountain View|Google LLC|
 
 
 
