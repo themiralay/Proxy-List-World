@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|560|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|560|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|560|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|473|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|473|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|473|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.154.77.62|1111|Indonesia|Sleman|T2NET|
-|2|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|3|180.190.24.163|9999|Philippines|Marikina City|Globe Telecom|
-|4|103.158.210.24|8090|Indonesia|Babat|DIGITNET|
-|5|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
-|6|187.249.37.227|2024|Mexico|Reynosa|Transtelco Inc|
-|7|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
-|8|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|9|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
-|10|139.135.182.132|8081|Philippines|Santo Tomas|ComClark Network & Technology Corp|
-|11|94.130.177.190|9999|Germany|Nuremberg|Hetzner Online GmbH|
-|12|182.52.229.165|8080|Thailand|Ban Fang Tuen|TOT Public Company Limited|
-|13|103.171.255.178|8080|Indonesia|Sleman|PT Zona Kolektif Indonesia|
-|14|38.191.211.250|999|Colombia|Saravena|Servicios De Telecomunicaciones E Informatica S.A.S.|
-|15|66.186.199.33|8080|Albania|Tirana|Vodafone Albania Sh.A.|
-|16|45.167.126.42|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|17|160.30.204.24|10001|Vietnam|Vinhomes Smart City|TVC|
-|18|43.161.205.36|80|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|19|161.22.33.93|999|Venezuela|Caracas|THUNDERNET, C.A|
+|1|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|2|154.201.126.44|8080|India|Noida|CtrlS|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|125.25.167.187|80|Thailand|Bangkok|TOT Public Company Limited|
+|5|154.88.136.50|999|Dominican Republic|Santiago de los Caballeros|DOMINICAN CABLE GROUP DCG, S.R.L.|
+|6|191.44.71.208|8080|The Netherlands|Amsterdam|High Speed For Internet Services L.L.C|
+|7|114.130.153.122|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|8|161.22.33.185|999|Venezuela|Caracas|THUNDERNET, C.A|
+|9|195.142.250.53|8080|Türkiye|Bursa|Superonline Iletisim Hizmetleri A.S.|
+|10|157.15.212.38|8080|Indonesia|Pagerwojo|PT Griya Akses Teknologi|
+|11|124.105.111.84|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|12|200.36.152.6|999|Venezuela|Concepción|NAVEGANTE NETWORK, C.A.|
+|13|38.9.184.177|999|Venezuela|Ocumare|Cogent Communications|
+|14|43.161.205.36|80|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|15|147.161.246.34|12548|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|16|161.22.33.93|999|Venezuela|Caracas|THUNDERNET, C.A|
+|17|147.161.246.34|12548|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|18|147.161.246.34|12548|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|19|147.161.246.34|12548|Switzerland|Zurich|Zscaler Switzerland GmbH|
 |20|147.161.246.34|12548|Switzerland|Zurich|Zscaler Switzerland GmbH|
 
 
