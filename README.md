@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|182.52.136.76|443|Thailand|Bangkok|TOT Public Company Limited|
-|3|103.153.62.217|8181|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|4|103.90.67.170|8080|Indonesia|Belawan|PT Rajawali Bintang Cemerlang Telkomedia|
-|5|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
-|6|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|7|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|8|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|9|113.53.29.144|80|Thailand|Phuket|TOT Public Company Limited|
-|10|36.93.163.219|8080|Indonesia|West Jakarta|Telekomunikasi Indonesia|
-|11|195.181.40.34|8080|Iran|Babol|Iran Telecommunication Company PJS|
-|12|38.194.246.34|999|Mexico|El Pueblito|IENTC S de RL de CV|
-|13|83.222.7.47|3333|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|61.19.30.194|8188|Thailand|Khlong San|Data Comm. Dept. National Telecom Public Company Limited|
-|15|111.118.149.40|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|16|121.101.131.162|8181|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|17|1.4.141.42|80|Thailand|Khon Kaen|TOT Public Company Limited|
-|18|38.44.17.142|999|Dominican Republic|Yamasá|REYNOSO, S.R.L.|
-|19|124.105.39.244|8081|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|20|161.97.94.168|6001|France|Lauterbourg|Contabo GmbH|
+|1|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
+|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|3|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
+|4|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|5|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|6|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|7|45.68.63.201|999|Honduras|San Pedro Sula|PIT HONDURAS S. DE R.L. DE C.V.|
+|8|208.67.28.27|58090|United States|Lac du Flambeau|SonicNet Inc.|
+|9|147.161.246.34|10308|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|10|1.2.248.34|80|Thailand|Bang Khen|TOT Public Company Limited|
+|11|157.20.35.34|8181|Indonesia|Jakarta|PT Desible Eradata Komunikasi|
+|12|27.147.153.179|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|13|182.52.136.73|8080|Thailand|Bangkok|TOT Public Company Limited|
+|14|196.216.134.71|8865|South Africa|Lichtenburg|HERO TELECOMS (PTY) LTD|
+|15|103.193.144.223|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
+|16|38.50.165.122|999|Dominican Republic|Dajabon|NEXTELECOM, S.R.L|
+|17|147.161.246.34|10308|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|18|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|19|154.201.126.44|8080|India|Noida|CtrlS|
+|20|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
 
 
 
