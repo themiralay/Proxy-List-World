@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6069** proxies at the latest update. Usable proxies are below.
+> Scraper found **6029** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|651|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|651|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|651|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|624|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|624|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|624|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|781|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|741|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1596|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2992|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.180.156.117|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|2|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
-|3|167.99.8.113|8016|United States|North Bergen|DigitalOcean, LLC|
-|4|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|5|36.93.163.219|8080|Indonesia|West Jakarta|Telekomunikasi Indonesia|
-|6|1.4.141.42|80|Thailand|Khon Kaen|TOT Public Company Limited|
-|7|34.43.46.91|80|United States|Mountain View|Google LLC|
-|8|181.78.1.229|999|Colombia|Bogotá|Ufinet Panama S.A.|
-|9|190.121.4.157|999|Chile|Rauco|Telefonica del Sur S.A.|
+|1|43.161.205.36|80|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|50.238.106.26|3128|United States|Atlanta|Comcast Cable Communications, LLC|
+|3|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|4|45.26.30.144|8888|United States|Friendswood|AT&T Enterprises, LLC|
+|5|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|6|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|7|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|8|203.81.81.226|8055|Myanmar|Yangon|Myanma Post & Telecommunication|
+|9|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
 |10|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|11|36.94.27.65|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|12|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
-|13|103.125.19.94|8080|Indonesia|Kresek|JAVAMEDIA|
-|14|115.79.70.69|8470|Vietnam|Ho Chi Minh City|VIETELftth|
-|15|112.198.128.171|8083|Philippines|Nasugbu|Globe Telecom|
-|16|181.74.82.91|999|Chile|Limache|Telmex Servicios Empresariales S.A.|
-|17|50.238.106.26|3128|United States|Atlanta|Comcast Cable Communications, LLC|
-|18|124.105.20.100|8082|Philippines|Pasay|Philippine Long Distance Telephone Co.|
-|19|119.94.185.43|8082|Philippines|Marilao|Philippine Long Distance Telephone Co.|
-|20|147.161.246.34|12548|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|11|119.92.252.190|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|12|49.149.162.144|8082|Philippines|Cagayan de Oro|Philippine Long Distance Telephone Co.|
+|13|206.135.47.109|999|Mexico|Puebla City|Ientc S De RL De CV|
+|14|182.253.221.147|8080|Indonesia|Surabaya|Biznet Networks|
+|15|147.161.246.34|12548|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|16|147.161.246.34|12548|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|17|147.161.246.34|12548|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|18|147.161.246.34|12548|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|19|38.49.159.54|999|Mexico|Querétaro City|IENTC S de RL de CV|
+|20|38.226.242.61|8080|Indonesia|Jakarta|PT Putra Garsel Interkoneksi|
 
 
 
