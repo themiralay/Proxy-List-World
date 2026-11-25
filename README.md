@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|550|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|550|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|550|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|537|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|537|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|537|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|2|1.4.141.10|80|Thailand|Khon Kaen|TOT Public Company Limited|
-|3|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|4|182.52.113.54|80|Thailand|Bangkok|TOT Public Company Limited|
-|5|160.22.134.73|1111|Indonesia|Tangerang|PT GALAXY SINERGI NETWORK|
-|6|45.144.49.64|5443|Poland|Warsaw|3hcloud|
-|7|113.53.29.142|80|Thailand|Phuket|TOT Public Company Limited|
+|1|180.191.120.247|5050|Philippines|Cagayan de Oro|Globe Telecom|
+|2|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|3|216.125.18.67|3128|United States|Brookfield|Illinois Century Network|
+|4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|5|38.183.144.94|8088|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|6|187.249.112.221|999|Mexico|Villa de Zaachila|Transtelco Inc|
+|7|38.7.20.200|999|Mexico|Morelia|Internet Telefonia Y TV De Michoacan SA De CV|
 |8|94.130.50.22|3129|Germany|Falkenstein|Hetzner Online GmbH|
-|9|147.161.246.34|10878|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|10|147.161.246.34|10878|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|11|147.161.246.34|10878|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|12|147.161.246.34|10878|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|13|147.161.246.34|10878|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|14|147.161.246.34|10878|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|15|147.161.246.34|10878|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|16|147.161.246.34|10878|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|17|147.161.246.34|10878|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|18|147.161.246.34|10878|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|9|38.80.12.142|999|Dominican Republic|San Cristobal|Cogent Communications|
+|10|38.19.106.44|999|Mexico|Progreso de Obregón|Hulux Telecomunicaciones|
+|11|168.228.140.1|999|Argentina|Caleta Olivia|Luciano Gabriel Chersanaz (Ubnet Datacenter)|
+|12|202.152.37.86|8080|Indonesia|West Jakarta|PT Aplikanusa Lintasarta|
+|13|114.34.145.135|8080|Taiwan|Taoyuan|Chunghwa Telecom Co., Ltd.|
+|14|194.124.36.22|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|15|38.58.126.25|8080|Indonesia|Denpasar|PT Lintas Jaringan Nusantara|
+|16|161.22.33.72|999|Venezuela|Caracas|THUNDERNET, C.A|
+|17|190.61.44.92|999|Colombia|El Copey|Ufinet Panama S.A.|
+|18|41.242.119.123|50003|Mayotte|Mamoudzou|STOI Internet|
 |19|147.161.246.34|10878|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|20|210.61.216.63|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|20|147.161.246.34|10878|Switzerland|Zurich|Zscaler Switzerland GmbH|
 
 
 
