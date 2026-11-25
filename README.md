@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5510** proxies at the latest update. Usable proxies are below.
+> Scraper found **5530** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|390|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|390|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|390|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|528|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|548|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1290|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2992|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|177.52.221.102|999|Dominican Republic|Santiago de los Caballeros|TELERY NETWORKS, S.R.L|
-|2|145.220.227.24|8080|The Netherlands|Utrecht|SURFnet III d|
-|3|120.136.23.170|3128|China|Beijing|China Unicom Beijing Province Network|
-|4|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|5|141.133.172.92|3390|Czechia|Veselí nad Lužnicí|SmartApe OU|
-|6|163.227.149.137|3128|Indonesia|Palembang|PT Andalas Solusi Network|
-|7|201.165.164.22|999|Mexico|Chetumal|Mega Cable, S.A. de C.V.|
-|8|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
-|9|38.211.68.74|999|Colombia|Popayán|Cogent Communications|
-|10|189.51.168.30|999|Mexico|Hunucmá|Comunicación por Fibra SA de CV|
-|11|103.166.33.88|8088|Indonesia|Jekulo|PT Daniswara Citra Informatika|
+|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|2|134.199.160.93|8888|Australia|Sydney|DigitalOcean, LLC|
+|3|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|120.136.23.170|80|China|Beijing|China Unicom Beijing Province Network|
+|5|160.25.35.206|8181|Indonesia|Pandeglang|PT AURORA SENTRAL INFORMATIKA|
+|6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|7|89.108.81.40|8118|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|8|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|9|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|10|160.30.204.24|10001|Vietnam|Vinhomes Smart City|TVC|
+|11|81.12.89.73|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
 |12|147.161.246.34|12548|Switzerland|Zurich|Zscaler Switzerland GmbH|
 |13|147.161.246.34|12548|Switzerland|Zurich|Zscaler Switzerland GmbH|
 |14|147.161.246.34|12548|Switzerland|Zurich|Zscaler Switzerland GmbH|
 |15|147.161.246.34|12548|Switzerland|Zurich|Zscaler Switzerland GmbH|
 |16|147.161.246.34|12548|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|17|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|18|147.161.246.34|12548|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|19|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|20|120.28.169.31|5050|Philippines|Iloilo City|Globe Telecom|
+|17|147.161.246.34|12548|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|18|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|19|201.165.164.22|999|Mexico|Chetumal|Mega Cable, S.A. de C.V.|
+|20|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
 
 
 
