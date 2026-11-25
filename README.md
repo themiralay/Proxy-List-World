@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|182.252.89.130|8080|Bangladesh|Dhaka|Agni Systems Limited|
+|2|120.136.23.176|8800|China|Beijing|China Unicom Beijing Province Network|
 |3|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
 |4|160.30.204.24|10001|Vietnam|Vinhomes Smart City|TVC|
 |5|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
 |6|45.225.18.240|8080|Brazil|Porto Velho|Globofiber Telecom|
-|7|77.42.95.221|8888|Finland|Helsinki|Hetzner Online GmbH|
-|8|38.76.251.115|999|Dominican Republic|Pizarrete|Cogent Communications|
-|9|38.194.226.210|999|Mexico|Atengo|IENTC S de RL de CV|
-|10|181.209.125.186|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|11|45.149.24.61|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
-|12|200.236.76.219|999|Mexico|Cosoleacaque|Alestra, S. de R.L. de C.V.|
-|13|120.136.23.176|8800|China|Beijing|China Unicom Beijing Province Network|
-|14|124.105.79.237|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|15|38.156.238.96|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L|
-|16|83.143.29.225|80|Botswana|Gaborone|VBN Services|
-|17|134.249.86.47|8080|Ukraine|Kyiv|Kyivstar UA|
-|18|138.99.176.137|999|Peru|Lima|NET WIN PERU|
-|19|147.161.246.34|12054|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|20|147.161.246.34|12054|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|7|103.239.253.66|8080|Bangladesh|Dhaka|Carnival Internet|
+|8|103.54.43.131|8080|Bangladesh|Dhaka|THE NET HEADS|
+|9|206.135.47.106|999|Mexico|Puebla City|Ientc S De RL De CV|
+|10|79.98.32.85|8080|Turkey|Adana|High Speed For Internet Services L.L.C|
+|11|1.20.101.23|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
+|12|185.133.213.86|8074|Myanmar|Yangon|Global Technology Co|
+|13|85.117.56.42|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|14|179.63.6.249|999|Peru|Lima|RED AMONES S.A.C.|
+|15|147.161.246.34|11438|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|16|147.161.246.34|11438|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|17|147.161.246.34|11438|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|18|147.161.246.34|11438|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|19|147.161.246.34|11438|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|20|147.161.246.34|11438|Switzerland|Zurich|Zscaler Switzerland GmbH|
 
 
 
