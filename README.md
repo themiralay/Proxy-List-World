@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5688** proxies at the latest update. Usable proxies are below.
+> Scraper found **5490** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|486|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|486|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|486|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|566|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|566|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|566|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|858|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|660|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1773|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2357|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
-|3|122.3.77.180|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|4|201.139.183.210|999|Mexico|Puebla City|Computadoras y Servicios Especiales SA de CV|
-|5|144.124.251.24|10081|The Netherlands|Amsterdam|Servers Tech Fzco|
-|6|144.124.251.24|10081|The Netherlands|Amsterdam|Servers Tech Fzco|
-|7|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|8|144.124.251.24|10081|The Netherlands|Amsterdam|Servers Tech Fzco|
-|9|110.232.92.49|8080|Indonesia|Bandung|PT. Media Antar Nusa|
-|10|103.84.210.30|8080|Indonesia|Padang|CINOXMEDIANET|
-|11|144.124.251.24|10081|The Netherlands|Amsterdam|Servers Tech Fzco|
-|12|45.198.8.110|8080|Indonesia|Enrekang|PT Citra Celebas Multimedia|
-|13|160.30.204.24|10001|Vietnam|Vinhomes Smart City|TVC|
-|14|118.69.176.114|8080|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|15|31.57.178.211|8080|Singapore|Singapore|PT Perwira Media Solusi|
-|16|34.43.46.91|80|United States|Mountain View|Google LLC|
-|17|103.24.215.165|8080|Indonesia|Weleri|PT. ADAU PUTRA NETWORK|
-|18|34.43.46.91|80|United States|Mountain View|Google LLC|
-|19|201.20.79.182|8088|Brazil|Fortaleza|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|20|144.124.251.24|10081|The Netherlands|Amsterdam|Servers Tech Fzco|
+|1|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|2|20.235.56.94|8080|India|Chennai|Microsoft Corporation|
+|3|124.83.118.108|8082|Philippines|Meycauayan|Philippine Long Distance Telephone Co.|
+|4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|5|160.191.173.53|8080|Indonesia|Salatiga|PT Citra Angkasa Lintas Media|
+|6|157.15.63.48|8080|Indonesia|Malang|AMAN ISP Customer Malang|
+|7|1.10.185.111|443|Thailand|Suphan Buri|TOT Public Company Limited|
+|8|27.123.254.114|8082|Bangladesh|Mymensingh|Kazi Sazzad Hossain T/A Millennium Computers & Networking|
+|9|158.140.181.116|8080|Indonesia|South Tangerang|MYREPUBLIC|
+|10|45.179.200.65|999|Colombia|Bogotá|NET&COM LTDA.|
+|11|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
+|12|186.125.218.150|999|Argentina|Cafayate|CARDOZO JAVIER ALEJANDRO (KILLA INTERNET)|
+|13|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
+|14|216.125.18.67|3128|United States|Brookfield|Illinois Century Network|
+|15|118.69.176.114|8080|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|16|150.107.253.62|1111|India|Hālol|GTPL Ahmedabad Cable Network Pvt Ltd|
+|17|113.160.130.82|443|Vietnam|Chí Linh|VietNam Post and Telecom Corporation|
+|18|210.8.69.103|808|Australia|Sydney|AAPT Limited|
+|19|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
+|20|181.205.205.170|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
 
 
 
