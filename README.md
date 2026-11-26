@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|425|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|425|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|425|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|594|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|594|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|594|
 
 ## Sources
 
@@ -40,23 +40,23 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
-|3|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
-|4|103.217.179.216|8080|Pakistan|Lahore|Trans World Enterprise Services (Private) Limited|
-|5|171.253.90.204|2047|Vietnam|Hanoi|Viettel Corporation|
-|6|186.7.157.48|8080|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A.|
-|7|1.2.248.34|80|Thailand|Bang Khen|TOT Public Company Limited|
-|8|36.95.82.69|8080|Indonesia|Central Jakarta|PT. Telekomunikasi Indonesia|
-|9|113.11.37.81|2505|Bangladesh|Dhaka|BDCOM Online Limited|
-|10|34.43.46.91|443|United States|Mountain View|Google LLC|
-|11|210.87.93.164|8080|Indonesia|Pasuruan|PT Indo Telemedia Solusi|
-|12|59.36.172.219|5004|China|Guangzhou|Chinanet|
-|13|38.7.17.83|999|Mexico|Morelia|Internet Telefonia Y TV De Michoacan SA De CV|
-|14|180.191.34.111|8081|Philippines|Cabanatuan City|Globe Telecom|
-|15|206.135.47.107|999|Mexico|Puebla City|Ientc S De RL De CV|
-|16|125.25.167.164|80|Thailand|Bangkok|TOT Public Company Limited|
-|17|177.234.217.83|999|Ecuador|Quito|Ufinet Panama S.A.|
-|18|2.28.105.45|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|2|171.253.90.204|2047|Vietnam|Hanoi|Viettel Corporation|
+|3|160.25.222.205|8181|Indonesia|Kurungannyawa|PT Telemedia Prima Nusantara|
+|4|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
+|5|38.49.142.174|999|Mexico|Rincón de Centeno|IENTC S de RL de CV|
+|6|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
+|7|38.7.18.119|999|Mexico|Morelia|Internet Telefonia Y TV De Michoacan SA De CV|
+|8|177.234.217.235|999|Ecuador|Quito|Ufinet Panama S.A.|
+|9|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
+|10|151.242.116.35|8080|Singapore|Singapore|PT Perwira Media Solusi|
+|11|78.155.67.224|8080|Syria|Babīlā|ISP-TARASSUL|
+|12|45.198.33.119|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
+|13|165.101.230.76|8080|Indonesia|Jatibarang|PT Anugerah Cimanuk Raya|
+|14|126.209.13.13|8087|Philippines|Manila|Infinivan Incorporated|
+|15|103.217.179.216|8080|Pakistan|Lahore|Trans World Enterprise Services (Private) Limited|
+|16|201.7.31.179|8080|Turkey|Istanbul|High Speed For Internet Services L.L.C|
+|17|91.107.186.23|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
+|18|206.135.47.106|999|Mexico|Puebla City|Ientc S De RL De CV|
 |19|147.161.246.34|10628|Switzerland|Zurich|Zscaler Switzerland GmbH|
 |20|147.161.246.34|10628|Switzerland|Zurich|Zscaler Switzerland GmbH|
 
