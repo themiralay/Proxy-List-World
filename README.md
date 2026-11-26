@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5947** proxies at the latest update. Usable proxies are below.
+> Scraper found **5960** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|677|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|677|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|677|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|658|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|658|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|658|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|809|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|822|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1559|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2879|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|38.226.243.61|8080|Indonesia|Randudongkal|PT Putra Garsel Interkoneksi|
-|3|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
-|4|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
-|5|103.98.117.126|8080|Indonesia|Pinrang|TESOLCITYNET|
-|6|167.99.8.113|8018|United States|North Bergen|DigitalOcean, LLC|
-|7|20.235.56.94|8080|India|Chennai|Microsoft Corporation|
-|8|103.193.144.223|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|9|180.180.156.68|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|10|34.43.46.91|80|United States|Mountain View|Google LLC|
-|11|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
-|12|80.211.24.177|3128|Italy|Arezzo|Aruba S.p.A.|
-|13|36.37.251.137|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|14|103.156.75.243|3125|Indonesia|Gianyar|PT Trika Global Media|
-|15|180.191.124.206|8081|Philippines|Cagayan de Oro|Globe Telecom|
-|16|202.180.21.213|80|Indonesia|Jakarta|PT. HIPERNET INDODATA|
-|17|182.71.123.38|80|India|Gurugram|Bharti Airtel|
-|18|160.25.35.204|8181|Indonesia|Pandeglang|PT AURORA SENTRAL INFORMATIKA|
-|19|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|20|187.245.202.244|999|Mexico|San Felipe Jalapa de Díaz|Mega Cable, S.A. de C.V.|
+|2|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
+|3|184.70.113.34|3128|Canada|Calgary|Shaw Communications|
+|4|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|5|34.43.46.91|80|United States|Mountain View|Google LLC|
+|6|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
+|7|168.235.80.215|3128|United States|Piscataway|InMotion Hosting|
+|8|80.211.24.177|3128|Italy|Arezzo|Aruba S.p.A.|
+|9|81.168.119.85|5443|United Kingdom|Maidenhead|Iomart Cloud Services Limited|
+|10|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
+|11|165.227.169.229|3080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|167.99.8.113|8018|United States|North Bergen|DigitalOcean, LLC|
+|13|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|14|201.230.121.244|999|Peru|San Roque de Cumbaza|Telefonica Del Peru|
+|15|1.20.101.22|8080|Thailand|Phibun Mangsahan|TOT Public Company Limited|
+|16|175.100.103.170|1256|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|17|189.51.168.30|999|Mexico|Hunucmá|Comunicación por Fibra SA de CV|
+|18|98.153.152.141|7070|United States|Los Angeles|Charter Communications Inc|
+|19|112.78.141.79|9091|Indonesia|Central Jakarta|Biznet Networks|
+|20|61.29.96.146|80|Australia|Melbourne|AAPT Limited|
 
 
 
