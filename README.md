@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|840|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|840|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|840|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|841|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|841|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|841|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|34.43.46.91|80|United States|Mountain View|Google LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
 |3|20.235.56.94|8080|India|Chennai|Microsoft Corporation|
-|4|103.125.174.83|8080|Indonesia|Stabat|PT Trinity Teknologi Nusantara|
-|5|38.156.14.66|999|Dominican Republic|Santo Domingo Este|Cogent Communications|
-|6|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
-|7|125.25.167.176|443|Thailand|Bangkok|TOT Public Company Limited|
-|8|161.22.37.18|999|Venezuela|Petare|THUNDERNET, C.A.|
-|9|36.92.199.158|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
-|10|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|11|31.57.178.211|8080|Singapore|Singapore|PT Perwira Media Solusi|
-|12|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|13|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|14|210.8.69.103|808|Australia|Sydney|AAPT Limited|
-|15|5.198.179.172|10800|Iran|Isfahan|Iran Telecommunication Company PJS|
-|16|103.176.96.179|8090|Indonesia|Purwakarta|PT Global Sarana Elektronika|
-|17|103.173.163.199|8818|Indonesia|Jatibarang|Paket Data Andal|
-|18|37.187.109.70|10111|France|Roubaix|OVH SAS|
-|19|1.20.101.30|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
-|20|161.49.84.3|8081|Philippines|Pasig|Converge ICT Solution Inc|
+|4|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
+|5|187.190.58.152|8081|Mexico|Mazatlán|TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.|
+|6|49.151.189.78|8082|Philippines|Clark Freeport Zone|Philippine Long Distance Telephone Co.|
+|7|103.68.215.115|8181|Indonesia|Sepatan|PT Media Grasi Internet|
+|8|113.53.29.133|80|Thailand|Phuket|TOT Public Company Limited|
+|9|126.209.112.164|8082|Philippines|Bulacan|Infinivan Incorporated|
+|10|210.8.69.103|808|Australia|Sydney|AAPT Limited|
+|11|163.227.149.137|3128|Indonesia|Palembang|PT Andalas Solusi Network|
+|12|203.81.81.226|8055|Myanmar|Yangon|Myanma Post & Telecommunication|
+|13|106.51.185.233|8080|India|Bengaluru|ACT Fibernet|
+|14|115.73.178.252|3128|Vietnam|Ho Chi Minh City|VIETELmetro|
+|15|81.168.119.85|443|United Kingdom|Maidenhead|Iomart Cloud Services Limited|
+|16|193.33.157.81|8080|Syria|Aleppo|High Speed For Internet Services L.L.C|
+|17|110.76.145.118|1111|Indonesia|Peninjawan|PT Pika Media Komunika|
+|18|61.19.30.194|8188|Thailand|Khlong San|Data Comm. Dept. National Telecom Public Company Limited|
+|19|182.52.136.68|80|Thailand|Bangkok|TOT Public Company Limited|
+|20|161.22.34.57|999|Venezuela|Caracas|THUNDERNET, C.A.|
 
 
 
