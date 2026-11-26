@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|376|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|376|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|376|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|365|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|365|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|365|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
+|1|103.224.65.82|8080|Indonesia|Jember|BLAMBANGAN|
 |2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|3|43.161.205.36|80|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|4|34.43.46.91|443|United States|Mountain View|Google LLC|
-|5|180.191.142.188|8080|Philippines|Makati City|Globe Telecom|
-|6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|7|120.136.23.176|8800|China|Beijing|China Unicom Beijing Province Network|
-|8|182.52.136.43|80|Thailand|Bangkok|TOT Public Company Limited|
-|9|182.52.113.105|80|Thailand|Bangkok|TOT Public Company Limited|
-|10|210.8.69.103|808|Australia|Sydney|AAPT Limited|
-|11|203.201.190.67|8080|Indonesia|Tulang Bawang Regency|PT WIRA HASTA JITU|
-|12|38.49.142.174|999|Mexico|Rincón de Centeno|IENTC S de RL de CV|
-|13|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|14|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|15|195.226.213.254|8888|Ukraine|Fontanka|Private Enterprise KTV AIDA|
-|16|177.234.217.83|999|Ecuador|Quito|Ufinet Panama S.A.|
-|17|41.90.103.85|8080|Kenya|Nairobi|Safaricom Limited|
-|18|36.94.27.65|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|19|160.19.176.39|8181|Indonesia|Pandaan|PT Awan Tiga Bintang|
-|20|34.43.46.91|443|United States|Mountain View|Google LLC|
+|3|34.43.46.91|443|United States|Mountain View|Google LLC|
+|4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|5|210.8.69.103|808|Australia|Sydney|AAPT Limited|
+|6|120.136.23.176|8800|China|Beijing|China Unicom Beijing Province Network|
+|7|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
+|8|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
+|9|201.163.152.54|999|Mexico|Frontera|Alestra, S. de R.L. de C.V.|
+|10|165.101.230.76|8080|Indonesia|Jatibarang|PT Anugerah Cimanuk Raya|
+|11|45.198.20.223|8080|Indonesia|Bekasi|PT IKHLAS CIPTA TEKNOLOGI|
+|12|45.179.200.65|999|Colombia|Bogotá|NET&COM LTDA.|
+|13|112.203.35.174|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|14|38.49.142.174|999|Mexico|Rincón de Centeno|IENTC S de RL de CV|
+|15|116.212.149.218|8080|Cambodia|Phnom Penh|MekongNet|
+|16|34.43.46.91|443|United States|Mountain View|Google LLC|
+|17|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|18|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
+|19|109.252.226.30|8080|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
+|20|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
 
 
 
