@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5418** proxies at the latest update. Usable proxies are below.
+> Scraper found **5240** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|438|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|438|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|438|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|870|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|692|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1491|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2357|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|145.220.227.67|8080|The Netherlands|Utrecht|SURFnet III d|
-|2|34.43.46.91|80|United States|Mountain View|Google LLC|
-|3|200.35.34.134|999|Colombia|Medellín|UNE EPM TELECOMUNICACIONES S.A|
-|4|160.30.204.24|10001|Vietnam|Vinhomes Smart City|TVC|
-|5|167.99.8.113|8007|United States|North Bergen|DigitalOcean, LLC|
-|6|160.19.19.127|8080|Indonesia|Bandung|PT Indo Telemedia Solusi|
-|7|206.135.47.106|999|Mexico|Puebla City|Ientc S De RL De CV|
-|8|148.230.17.249|999|Guatemala|Taxisco|Navega.com S.A.|
-|9|147.161.246.34|11581|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|10|36.66.121.131|8080|Indonesia|East Jakarta|Telekomunikasi Indonesia|
+|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|2|145.220.227.67|8080|The Netherlands|Utrecht|SURFnet III d|
+|3|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|4|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|5|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|6|120.136.23.170|8800|China|Beijing|China Unicom Beijing Province Network|
+|7|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|8|187.190.127.212|8081|Mexico|Banus Vallarta|TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.|
+|9|113.53.29.142|80|Thailand|Phuket|TOT Public Company Limited|
+|10|193.233.90.71|40000|Russia|St Petersburg|Aeza Group LLC|
 |11|125.25.167.187|80|Thailand|Bangkok|TOT Public Company Limited|
 |12|147.161.246.34|11581|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|13|103.155.168.157|8299|Indonesia|Karawang|PT Arozak Bima Yudho Sangkara|
+|13|147.161.246.34|11581|Switzerland|Zurich|Zscaler Switzerland GmbH|
 |14|147.161.246.34|11581|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|15|103.124.136.219|8080|Indonesia|Subang|Global Media Data Prima|
-|16|103.112.44.197|8085|Indonesia|Bandung|PT.Globalnet Multi Data|
-|17|134.249.86.47|8080|Ukraine|Kyiv|Kyivstar UA|
+|15|147.161.246.34|11581|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|16|147.161.246.34|11581|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|17|147.161.246.34|11581|Switzerland|Zurich|Zscaler Switzerland GmbH|
 |18|147.161.246.34|11581|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|19|69.75.140.157|8080|United States|Los Angeles|Spectrum|
-|20|203.172.225.227|8080|Thailand|Bangkok|Ministry of Education - EMISC|
+|19|147.161.246.34|11581|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|20|147.161.246.34|11581|Switzerland|Zurich|Zscaler Switzerland GmbH|
 
 
 
