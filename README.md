@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5896** proxies at the latest update. Usable proxies are below.
+> Scraper found **5749** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|690|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|690|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|690|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|624|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|624|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|624|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1064|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|917|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1775|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2357|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
-|2|120.136.23.176|8800|China|Beijing|China Unicom Beijing Province Network|
-|3|27.49.76.149|8082|Philippines|Pasig|Converge ICT|
-|4|160.30.204.24|10001|Vietnam|Vinhomes Smart City|TVC|
-|5|38.194.246.34|999|Mexico|El Pueblito|IENTC S de RL de CV|
-|6|200.36.152.6|999|Venezuela|Concepción|NAVEGANTE NETWORK, C.A.|
-|7|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|8|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|9|103.49.166.117|84|India|Pune|Nettvox Private Limited|
-|10|182.53.202.229|80|Thailand|Chiang Mai|TOT Public Company Limited|
-|11|103.242.105.31|8080|Indonesia|Subang|PT Lintas Jaringan Nusantara|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|103.133.25.247|8080|Indonesia|Cikarang|PT PHATRIA INTI PERSADA|
-|14|38.226.251.67|999|Argentina|San Juan|SAN JUAN INNOVA S.E.|
-|15|180.191.231.112|8082|Philippines|Talisay City|Globe Telecom|
-|16|171.253.90.204|2047|Vietnam|Hanoi|Viettel Corporation|
-|17|38.49.138.197|999|Mexico|Emiliano Zapata|IENTC S de RL de CV|
-|18|159.195.77.126|8080|Germany|Nuremberg|netcup GmbH|
-|19|103.125.174.83|8080|Indonesia|Stabat|PT Trinity Teknologi Nusantara|
-|20|38.191.208.41|999|Colombia|Bucaramanga|Netslink SAS|
+|1|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
+|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|3|167.99.8.113|8005|United States|North Bergen|DigitalOcean, LLC|
+|4|145.220.227.24|8080|The Netherlands|Utrecht|SURFnet III d|
+|5|202.58.64.30|8080|Indonesia|Jimbaran|PT Mamura Inter Media|
+|6|206.135.47.110|999|Mexico|Puebla City|Ientc S De RL De CV|
+|7|102.244.78.61|8085|Cameroon|Maroua|Orange CAM INTERNET|
+|8|12.218.209.130|53281|United States|San Jose|AT&T Enterprises, LLC|
+|9|197.248.59.159|8082|Kenya|Nairobi|Safaricom Limited|
+|10|103.124.226.80|3128|Bangladesh|Gazipur|Level3|
+|11|120.136.23.176|8800|China|Beijing|China Unicom Beijing Province Network|
+|12|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|13|38.156.235.37|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L|
+|14|111.68.122.154|8080|Indonesia|Jakarta|Varnion Technology Semesta, PT|
+|15|185.196.182.29|8080|Albania|Krume|shqiponjaisp.al LLC|
+|16|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|17|147.161.246.34|10205|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|18|171.253.90.204|2047|Vietnam|Hanoi|Viettel Corporation|
+|19|170.9.13.229|2020|United States|San Jose|Oracle Corporation|
+|20|20.235.56.94|8080|India|Chennai|Microsoft Corporation|
 
 
 
