@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|406|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|406|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|406|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|496|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|496|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|496|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|125.25.167.196|80|Thailand|Bangkok|TOT Public Company Limited|
-|3|110.92.72.204|8081|Indonesia|Malang|NEXIS|
-|4|167.99.8.113|8016|United States|North Bergen|DigitalOcean, LLC|
-|5|167.99.8.113|8016|United States|North Bergen|DigitalOcean, LLC|
-|6|167.99.8.113|8016|United States|North Bergen|DigitalOcean, LLC|
-|7|145.220.227.67|8080|The Netherlands|Utrecht|SURFnet III d|
-|8|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
-|9|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|10|1.20.101.23|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
-|11|113.11.179.99|8080|Indonesia|East Jakarta|Biznet Networks|
-|12|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|13|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|14|120.136.23.170|8800|China|Beijing|China Unicom Beijing Province Network|
-|15|187.190.127.212|80|Mexico|Banus Vallarta|TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.|
-|16|103.242.106.155|3125|Indonesia|Subang|PT Lintas Jaringan Nusantara|
-|17|190.14.224.244|999|Colombia|Candelaria|Media Commerce Partners S.A|
-|18|181.78.195.137|999|Ecuador|Naranjito|Ufinet Panama S.A.|
-|19|161.22.37.18|999|Venezuela|Petare|THUNDERNET, C.A.|
-|20|121.101.130.135|8181|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|2|145.220.227.67|8080|The Netherlands|Utrecht|SURFnet III d|
+|3|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|4|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|5|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|6|206.135.47.110|999|Mexico|Puebla City|Ientc S De RL De CV|
+|7|120.136.23.170|8800|China|Beijing|China Unicom Beijing Province Network|
+|8|147.161.246.34|11581|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|9|103.153.83.47|8080|Indonesia|Pagar Alam|STREAKY|
+|10|20.235.56.94|8080|India|Chennai|Microsoft Corporation|
+|11|175.138.75.83|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|12|180.125.216.109|8118|China|Nanjing|China Telecom|
+|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|14|147.161.246.34|11581|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|15|38.252.145.15|999|Mexico|Actopan|Osbaldo Tovar Campero|
+|16|147.161.246.34|11581|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|17|120.136.23.170|8800|China|Beijing|China Unicom Beijing Province Network|
+|18|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|19|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|20|103.193.144.41|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
 
 
 
