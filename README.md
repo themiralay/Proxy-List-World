@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5082** proxies at the latest update. Usable proxies are below.
+> Scraper found **4992** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|508|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|508|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|508|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|521|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|521|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|521|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|749|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1276|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1186|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2357|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|145.220.227.24|8080|The Netherlands|Utrecht|SURFnet III d|
-|3|45.144.49.64|5443|Poland|Warsaw|3hcloud|
-|4|180.191.127.7|8082|Philippines|Cagayan de Oro|Globe Telecom|
-|5|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|6|210.8.69.103|808|Australia|Sydney|AAPT Limited|
-|7|34.43.46.91|80|United States|Mountain View|Google LLC|
-|8|180.191.231.19|8082|Philippines|Talisay City|Globe Telecom|
-|9|38.51.243.189|999|Colombia|Túquerres|Intercomm de Narino|
-|10|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
-|11|156.230.176.245|8080|Indonesia|Karangmulya|My Republic Indonesia|
-|12|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|13|161.22.33.152|999|Venezuela|Caracas|THUNDERNET, C.A|
-|14|45.232.0.2|8080|Argentina|San Miguel de Tucumán|Sistemas Informaticos S.A.S.|
-|15|189.51.168.162|999|Mexico|Hunucmá|Comunicación por Fibra SA de CV|
-|16|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
-|17|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|18|101.255.104.117|8181|Indonesia|West Jakarta|PT Remala Abadi|
-|19|103.102.12.67|8080|Indonesia|Rembang|FISNET|
-|20|171.253.90.204|2047|Vietnam|Hanoi|Viettel Corporation|
+|2|43.161.205.36|80|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|119.94.185.43|8082|Philippines|Marilao|Philippine Long Distance Telephone Co.|
+|4|134.199.160.93|8888|Australia|Sydney|DigitalOcean, LLC|
+|5|145.220.227.24|8080|The Netherlands|Utrecht|SURFnet III d|
+|6|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|7|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|8|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|9|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|10|45.232.0.2|8080|Argentina|San Miguel de Tucumán|Sistemas Informaticos S.A.S.|
+|11|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|12|210.8.69.103|808|Australia|Sydney|AAPT Limited|
+|13|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
+|14|187.251.224.167|80|Mexico|León|TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.|
+|15|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
+|16|103.69.59.38|3128|Bangladesh|Bāndarban|MD ABDUR RAHMAN SAHIN|
+|17|34.43.46.91|80|United States|Mountain View|Google LLC|
+|18|125.25.167.187|80|Thailand|Bangkok|TOT Public Company Limited|
+|19|189.51.168.162|999|Mexico|Hunucmá|Comunicación por Fibra SA de CV|
+|20|195.226.213.254|8888|Ukraine|Fontanka|Private Enterprise KTV AIDA|
 
 
 
