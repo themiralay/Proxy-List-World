@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|704|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|704|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|704|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|771|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|771|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|771|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
-|3|36.64.241.218|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|2|34.43.46.91|80|United States|Mountain View|Google LLC|
+|3|45.61.133.104|7777|United States|Las Vegas|RouterHosting LLC|
 |4|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|5|180.190.24.163|9999|Philippines|Marikina City|Globe Telecom|
+|5|36.64.241.218|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
 |6|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|7|118.179.84.131|81|Bangladesh|Dhaka|AmberIT Limited|
-|8|103.124.226.80|3128|Bangladesh|Gazipur|Level3|
-|9|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
-|10|116.68.171.226|8080|Indonesia|Luwuk|Asia Pacific Network Information Center|
-|11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|12|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|58.69.124.137|8080|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|14|202.152.37.86|8080|Indonesia|West Jakarta|PT Aplikanusa Lintasarta|
-|15|202.152.134.202|8071|Indonesia|Yogyakarta|PT Jembatan Citra Nusantara|
+|7|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
+|9|216.125.18.67|3128|United States|Brookfield|Illinois Century Network|
+|10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|11|34.43.46.91|80|United States|Mountain View|Google LLC|
+|12|126.209.112.164|8082|Philippines|Bulacan|Infinivan Incorporated|
+|13|180.180.156.126|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|14|103.213.131.79|8085|Indonesia|Jakarta|PT. MNC Kabel Mediacom|
+|15|192.232.48.23|8181|Indonesia|Pringsewu|PT Axindo Infinitas Network|
 |16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|17|38.76.251.115|999|Dominican Republic|Pizarrete|Cogent Communications|
-|18|216.125.18.67|3128|United States|Brookfield|Illinois Century Network|
-|19|118.173.233.203|443|Thailand|Bangkok|TOT Public Company Limited|
-|20|182.160.127.29|12331|Bangladesh|Dhaka|Aamra Networks Limited|
+|17|185.109.244.69|8080|Iran|Tehran|Asiatech Data Transmission company|
+|18|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
+|19|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
+|20|179.1.126.46|999|Colombia|Quibdó|Internexa S.a. E.S.P|
 
 
 
