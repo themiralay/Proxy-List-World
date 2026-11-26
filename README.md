@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|497|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|497|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|497|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
 
 ## Sources
 
@@ -39,24 +39,24 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.254.213.60|1082|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
-|2|47.254.213.60|1082|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
-|3|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|5|103.102.14.48|1111|Indonesia|Rembang|FISNET|
-|6|115.79.70.69|8470|Vietnam|Ho Chi Minh City|VIETELftth|
-|7|34.43.46.91|443|United States|Mountain View|Google LLC|
+|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|2|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|3|50.238.106.26|3128|United States|Atlanta|Comcast Cable Communications, LLC|
+|4|34.43.46.91|80|United States|Mountain View|Google LLC|
+|5|34.43.46.91|80|United States|Mountain View|Google LLC|
+|6|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|7|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
 |8|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
-|9|34.43.46.91|443|United States|Mountain View|Google LLC|
-|10|161.22.33.80|999|Venezuela|Caracas|THUNDERNET, C.A|
-|11|210.8.69.103|808|Australia|Sydney|AAPT Limited|
-|12|139.5.75.83|8080|Nepal|Patan|WLINK|
-|13|180.191.34.111|8081|Philippines|Cabanatuan City|Globe Telecom|
-|14|160.202.146.48|8080|Bangladesh|Brāhmanbāria|Antaranga Dot Com Ltd|
-|15|181.119.111.59|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|16|177.234.217.83|999|Ecuador|Quito|Ufinet Panama S.A.|
-|17|203.175.103.193|8080|Indonesia|Garawangi|PT. Mitra Kita Brilian|
-|18|2.28.105.45|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|9|120.136.23.170|8800|China|Beijing|China Unicom Beijing Province Network|
+|10|210.8.69.103|808|Australia|Sydney|AAPT Limited|
+|11|45.144.49.64|5443|Poland|Warsaw|3hcloud|
+|12|216.125.18.67|3128|United States|Brookfield|Illinois Century Network|
+|13|1.20.178.221|8080|Thailand|Bangkok|TOT Public Company Limited|
+|14|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|15|147.161.246.34|10919|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|16|147.161.246.34|10919|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|17|147.161.246.34|10919|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|18|147.161.246.34|10919|Switzerland|Zurich|Zscaler Switzerland GmbH|
 |19|147.161.246.34|10919|Switzerland|Zurich|Zscaler Switzerland GmbH|
 |20|147.161.246.34|10919|Switzerland|Zurich|Zscaler Switzerland GmbH|
 
