@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|661|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|661|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|661|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|649|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|649|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|649|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|2|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
-|3|206.135.47.108|999|Mexico|Puebla City|Ientc S De RL De CV|
-|4|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|5|38.226.243.191|8080|Indonesia|Randudongkal|PT Putra Garsel Interkoneksi|
-|6|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
+|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|2|38.7.17.82|999|Mexico|Morelia|Internet Telefonia Y TV De Michoacan SA De CV|
+|3|38.188.63.169|8080|Indonesia|Margasari|PT Nesta Indo Media|
+|4|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
+|5|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|6|1.10.133.83|8081|Thailand|Tha Kham|TOT Public Company Limited|
 |7|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|9|201.4.65.79|8080|Turkey|Adana|High Speed For Internet Services L.L.C|
-|10|37.187.109.70|10111|France|Roubaix|OVH SAS|
-|11|103.124.137.193|8181|Indonesia|Pandaan|Global Media Data Prima|
-|12|110.34.1.178|7777|Nepal|Kathmandu|Subisu Cablenet|
-|13|43.161.205.36|80|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|14|147.161.246.34|10926|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|15|147.161.246.34|10926|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|16|147.161.246.34|10926|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|17|182.52.113.54|80|Thailand|Bangkok|TOT Public Company Limited|
-|18|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|19|147.161.246.34|10926|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|20|147.161.246.34|10926|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|8|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|9|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
+|10|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
+|11|180.180.156.126|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|12|38.194.246.34|999|Mexico|El Pueblito|IENTC S de RL de CV|
+|13|163.227.146.38|8080|Indonesia|Cianjur|PT EXA TELEKOMUNIKASI NUSANTARA|
+|14|125.25.167.187|80|Thailand|Bangkok|TOT Public Company Limited|
+|15|200.107.239.218|999|Honduras|San Pedro Sula|Redes y Telecomunicaciones|
+|16|36.88.163.36|8080|Indonesia|Sidoarjo|PT. Telekomunikasi Indonesia|
+|17|177.93.33.76|999|Colombia|Consacá|TV AZTECA SUCURSAL COLOMBIA|
+|18|190.94.213.234|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|19|181.119.111.59|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|20|182.52.113.54|80|Thailand|Bangkok|TOT Public Company Limited|
 
 
 
