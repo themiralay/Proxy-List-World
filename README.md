@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5707** proxies at the latest update. Usable proxies are below.
+> Scraper found **5735** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|604|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|604|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|604|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|774|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|774|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|774|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|617|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|645|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1420|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2970|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|43.161.205.36|80|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|120.136.23.170|8800|China|Beijing|China Unicom Beijing Province Network|
-|4|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
-|5|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
-|6|38.194.246.34|999|Mexico|El Pueblito|IENTC S de RL de CV|
-|7|182.52.113.101|80|Thailand|Bangkok|TOT Public Company Limited|
-|8|180.180.156.126|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|9|161.22.33.93|999|Venezuela|Caracas|THUNDERNET, C.A|
-|10|38.58.66.175|999|Mexico|Tantoyuca|Velocom SA De CV|
-|11|119.93.170.95|8085|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|12|200.26.184.32|999|Dominican Republic|Sabana Perdida|ACOLME TECH, SRL|
-|13|34.43.46.91|443|United States|Mountain View|Google LLC|
-|14|177.128.115.198|999|Chile|Melipilla|Binet Networking Data Limitada|
-|15|45.179.200.65|999|Colombia|Bogotá|NET&COM LTDA.|
-|16|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
-|17|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|18|177.234.217.85|999|Ecuador|Quito|Ufinet Panama S.A.|
-|19|36.92.61.75|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|20|147.161.246.34|10926|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|2|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|3|134.199.160.93|8888|Australia|Sydney|DigitalOcean, LLC|
+|4|167.99.8.113|8020|United States|North Bergen|DigitalOcean, LLC|
+|5|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|6|216.125.18.67|3128|United States|Brookfield|Illinois Century Network|
+|7|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|8|38.44.17.142|999|Dominican Republic|Yamasá|REYNOSO, S.R.L.|
+|9|160.30.204.24|10001|Vietnam|Vinhomes Smart City|TVC|
+|10|101.255.32.43|8080|Indonesia|East Jakarta|PT Remala Abadi|
+|11|124.83.118.108|8082|Philippines|Meycauayan|Philippine Long Distance Telephone Co.|
+|12|203.190.113.93|8079|Indonesia|Jakarta|PT Union Routelink Communication|
+|13|181.78.1.229|999|Colombia|Bogotá|Ufinet Panama S.A.|
+|14|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
+|15|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
+|16|148.224.14.196|999|Mexico|Uruapan|Jorge Luis Torres Fernandez|
+|17|186.7.157.48|8080|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A.|
+|18|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
+|19|190.110.34.22|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
