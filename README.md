@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|679|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|679|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|679|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|673|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|673|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|673|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|119.28.155.151|3128|South Korea|Seoul|ComsenzNet|
 |2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|3|134.199.160.93|8888|Australia|Sydney|DigitalOcean, LLC|
-|4|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|5|134.199.160.93|8888|Australia|Sydney|DigitalOcean, LLC|
+|3|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
+|4|134.199.160.93|8888|Australia|Sydney|DigitalOcean, LLC|
+|5|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
 |6|50.238.106.26|3128|United States|Atlanta|Comcast Cable Communications, LLC|
-|7|34.43.46.91|443|United States|Mountain View|Google LLC|
-|8|167.99.8.113|8017|United States|North Bergen|DigitalOcean, LLC|
-|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|10|154.27.196.249|999|Mexico|Ciudad de Villa de Álvarez|Cogent Communications|
-|11|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
-|12|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
-|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|14|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
-|15|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
-|16|120.136.23.176|80|China|Beijing|China Unicom Beijing Province Network|
-|17|202.146.230.102|8080|Indonesia|Jagirsidosermo|PT Centrin Utama|
-|18|201.139.183.210|999|Mexico|Puebla City|Computadoras y Servicios Especiales SA de CV|
-|19|112.198.128.171|8083|Philippines|Nasugbu|Globe Telecom|
-|20|187.190.58.152|8081|Mexico|Mazatlán|TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.|
+|7|134.199.160.93|8888|Australia|Sydney|DigitalOcean, LLC|
+|8|34.43.46.91|80|United States|Mountain View|Google LLC|
+|9|160.25.242.250|8080|Indonesia|Madiun|PT Sarana Media Cemerlang|
+|10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|11|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
+|12|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
+|13|120.136.23.176|8800|China|Beijing|China Unicom Beijing Province Network|
+|14|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
+|15|38.7.23.106|999|Mexico|Morelia|Internet Telefonia Y TV De Michoacan SA De CV|
+|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|17|124.6.164.13|3128|Philippines|Lahug|INNOVE|
+|18|113.53.29.142|80|Thailand|Phuket|TOT Public Company Limited|
+|19|115.79.70.69|8470|Vietnam|Ho Chi Minh City|VIETELftth|
+|20|177.234.217.84|999|Ecuador|Quito|Ufinet Panama S.A.|
 
 
 
