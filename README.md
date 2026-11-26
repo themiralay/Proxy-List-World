@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|425|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|425|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|425|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|50.238.106.26|3128|United States|Atlanta|Comcast Cable Communications, LLC|
-|3|34.43.46.91|443|United States|Mountain View|Google LLC|
-|4|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|5|34.43.46.91|443|United States|Mountain View|Google LLC|
-|6|120.136.23.176|3128|China|Beijing|China Unicom Beijing Province Network|
-|7|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
-|8|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
-|9|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
-|10|173.212.234.174|3128|France|Lauterbourg|Contabo GmbH|
-|11|102.244.78.61|8086|Cameroon|Maroua|Orange CAM INTERNET|
-|12|124.106.83.244|8083|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|13|88.247.171.120|8080|Türkiye|Konak|Turk Telekomunikasyon A.S|
-|14|43.161.205.36|80|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|15|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|16|103.236.142.59|8080|Indonesia|Pati Regency|PT. Jaringan Internet Tayu|
-|17|134.199.160.93|8888|Australia|Sydney|DigitalOcean, LLC|
-|18|177.234.217.45|999|Ecuador|Quito|Ufinet Panama S.A.|
-|19|103.247.14.146|8080|Indonesia|Magelang|TERABIT|
-|20|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|1|134.199.160.93|8888|Australia|Sydney|DigitalOcean, LLC|
+|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|3|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|4|34.43.46.91|443|United States|Mountain View|Google LLC|
+|5|50.238.106.26|3128|United States|Atlanta|Comcast Cable Communications, LLC|
+|6|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
+|7|170.81.131.70|3128|Brazil|São José do Rio Preto|IFTNET Telecomunicacoes Ltda|
+|8|91.107.186.23|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|194.124.36.22|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|10|148.222.136.64|999|Dominican Republic|Boca Chica|BITNET DOMINICANA, S.R.L.|
+|11|147.161.246.34|10926|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|12|147.161.246.34|10926|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|13|147.161.246.34|10926|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|14|147.161.246.34|10926|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|15|147.161.246.34|10926|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|16|147.161.246.34|10926|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|17|147.161.246.34|10926|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|18|38.44.17.142|999|Dominican Republic|Yamasá|REYNOSO, S.R.L.|
+|19|43.161.205.36|80|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|20|164.52.11.194|18080|Taiwan|Taipei|CDS Global Cloud Co., Ltd|
 
 
 
