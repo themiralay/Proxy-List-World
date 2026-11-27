@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|355|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|355|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|355|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|61.247.223.58|80|South Korea|Seongnam-si|NAVER Cloud Corp|
-|2|61.247.222.38|80|South Korea|Seongnam-si|NAVER Cloud Corp|
-|3|61.247.222.40|80|South Korea|Seongnam-si|NAVER Cloud Corp|
-|4|61.247.223.134|80|South Korea|Seongnam-si|NAVER Cloud Corp|
-|5|61.247.223.127|80|South Korea|Seongnam-si|NAVER Cloud Corp|
-|6|43.161.205.36|80|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|1|61.247.222.38|80|South Korea|Seongnam-si|NAVER Cloud Corp|
+|2|61.247.222.40|80|South Korea|Seongnam-si|NAVER Cloud Corp|
+|3|61.247.223.127|80|South Korea|Seongnam-si|NAVER Cloud Corp|
+|4|61.247.223.58|80|South Korea|Seongnam-si|NAVER Cloud Corp|
+|5|43.161.205.36|80|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|6|61.247.223.134|80|South Korea|Seongnam-si|NAVER Cloud Corp|
 |7|61.247.222.149|80|South Korea|Seongnam-si|NAVER Cloud Corp|
-|8|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|9|20.235.56.94|8080|India|Chennai|Microsoft Corporation|
-|10|154.201.127.230|8080|India|Noida|Real Time Data Services Private Limited|
-|11|61.247.222.173|80|South Korea|Seongnam-si|NAVER Cloud Corp|
+|8|103.208.102.93|1080|Indonesia|Muntilan|PT Tidar Lintas Nusa|
+|9|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|10|61.247.222.173|80|South Korea|Seongnam-si|NAVER Cloud Corp|
+|11|45.194.3.132|8080|India|Noida|CtrlS|
 |12|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
-|13|173.205.202.225|8181|United States|Kirklin|Swayzee Telephone Company, Inc.|
-|14|38.76.251.110|999|Dominican Republic|Pizarrete|Cogent Communications|
-|15|103.124.136.70|8080|Indonesia|Subang|Global Media Data Prima|
-|16|216.125.18.67|3128|United States|Brookfield|Illinois Century Network|
-|17|206.135.47.108|999|Mexico|Puebla City|Ientc S De RL De CV|
-|18|167.99.3.26|8354|United States|North Bergen|DigitalOcean, LLC|
-|19|34.43.46.91|80|United States|Mountain View|Google LLC|
-|20|38.253.85.3|999|Dominican Republic|Maimón|Cogent Communications|
+|13|34.43.46.91|80|United States|Mountain View|Google LLC|
+|14|167.99.3.26|7777|United States|North Bergen|DigitalOcean, LLC|
+|15|38.49.138.197|999|Mexico|Emiliano Zapata|IENTC S de RL de CV|
+|16|103.76.12.158|8080|Indonesia|Jambi City|PT Mora Telematika Indonesia|
+|17|210.8.69.103|808|Australia|Sydney|AAPT Limited|
+|18|38.103.250.83|8080|Indonesia|Kudus|PT Erajaya Telco Indonesia / Eratel /Eratelindo|
+|19|160.19.16.101|8181|Indonesia|Tanjungbalai|PT Media Balai Nusa|
+|20|120.136.23.70|9480|China|Beijing|China Unicom Beijing Province Network|
 
 
 
