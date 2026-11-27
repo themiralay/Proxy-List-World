@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|410|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|410|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|410|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|505|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|505|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|505|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|61.247.223.58|80|South Korea|Seongnam-si|NAVER Cloud Corp|
-|2|61.247.222.40|80|South Korea|Seongnam-si|NAVER Cloud Corp|
+|1|61.247.222.40|80|South Korea|Seongnam-si|NAVER Cloud Corp|
+|2|61.247.223.58|80|South Korea|Seongnam-si|NAVER Cloud Corp|
 |3|61.247.222.149|80|South Korea|Seongnam-si|NAVER Cloud Corp|
-|4|119.94.185.43|8082|Philippines|Marilao|Philippine Long Distance Telephone Co.|
-|5|50.238.106.26|3128|United States|Atlanta|Comcast Cable Communications, LLC|
-|6|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|7|167.99.3.26|9973|United States|North Bergen|DigitalOcean, LLC|
-|8|145.220.227.24|8080|The Netherlands|Utrecht|SURFnet III d|
-|9|180.125.216.109|8118|China|Nanjing|China Telecom|
-|10|159.223.142.17|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
-|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|13|96.3.60.222|8888|United States|Bismarck|Midcontinent Communications|
-|14|27.49.76.149|8082|Philippines|Pasig|Converge ICT|
-|15|161.49.87.222|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|16|122.54.119.79|8080|Philippines|Mariano Marcos|Philippine Long Distance Telephone Co.|
+|4|50.238.106.26|3128|United States|Atlanta|Comcast Cable Communications, LLC|
+|5|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|6|161.49.87.222|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|7|145.220.227.24|8080|The Netherlands|Utrecht|SURFnet III d|
+|8|103.155.196.48|8181|Indonesia|Sukabumi|JEMBATANDATA|
+|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|10|144.124.251.24|10082|The Netherlands|Amsterdam|Servers Tech Fzco|
+|11|222.127.76.123|8082|Philippines|Lahug|INNOVE|
+|12|180.191.234.124|8080|Philippines|Marilao|Globe Telecom|
+|13|119.94.185.43|8082|Philippines|Marilao|Philippine Long Distance Telephone Co.|
+|14|103.131.18.198|8080|Indonesia|Ungaran|PT Global Media Data Prima|
+|15|167.99.3.26|9700|United States|North Bergen|DigitalOcean, LLC|
+|16|34.43.46.91|80|United States|Mountain View|Google LLC|
 |17|34.43.46.91|80|United States|Mountain View|Google LLC|
-|18|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|19|27.147.153.179|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|20|38.41.0.87|999|Venezuela|Caracas|MDS TELECOM C.A.|
+|18|103.215.187.67|8080|Indonesia|South Jakarta|PT Jaringan Inti Exadata|
+|19|103.124.136.105|3127|Indonesia|Subang|Global Media Data Prima|
+|20|38.188.63.115|8081|Indonesia|Margasari|PT Nesta Indo Media|
 
 
 
