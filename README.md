@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4529** proxies at the latest update. Usable proxies are below.
+> Scraper found **4623** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|373|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|373|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|373|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|355|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|355|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|355|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|490|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|584|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1133|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2206|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|61.247.223.134|80|South Korea|Seongnam-si|NAVER Cloud Corp|
-|2|61.247.222.40|80|South Korea|Seongnam-si|NAVER Cloud Corp|
-|3|61.247.222.198|80|South Korea|Seongnam-si|NAVER Cloud Corp|
-|4|61.247.222.173|80|South Korea|Seongnam-si|NAVER Cloud Corp|
+|1|61.247.223.58|80|South Korea|Seongnam-si|NAVER Cloud Corp|
+|2|61.247.222.38|80|South Korea|Seongnam-si|NAVER Cloud Corp|
+|3|61.247.222.40|80|South Korea|Seongnam-si|NAVER Cloud Corp|
+|4|61.247.223.134|80|South Korea|Seongnam-si|NAVER Cloud Corp|
 |5|61.247.223.127|80|South Korea|Seongnam-si|NAVER Cloud Corp|
-|6|61.247.223.58|80|South Korea|Seongnam-si|NAVER Cloud Corp|
-|7|61.247.222.186|80|South Korea|Seongnam-si|NAVER Cloud Corp|
-|8|61.247.223.151|80|South Korea|Seongnam-si|NAVER Cloud Corp|
-|9|171.253.91.148|2105|Vietnam|Hanoi|Viettel Corporation|
-|10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|11|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
-|12|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
-|13|167.99.3.26|7368|United States|North Bergen|DigitalOcean, LLC|
-|14|120.136.23.176|80|China|Beijing|China Unicom Beijing Province Network|
-|15|210.8.69.103|808|Australia|Sydney|AAPT Limited|
-|16|124.106.122.97|8086|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|17|41.33.173.85|8080|Egypt|Cairo|TE Data|
-|18|111.125.242.34|1111|India|Mumbai|Microscan Internet Limited|
-|19|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
-|20|134.249.185.223|41890|Ukraine|Kyiv|Kyivstar UA|
+|6|43.161.205.36|80|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|7|61.247.222.149|80|South Korea|Seongnam-si|NAVER Cloud Corp|
+|8|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|9|20.235.56.94|8080|India|Chennai|Microsoft Corporation|
+|10|154.201.127.230|8080|India|Noida|Real Time Data Services Private Limited|
+|11|61.247.222.173|80|South Korea|Seongnam-si|NAVER Cloud Corp|
+|12|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
+|13|173.205.202.225|8181|United States|Kirklin|Swayzee Telephone Company, Inc.|
+|14|38.76.251.110|999|Dominican Republic|Pizarrete|Cogent Communications|
+|15|103.124.136.70|8080|Indonesia|Subang|Global Media Data Prima|
+|16|216.125.18.67|3128|United States|Brookfield|Illinois Century Network|
+|17|206.135.47.108|999|Mexico|Puebla City|Ientc S De RL De CV|
+|18|167.99.3.26|8354|United States|North Bergen|DigitalOcean, LLC|
+|19|34.43.46.91|80|United States|Mountain View|Google LLC|
+|20|38.253.85.3|999|Dominican Republic|Maimón|Cogent Communications|
 
 
 
