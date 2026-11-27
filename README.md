@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|362|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|362|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|362|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|403|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|403|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|403|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|61.247.222.173|80|South Korea|Seongnam-si|NAVER Cloud Corp|
-|2|61.247.223.134|80|South Korea|Seongnam-si|NAVER Cloud Corp|
-|3|61.247.223.58|80|South Korea|Seongnam-si|NAVER Cloud Corp|
+|2|61.247.223.58|80|South Korea|Seongnam-si|NAVER Cloud Corp|
+|3|61.247.223.134|80|South Korea|Seongnam-si|NAVER Cloud Corp|
 |4|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
 |5|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|6|20.235.56.94|8080|India|Chennai|Microsoft Corporation|
-|7|34.43.46.91|80|United States|Mountain View|Google LLC|
-|8|144.124.251.24|10082|The Netherlands|Amsterdam|Servers Tech Fzco|
-|9|61.247.222.149|80|South Korea|Seongnam-si|NAVER Cloud Corp|
-|10|145.220.227.24|8080|The Netherlands|Utrecht|SURFnet III d|
-|11|2.26.234.3|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|222.127.76.123|8082|Philippines|Lahug|INNOVE|
-|15|103.213.131.79|8085|Indonesia|Jakarta|PT. MNC Kabel Mediacom|
-|16|103.193.144.81|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|17|50.238.106.26|3128|United States|Atlanta|Comcast Cable Communications, LLC|
-|18|160.22.45.22|8097|Indonesia|Marisa|PT Celebes Multi Network|
-|19|9.154.240.122|8085|Indonesia|Surabaya|PT Mora Telematika Indonesia TBK|
-|20|103.142.255.32|8080|Indonesia|Madiun|PT.CITRA BERDIKARI NUSANTARA|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|61.247.222.149|80|South Korea|Seongnam-si|NAVER Cloud Corp|
+|8|20.235.56.94|8080|India|Chennai|Microsoft Corporation|
+|9|9.154.240.122|8085|Indonesia|Surabaya|PT Mora Telematika Indonesia TBK|
+|10|50.238.106.26|3128|United States|Atlanta|Comcast Cable Communications, LLC|
+|11|145.220.227.24|8080|The Netherlands|Utrecht|SURFnet III d|
+|12|144.124.251.24|10082|The Netherlands|Amsterdam|Servers Tech Fzco|
+|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|14|34.43.46.91|80|United States|Mountain View|Google LLC|
+|15|122.54.119.79|8080|Philippines|Mariano Marcos|Philippine Long Distance Telephone Co.|
+|16|157.66.50.125|1111|Indonesia|Rengasdengklok|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|17|41.33.173.85|8080|Egypt|Cairo|TE Data|
+|18|103.66.47.10|8080|Indonesia|Bogor|PT Iconmedia Lintas Nusantara|
+|19|61.247.223.151|80|South Korea|Seongnam-si|NAVER Cloud Corp|
+|20|1.4.141.42|80|Thailand|Khon Kaen|TOT Public Company Limited|
 
 
 
