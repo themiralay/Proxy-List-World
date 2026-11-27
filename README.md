@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|782|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|782|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|782|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|718|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|718|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|718|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.193.144.41|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|2|126.209.105.226|5050|Philippines|Manila|Infinivan Incorporated|
-|3|180.191.120.247|5050|Philippines|Cagayan de Oro|Globe Telecom|
-|4|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
-|5|34.43.46.91|80|United States|Mountain View|Google LLC|
-|6|145.220.227.67|8080|The Netherlands|Utrecht|SURFnet III d|
-|7|38.51.206.73|999|Venezuela|Maracaibo|Tecnoven Services C.A|
-|8|101.255.211.46|8181|Indonesia|Depok|PT Remala Abadi|
-|9|168.197.104.45|8080|Brazil|Guaratuba|Gtba Telecom Ltda ME|
-|10|180.191.229.193|5050|Philippines|Talisay City|Globe Telecom|
-|11|180.180.156.68|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|12|163.227.149.137|3128|Indonesia|Palembang|PT Andalas Solusi Network|
-|13|172.239.105.7|3128|United Kingdom|London|Akamai Technologies, Inc.|
-|14|212.252.73.18|8080|Türkiye|Yalova|Superonline Iletisim Hizmetleri A.S.|
-|15|101.109.18.85|8080|Thailand|Pattaya|TOT Public Company Limited|
-|16|82.22.54.135|5050|Philippines|Ormoc City|Code Asset LTD|
-|17|180.194.78.50|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
+|1|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
+|2|157.15.0.152|7778|Indonesia|Ngawi|Gopalnet|
+|3|101.109.18.85|8080|Thailand|Pattaya|TOT Public Company Limited|
+|4|34.43.46.91|80|United States|Mountain View|Google LLC|
+|5|145.220.227.67|8080|The Netherlands|Utrecht|SURFnet III d|
+|6|103.193.144.41|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
+|7|41.33.173.85|8080|Egypt|Cairo|TE Data|
+|8|193.233.90.71|40000|Russia|St Petersburg|Aeza Group LLC|
+|9|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
+|10|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
+|11|58.69.208.243|8081|Philippines|San Pedro|Philippine Long Distance Telephone Co.|
+|12|182.71.123.38|80|India|Gurugram|Bharti Airtel|
+|13|124.105.79.237|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|14|103.247.21.82|8446|Indonesia|Bekasi|PT wifian Solution|
+|15|14.248.84.131|8080|Vietnam|Hanoi|VNPT|
+|16|124.105.111.84|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|17|147.161.246.34|12571|Switzerland|Zurich|Zscaler Switzerland GmbH|
 |18|147.161.246.34|12571|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|19|180.190.24.163|9999|Philippines|Marikina City|Globe Telecom|
-|20|36.88.111.250|8787|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|19|24.173.217.114|55443|United States|Balch Springs|Spectrum|
+|20|147.161.246.34|12571|Switzerland|Zurich|Zscaler Switzerland GmbH|
 
 
 
