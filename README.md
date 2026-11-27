@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|602|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|602|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|602|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|637|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|637|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|637|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|171.253.90.204|2047|Vietnam|Hanoi|Viettel Corporation|
+|1|120.28.117.92|8081|Philippines|San Juan|Globe Telecom|
+|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 |3|171.253.90.204|2047|Vietnam|Hanoi|Viettel Corporation|
-|4|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|206.135.38.38|999|Mexico|San Cristóbal de las Casas|Ientc S De RL De CV|
-|6|80.225.250.95|8888|India|Mumbai|Oracle Corporation|
-|7|172.236.2.41|3128|United Kingdom|London|Akamai Technologies, Inc.|
+|4|171.253.90.204|2047|Vietnam|Hanoi|Viettel Corporation|
+|5|45.194.90.194|8080|India|Noida|Shanxi Liyun Breeding Co|
+|6|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|186.7.157.48|8080|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A.|
 |8|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
-|9|203.81.81.226|8055|Myanmar|Yangon|Myanma Post & Telecommunication|
-|10|103.69.107.70|8181|Indonesia|Ciruas|PT. Berkat Dunia Digital Cikande|
-|11|151.253.146.146|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
-|12|101.36.112.205|1081|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|14|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|15|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|16|210.8.69.103|808|Australia|Sydney|AAPT Limited|
-|17|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|18|112.202.230.201|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|19|177.234.217.43|999|Ecuador|Quito|Ufinet Panama S.A.|
-|20|126.209.112.164|8082|Philippines|Bulacan|Infinivan Incorporated|
+|9|163.227.146.38|8080|Indonesia|Cianjur|PT EXA TELEKOMUNIKASI NUSANTARA|
+|10|103.215.187.67|8080|Indonesia|South Jakarta|PT Jaringan Inti Exadata|
+|11|38.226.243.161|8080|Indonesia|Randudongkal|PT Putra Garsel Interkoneksi|
+|12|203.190.53.177|8080|Indonesia|West Jakarta|PT POWER TELECOM|
+|13|36.92.149.235|8080|Indonesia|Bekasi|Telekomunikasi Indonesia|
+|14|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|15|210.8.69.103|808|Australia|Sydney|AAPT Limited|
+|16|49.146.155.183|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
+|17|27.147.156.174|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|18|102.0.20.92|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
+|19|57.129.24.167|3128|Germany|Frankfurt am Main|OVH SAS|
+|20|180.180.156.96|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
 
 
 
