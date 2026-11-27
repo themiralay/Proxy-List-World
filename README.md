@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|722|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|722|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|722|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|696|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|696|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|696|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.155.85.222|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.161.205.36|80|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|3|45.198.11.164|9191|Indonesia|Colomadu|PT Jaringan Lintas Artha|
 |4|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|5|103.112.163.131|8080|Indonesia|Jakarta|24AS|
+|5|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 |6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|7|160.30.204.24|10001|Vietnam|Vinhomes Smart City|TVC|
-|8|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|9|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
-|11|171.253.90.204|2047|Vietnam|Hanoi|Viettel Corporation|
+|7|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
+|8|103.90.27.150|8080|Indonesia|Medan|PT. Arana Teknologi Indonesia|
+|9|154.18.255.118|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|10|171.253.90.204|2047|Vietnam|Hanoi|Viettel Corporation|
+|11|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
 |12|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|13|125.25.167.202|80|Thailand|Bangkok|TOT Public Company Limited|
-|14|202.152.134.202|8071|Indonesia|Yogyakarta|PT Jembatan Citra Nusantara|
-|15|14.170.154.193|19132|Vietnam|Thai Nguyen|VNPT-VNNIC|
-|16|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|17|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|18|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|19|181.119.103.237|999|Guatemala|San José Acatempa|Ufinet Panama S.A.|
-|20|201.4.68.236|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
+|13|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
+|14|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
+|15|160.30.204.24|10001|Vietnam|Vinhomes Smart City|TVC|
+|16|202.138.242.31|9090|Indonesia|Bandung|PT Melvar Lintasnusa|
+|17|125.25.167.187|80|Thailand|Bangkok|TOT Public Company Limited|
+|18|12.218.209.130|53281|United States|San Jose|AT&T Enterprises, LLC|
+|19|160.25.222.205|8181|Indonesia|Kurungannyawa|PT Telemedia Prima Nusantara|
+|20|178.252.171.226|8080|Iran|Golsār|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
 
 
 
