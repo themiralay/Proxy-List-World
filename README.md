@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4332** proxies at the latest update. Usable proxies are below.
+> Scraper found **4331** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|376|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|376|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|376|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|619|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|618|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|807|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2206|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 |2|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|3|112.210.130.189|8082|Philippines|General Trias|Philippine Long Distance Telephone Co.|
-|4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|5|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|3|125.25.167.124|80|Thailand|Bangkok|TOT Public Company Limited|
+|4|167.99.8.113|8013|United States|North Bergen|DigitalOcean, LLC|
+|5|144.124.251.24|10240|The Netherlands|Amsterdam|Servers Tech Fzco|
 |6|145.220.227.67|8080|The Netherlands|Utrecht|SURFnet III d|
 |7|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|8|213.171.212.110|8080|United Kingdom|Worcester|IONOS SE|
-|9|151.242.116.35|8080|Singapore|Singapore|PT Perwira Media Solusi|
-|10|124.83.118.108|8082|Philippines|Meycauayan|Philippine Long Distance Telephone Co.|
+|8|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
+|9|163.227.149.137|3128|Indonesia|Palembang|PT Andalas Solusi Network|
+|10|180.191.140.185|8082|Philippines|Makati City|Globe Telecom|
 |11|180.190.84.213|8082|Philippines|Cagayan de Oro|Globe Telecom|
-|12|201.165.164.22|999|Mexico|Chetumal|Mega Cable, S.A. de C.V.|
-|13|160.19.146.79|2022|Indonesia|Tasikmalaya|PT Taska Sarana Nusantara|
-|14|216.125.18.67|3128|United States|Brookfield|Illinois Century Network|
-|15|154.27.196.4|999|Mexico|Ciudad de Villa de Álvarez|Cogent Communications|
-|16|103.234.35.166|8080|Indonesia|Jember|PT. EXABIT GROUP NETWORK|
-|17|114.130.153.122|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|18|123.24.119.227|3128|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|74.62.179.122|8080|United States|Anaheim|Charter Communications Inc|
-|20|112.203.203.41|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|12|45.167.126.43|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|13|181.176.2.246|8443|Peru|Lima|VIETTEL PERÚ S.A.C.|
+|14|82.22.54.135|5050|Philippines|Ormoc City|Code Asset LTD|
+|15|125.25.167.164|80|Thailand|Bangkok|TOT Public Company Limited|
+|16|148.224.14.220|999|Mexico|Uruapan|Jorge Luis Torres Fernandez|
+|17|45.238.56.249|2010|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|18|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|19|125.25.167.135|80|Thailand|Bangkok|TOT Public Company Limited|
+|20|103.24.215.165|8080|Indonesia|Weleri|PT. ADAU PUTRA NETWORK|
 
 
 
