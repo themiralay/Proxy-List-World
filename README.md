@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|869|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|869|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|869|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|921|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|921|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|921|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|126.209.3.199|5050|Philippines|Marawi City|Infinivan Incorporated|
+|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 |2|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
-|3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|4|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|5|68.183.188.147|8001|Singapore|Singapore|DigitalOcean, LLC|
-|6|34.43.46.91|80|United States|Mountain View|Google LLC|
-|7|50.238.106.26|3128|United States|Atlanta|Comcast Cable Communications, LLC|
-|8|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|9|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
-|10|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|11|103.120.175.243|9191|Indonesia|Bekasi|PT. Eka Mas Republik|
-|12|49.144.21.128|5002|Philippines|Imus|Philippine Long Distance Telephone Co.|
-|13|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|14|58.69.124.137|8080|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|15|49.149.162.144|8082|Philippines|Cagayan de Oro|Philippine Long Distance Telephone Co.|
-|16|27.147.153.179|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|17|216.125.18.67|3128|United States|Brookfield|Illinois Century Network|
-|18|101.96.122.196|8080|Vietnam|Hanoi|NetNam Corporation|
-|19|38.156.238.96|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L|
-|20|163.223.78.163|8080|Indonesia|Jombang|PT Big Network Indonesia|
+|3|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|4|50.238.106.26|3128|United States|Atlanta|Comcast Cable Communications, LLC|
+|5|34.43.46.91|80|United States|Mountain View|Google LLC|
+|6|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|7|216.125.18.67|3128|United States|Brookfield|Illinois Century Network|
+|8|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|9|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
+|10|1.4.141.68|80|Thailand|Khon Kaen|TOT Public Company Limited|
+|11|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
+|12|180.191.232.182|3128|Philippines|Marilao|Globe Telecom|
+|13|103.120.175.243|9191|Indonesia|Bekasi|PT. Eka Mas Republik|
+|14|38.226.243.191|8080|Indonesia|Randudongkal|PT Putra Garsel Interkoneksi|
+|15|103.97.141.40|8080|Indonesia|Cianjur|PT Jembatan Data Pangrango|
+|16|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|17|163.227.146.38|8080|Indonesia|Cianjur|PT EXA TELEKOMUNIKASI NUSANTARA|
+|18|27.147.153.179|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|19|206.135.47.106|999|Mexico|Puebla City|Ientc S De RL De CV|
+|20|180.191.127.7|8082|Philippines|Cagayan de Oro|Globe Telecom|
 
 
 
