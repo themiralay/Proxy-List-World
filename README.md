@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|436|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|436|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|436|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
 |2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|3|45.195.91.59|8080|India|Noida|Real Time Data Services Private Limited|
-|4|119.93.178.99|8081|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|5|189.238.16.117|999|Mexico|Centro|Uninet S.A. de C.V.|
-|6|145.220.227.24|8080|The Netherlands|Utrecht|SURFnet III d|
-|7|116.104.52.124|2073|Vietnam|Nam Định|Viettel Group|
-|8|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
-|9|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|10|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|11|36.64.193.226|8080|Indonesia|West Bandung Regency|PT. Telekomunikasi Indonesia|
-|12|112.203.215.187|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|13|112.203.35.174|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|14|125.25.167.129|80|Thailand|Bangkok|TOT Public Company Limited|
-|15|37.187.109.70|10111|France|Roubaix|OVH SAS|
-|16|49.144.21.128|5002|Philippines|Imus|Philippine Long Distance Telephone Co.|
-|17|116.206.61.254|9104|Bangladesh|Dhaka|aamra Outsourcing Ltd.|
-|18|154.208.58.89|8080|Pakistan|Lahore|IN CABLE INTERNET PRIVATE LIMITED|
-|19|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|20|163.61.245.84|3125|Indonesia|Kota Sambas|PT NAOMI AURORA TEKNOLOGI|
+|3|116.104.52.124|2073|Vietnam|Nam Định|Viettel Group|
+|4|145.220.227.24|8080|The Netherlands|Utrecht|SURFnet III d|
+|5|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
+|6|116.172.234.154|1181|China|Jinrongjie|China Unicom CHINA169 Network|
+|7|36.64.193.226|8080|Indonesia|West Bandung Regency|PT. Telekomunikasi Indonesia|
+|8|213.169.33.7|8001|Bulgaria|Sofia|A1 Bulgaria EAD|
+|9|103.188.169.93|8080|Indonesia|Utan|PT Lintas Jaringan Nusantara|
+|10|103.213.131.79|8085|Indonesia|Jakarta|PT. MNC Kabel Mediacom|
+|11|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|12|49.144.21.128|5002|Philippines|Imus|Philippine Long Distance Telephone Co.|
+|13|1.20.101.20|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
+|14|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|5.26.111.181|8080|Türkiye|Kartal|Turkcell Internet|
+|16|203.142.71.50|8080|Indonesia|Jakarta|BIZNET|
+|17|125.25.167.129|80|Thailand|Bangkok|TOT Public Company Limited|
+|18|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|19|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
+|20|20.235.56.94|8080|India|Chennai|Microsoft Corporation|
 
 
 
