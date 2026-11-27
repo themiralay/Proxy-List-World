@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|460|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|460|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|460|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|454|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|454|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|454|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|47.254.213.60|1082|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
-|2|24.144.86.14|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|50.238.106.26|3128|United States|Atlanta|Comcast Cable Communications, LLC|
-|4|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
-|5|165.101.230.76|8080|Indonesia|Jatibarang|PT Anugerah Cimanuk Raya|
-|6|203.142.74.116|8080|Indonesia|Tabanan|BIZNET|
-|7|45.198.11.165|8080|Indonesia|Colomadu|PT Jaringan Lintas Artha|
-|8|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|9|47.254.213.60|1082|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
-|10|200.48.64.107|999|Peru|El Pedregal|Telefonica del Peru S.A.A.|
-|11|163.227.87.123|5050|Philippines|Mabini|Clian Internet and I.T. Services|
-|12|38.156.14.66|999|Dominican Republic|Santo Domingo Este|Cogent Communications|
-|13|27.72.98.89|8443|Vietnam|Hanoi|Newass2011xDSLHN|
+|2|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
+|3|47.254.213.60|1082|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
+|4|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|5|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
+|6|124.83.118.108|8082|Philippines|Meycauayan|Philippine Long Distance Telephone Co.|
+|7|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
+|8|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
+|9|163.52.18.203|8087|Philippines|Makati City|United Eight Internet Exchange Systems Corporation|
+|10|165.101.43.181|8080|Indonesia|Panaragan|PT Lintas Jaringan Nusantara|
+|11|38.103.250.204|8080|Indonesia|Kudus|PT Erajaya Telco Indonesia / Eratel /Eratelindo|
+|12|200.70.35.2|8080|Argentina|Lomas de Zamora|Telefonica de Argentina|
+|13|1.20.178.251|80|Thailand|Bangkok|TOT Public Company Limited|
 |14|103.193.144.251|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|15|1.10.248.238|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|16|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|17|154.88.129.11|999|Dominican Republic|Santiago de los Caballeros|DOMINICAN CABLE GROUP DCG, S.R.L.|
-|18|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
-|19|101.96.122.196|8080|Vietnam|Hanoi|NetNam Corporation|
-|20|20.235.56.94|8080|India|Chennai|Microsoft Corporation|
+|15|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
+|16|188.132.249.99|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
+|17|200.107.142.38|3128|Peru|Lima|Telefonica del Peru S.A.A.|
+|18|45.198.11.165|8080|Indonesia|Colomadu|PT Jaringan Lintas Artha|
+|19|206.135.38.38|999|Mexico|San Cristóbal de las Casas|Ientc S De RL De CV|
+|20|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 
 
 
