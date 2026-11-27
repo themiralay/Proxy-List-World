@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|425|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|425|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|425|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|476|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|476|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|476|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
-|2|47.254.213.60|1081|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
+|1|47.254.213.60|1081|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
+|2|20.235.56.94|8080|India|Chennai|Microsoft Corporation|
 |3|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|4|20.235.56.94|8080|India|Chennai|Microsoft Corporation|
+|4|184.70.113.34|3128|Canada|Calgary|Shaw Communications|
 |5|34.43.46.91|80|United States|Mountain View|Google LLC|
 |6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
 |7|160.30.204.24|10001|Vietnam|Vinhomes Smart City|TVC|
-|8|116.206.61.254|9104|Bangladesh|Dhaka|aamra Outsourcing Ltd.|
-|9|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|10|124.105.196.148|8081|Philippines|Paco|Philippine Long Distance Telephone Co.|
-|11|120.136.23.176|80|China|Beijing|China Unicom Beijing Province Network|
-|12|45.144.49.64|5443|Poland|Warsaw|3hcloud|
-|13|206.135.47.106|999|Mexico|Puebla City|Ientc S De RL De CV|
-|14|180.180.156.96|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|15|190.110.34.20|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|16|180.191.121.151|8080|Philippines|Quezon City|Globe Telecom|
-|17|180.191.229.193|5050|Philippines|Talisay City|Globe Telecom|
-|18|185.196.182.22|8080|Albania|Krume|shqiponjaisp.al LLC|
-|19|203.9.195.102|9000|Philippines|Zamboanga City|Go Wiser Corporation|
-|20|38.57.65.195|999|Dominican Republic|Santo Domingo Este|FALCO TELECOM, S.R.L.|
+|8|125.25.167.135|80|Thailand|Bangkok|TOT Public Company Limited|
+|9|102.244.78.61|8084|Cameroon|Maroua|Orange CAM INTERNET|
+|10|116.206.61.254|9104|Bangladesh|Dhaka|aamra Outsourcing Ltd.|
+|11|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|12|161.22.33.80|999|Venezuela|Caracas|THUNDERNET, C.A|
+|13|118.68.172.14|3128|Vietnam|Hanoi|FPT Telecom Company|
+|14|206.135.47.108|999|Mexico|Puebla City|Ientc S De RL De CV|
+|15|43.252.238.102|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|16|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
+|17|180.191.121.151|8080|Philippines|Quezon City|Globe Telecom|
+|18|193.43.140.240|8080|Syria|Damascus|Syrian Telecom|
+|19|38.57.65.195|999|Dominican Republic|Santo Domingo Este|FALCO TELECOM, S.R.L.|
+|20|89.43.133.165|8080|Syria|Ḩīsh|High Speed For Internet Services L.L.C|
 
 
 
