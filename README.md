@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6321** proxies at the latest update. Usable proxies are below.
+> Scraper found **6379** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|778|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|778|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|778|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|576|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|576|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|576|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|927|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|985|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1815|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2879|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.254.122.220|5443|United States|Minkler|Alibaba Cloud LLC|
-|2|34.43.46.91|80|United States|Mountain View|Google LLC|
-|3|38.49.138.202|999|Mexico|Emiliano Zapata|IENTC S de RL de CV|
-|4|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|5|38.226.243.61|8080|Indonesia|Randudongkal|PT Putra Garsel Interkoneksi|
-|6|145.220.227.24|8080|The Netherlands|Utrecht|SURFnet III d|
-|7|110.34.1.178|7777|Nepal|Kathmandu|Subisu Cablenet|
-|8|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
-|9|119.93.178.99|8081|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|10|193.233.90.71|40000|Russia|St Petersburg|Aeza Group LLC|
-|11|27.74.247.173|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|12|173.205.202.33|8181|United States|Kirklin|Swayzee Telephone Company, Inc.|
-|13|38.19.106.44|999|Mexico|Progreso de Obregón|Hulux Telecomunicaciones|
-|14|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|15|165.101.230.155|8080|Indonesia|Jatibarang|PT Anugerah Cimanuk Raya|
-|16|1.2.248.41|80|Thailand|Bang Khen|TOT Public Company Limited|
-|17|165.101.231.152|8080|Indonesia|Arjawinangun|PT Anugerah Cimanuk Raya|
-|18|190.104.35.30|8081|Argentina|Buenos Aires|Jumpnet Soluciones de Internet S.R.L.|
-|19|147.161.246.34|12571|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|20|160.25.35.218|3125|Indonesia|Pandeglang|PT AURORA SENTRAL INFORMATIKA|
+|1|165.22.99.36|8017|Singapore|Singapore|DigitalOcean, LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|20.235.56.94|8080|India|Chennai|Microsoft Corporation|
+|5|34.43.46.91|80|United States|Mountain View|Google LLC|
+|6|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
+|7|187.110.232.118|8080|Brazil|Fortaleza|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|8|183.88.231.188|34599|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|9|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
+|10|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
+|11|193.233.90.71|40000|Russia|St Petersburg|Aeza Group LLC|
+|12|59.145.184.190|80|India|Ghaziabad|Bharti Airtel Limited|
+|13|200.121.48.195|999|Peru|Lima|Telefonica del Peru|
+|14|147.161.246.34|12125|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|15|147.161.246.34|12125|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|16|147.161.246.34|12125|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|17|191.44.91.56|8080|France|Paris|High Speed For Internet Services L.L.C|
+|18|147.161.246.34|12125|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|19|147.161.246.34|12125|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|20|201.219.218.4|8080|Colombia|Cartagena|ITELKOM|
 
 
 
