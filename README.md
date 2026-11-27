@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5569** proxies at the latest update. Usable proxies are below.
+> Scraper found **5648** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|696|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|696|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|696|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|644|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|644|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|644|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|705|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|784|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1500|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2664|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|3|45.198.11.164|9191|Indonesia|Colomadu|PT Jaringan Lintas Artha|
-|4|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|5|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|7|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
-|8|103.90.27.150|8080|Indonesia|Medan|PT. Arana Teknologi Indonesia|
-|9|154.18.255.118|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|10|171.253.90.204|2047|Vietnam|Hanoi|Viettel Corporation|
-|11|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|12|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|13|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|14|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
-|15|160.30.204.24|10001|Vietnam|Vinhomes Smart City|TVC|
-|16|202.138.242.31|9090|Indonesia|Bandung|PT Melvar Lintasnusa|
-|17|125.25.167.187|80|Thailand|Bangkok|TOT Public Company Limited|
-|18|12.218.209.130|53281|United States|San Jose|AT&T Enterprises, LLC|
-|19|160.25.222.205|8181|Indonesia|Kurungannyawa|PT Telemedia Prima Nusantara|
-|20|178.252.171.226|8080|Iran|Golsār|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
+|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|2|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
+|3|34.43.46.91|80|United States|Mountain View|Google LLC|
+|4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|5|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
+|6|1.4.141.42|80|Thailand|Khon Kaen|TOT Public Company Limited|
+|7|193.233.90.71|40000|Russia|St Petersburg|Aeza Group LLC|
+|8|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|9|173.205.202.225|8181|United States|Kirklin|Swayzee Telephone Company, Inc.|
+|10|182.52.136.39|80|Thailand|Bangkok|TOT Public Company Limited|
+|11|160.22.45.78|8097|Indonesia|Marisa|PT Celebes Multi Network|
+|12|125.25.33.137|8080|Thailand|Pattaya|TOT Public Company Limited|
+|13|138.118.51.137|8080|Argentina|La Plata|CyberWave S.A.|
+|14|125.25.167.124|80|Thailand|Bangkok|TOT Public Company Limited|
+|15|103.155.196.161|8181|Indonesia|Sukabumi|JEMBATANDATA|
+|16|12.218.209.130|53281|United States|San Jose|AT&T Enterprises, LLC|
+|17|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|18|103.156.17.40|8085|Indonesia|Jatibarang|RSTNET|
+|19|147.161.246.34|12002|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|20|147.161.246.34|12002|Switzerland|Zurich|Zscaler Switzerland GmbH|
 
 
 
