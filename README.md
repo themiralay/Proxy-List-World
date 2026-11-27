@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.235.56.94|8080|India|Chennai|Microsoft Corporation|
 |2|165.22.99.36|8018|Singapore|Singapore|DigitalOcean, LLC|
-|3|58.187.97.254|2069|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|4|36.64.193.226|8080|Indonesia|West Bandung Regency|PT. Telekomunikasi Indonesia|
-|5|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|6|2.26.234.87|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|7|38.7.17.83|999|Mexico|Morelia|Internet Telefonia Y TV De Michoacan SA De CV|
-|8|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
-|9|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
-|10|206.135.80.78|999|Mexico|Querétaro City|Ientc S De RL De CV|
-|11|42.112.14.230|2080|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|12|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
-|13|102.244.78.61|8083|Cameroon|Maroua|Orange CAM INTERNET|
-|14|126.209.53.149|8181|Philippines|Manila|Infinivan Incoporated|
-|15|103.131.18.198|8080|Indonesia|Ungaran|PT Global Media Data Prima|
-|16|82.117.211.42|8085|Serbia|Ečka|Serbia BroadBand|
+|3|171.253.90.204|2047|Vietnam|Hanoi|Viettel Corporation|
+|4|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|5|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
+|6|165.154.162.73|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|38.183.184.249|999|Venezuela|Santa Teresa del Tuy|OIT SERVICIO DE DATOS, C.A.|
+|8|103.136.250.154|8080|Taiwan|Taipei|Kaopu Cloud HK Limited|
+|9|2.26.234.87|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|10|177.234.217.235|999|Ecuador|Quito|Ufinet Panama S.A.|
+|11|103.97.140.127|3125|Indonesia|Cianjur|PT Jembatan Data Pangrango|
+|12|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|13|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|14|14.170.154.193|19132|Vietnam|Thai Nguyen|VNPT-VNNIC|
+|15|157.100.63.247|999|Ecuador|Quito|Ufinet Panama S.A.|
+|16|38.252.145.15|999|Mexico|Actopan|Osbaldo Tovar Campero|
 |17|210.8.69.103|808|Australia|Sydney|AAPT Limited|
-|18|202.138.242.31|9090|Indonesia|Bandung|PT Melvar Lintasnusa|
-|19|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
-|20|103.136.250.154|8080|Taiwan|Taipei|Kaopu Cloud HK Limited|
+|18|182.52.136.68|80|Thailand|Bangkok|TOT Public Company Limited|
+|19|206.135.80.78|999|Mexico|Querétaro City|Ientc S De RL De CV|
+|20|45.43.60.220|8080|Japan|Tokyo|Zenlayer Inc|
 
 
 
