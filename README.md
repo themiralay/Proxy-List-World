@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6130** proxies at the latest update. Usable proxies are below.
+> Scraper found **6156** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|732|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|732|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|732|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|754|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|754|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|754|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|886|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|912|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1665|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2879|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
-|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|3|38.226.243.191|8080|Indonesia|Randudongkal|PT Putra Garsel Interkoneksi|
+|1|180.190.24.163|9999|Philippines|Marikina City|Globe Telecom|
+|2|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
+|3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 |4|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
 |5|34.43.46.91|80|United States|Mountain View|Google LLC|
 |6|50.238.106.26|3128|United States|Atlanta|Comcast Cable Communications, LLC|
-|7|184.70.113.34|3128|Canada|Calgary|Shaw Communications|
-|8|216.125.18.67|3128|United States|Brookfield|Illinois Century Network|
-|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|10|154.201.127.46|8080|India|Noida|Real Time Data Services Private Limited|
-|11|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
-|12|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
-|13|20.235.56.94|8080|India|Chennai|Microsoft Corporation|
-|14|89.43.132.239|8080|Syria|Ad Dānā|High Speed For Internet Services L.L.C|
-|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|16|59.145.184.190|80|India|Ghaziabad|Bharti Airtel Limited|
-|17|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
-|18|217.154.195.87|8888|Germany|Berlin|IONOS SE|
-|19|45.144.49.64|5443|Poland|Warsaw|3hcloud|
-|20|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
+|7|34.43.46.91|80|United States|Mountain View|Google LLC|
+|8|180.191.127.7|8082|Philippines|Cagayan de Oro|Globe Telecom|
+|9|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|10|183.88.218.225|8080|Thailand|Kanchanaburi|Triple T Broadband Public Company Limited|
+|11|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
+|12|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|13|38.7.18.119|999|Mexico|Morelia|Internet Telefonia Y TV De Michoacan SA De CV|
+|14|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
+|15|34.43.46.91|80|United States|Mountain View|Google LLC|
+|16|163.227.146.38|8080|Indonesia|Cianjur|PT EXA TELEKOMUNIKASI NUSANTARA|
+|17|216.125.18.67|3128|United States|Brookfield|Illinois Century Network|
+|18|89.43.132.239|8080|Syria|Ad Dānā|High Speed For Internet Services L.L.C|
+|19|193.233.90.71|40000|Russia|St Petersburg|Aeza Group LLC|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
