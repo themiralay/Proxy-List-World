@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4559** proxies at the latest update. Usable proxies are below.
+> Scraper found **4756** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|362|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|362|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|362|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|433|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|433|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|433|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|623|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|625|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1030|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1225|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2206|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|61.247.222.173|80|South Korea|Seongnam-si|NAVER Cloud Corp|
-|2|43.161.205.36|80|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|61.247.222.40|80|South Korea|Seongnam-si|NAVER Cloud Corp|
-|4|61.247.222.198|80|South Korea|Seongnam-si|NAVER Cloud Corp|
-|5|61.247.223.151|80|South Korea|Seongnam-si|NAVER Cloud Corp|
-|6|157.15.63.48|8080|Indonesia|Malang|AMAN ISP Customer Malang|
-|7|42.112.14.230|2090|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|8|61.247.223.127|80|South Korea|Seongnam-si|NAVER Cloud Corp|
-|9|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|10|34.43.46.91|443|United States|Mountain View|Google LLC|
-|11|167.99.8.113|8009|United States|North Bergen|DigitalOcean, LLC|
-|12|144.124.251.24|10082|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|145.220.227.24|8080|The Netherlands|Utrecht|SURFnet III d|
-|14|50.238.106.26|3128|United States|Atlanta|Comcast Cable Communications, LLC|
-|15|115.85.88.18|8080|Indonesia|Jakarta|Sudirman Central Business District|
-|16|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
-|17|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
-|18|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
-|19|38.58.117.201|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|20|1.20.101.35|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
+|1|61.247.222.38|80|South Korea|Seongnam-si|NAVER Cloud Corp|
+|2|61.247.223.134|80|South Korea|Seongnam-si|NAVER Cloud Corp|
+|3|61.247.222.173|80|South Korea|Seongnam-si|NAVER Cloud Corp|
+|4|61.247.222.149|80|South Korea|Seongnam-si|NAVER Cloud Corp|
+|5|61.247.223.58|80|South Korea|Seongnam-si|NAVER Cloud Corp|
+|6|61.247.222.198|80|South Korea|Seongnam-si|NAVER Cloud Corp|
+|7|61.247.222.40|80|South Korea|Seongnam-si|NAVER Cloud Corp|
+|8|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|9|34.43.46.91|443|United States|Mountain View|Google LLC|
+|10|20.235.56.94|8080|India|Chennai|Microsoft Corporation|
+|11|61.247.222.186|80|South Korea|Seongnam-si|NAVER Cloud Corp|
+|12|145.220.227.24|8080|The Netherlands|Utrecht|SURFnet III d|
+|13|202.29.215.78|8080|Thailand|Sai Buri|Office of Info.Tech. Admin. for Educational Development|
+|14|36.64.241.218|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|15|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
+|16|157.15.63.48|8080|Indonesia|Malang|AMAN ISP Customer Malang|
+|17|38.58.66.173|999|Mexico|Tantoyuca|Velocom SA De CV|
+|18|103.217.224.29|8089|Indonesia|Ungaran|PT Nesta Indo Media|
+|19|103.161.1.114|1111|Indonesia|Depok|METRO-RB|
+|20|177.234.217.45|999|Ecuador|Quito|Ufinet Panama S.A.|
 
 
 
