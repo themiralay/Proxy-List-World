@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|405|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|405|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|405|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|419|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|419|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|419|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|2|34.43.46.91|80|United States|Mountain View|Google LLC|
-|3|145.220.227.24|8080|The Netherlands|Utrecht|SURFnet III d|
-|4|42.112.14.230|2030|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|5|42.116.10.198|443|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|6|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
+|1|42.112.14.230|2047|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|2|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|3|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
+|4|145.220.227.24|8080|The Netherlands|Utrecht|SURFnet III d|
+|5|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
+|6|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
 |7|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
-|8|103.119.101.59|8080|Bangladesh|Dhaka|Dot Internet|
-|9|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
-|10|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
-|11|164.92.105.30|1080|United States|Santa Clara|DigitalOcean, LLC|
-|12|77.221.152.59|1080|France|Paris|Aeza Group LLC|
-|13|179.43.96.178|8080|Peru|Arequipa|Misticom Fibra Optica S.A.C.|
-|14|2.26.234.4|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|15|197.248.59.159|8082|Kenya|Nairobi|Safaricom Limited|
-|16|154.88.132.50|8080|Dominican Republic|Santiago de los Caballeros|DOMINICAN CABLE GROUP DCG, S.R.L.|
-|17|122.3.127.68|8080|Philippines|Pasig|Philippine Long Distance Telephone Co.|
-|18|103.158.210.24|8090|Indonesia|Babat|DIGITNET|
-|19|192.147.114.47|1111|Indonesia|Surabaya|PT Global Asta Systelematika|
-|20|206.135.47.110|999|Mexico|Puebla City|Ientc S De RL De CV|
+|8|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|9|165.101.42.97|8080|Indonesia|Utan|PT Lintas Jaringan Nusantara|
+|10|103.158.210.24|8090|Indonesia|Babat|DIGITNET|
+|11|103.124.136.105|3127|Indonesia|Subang|Global Media Data Prima|
+|12|123.253.137.224|8082|Philippines|Aroroy|ComClark Network & Technology Corp|
+|13|49.151.183.37|8082|Philippines|Clark Freeport Zone|Philippine Long Distance Telephone Co.|
+|14|180.191.143.6|8085|Philippines|Makati City|Globe Telecom|
+|15|38.58.117.135|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
+|16|192.147.114.47|1111|Indonesia|Surabaya|PT Global Asta Systelematika|
+|17|139.5.75.83|8080|Nepal|Patan|WLINK|
+|18|200.60.102.51|8080|Peru|Lima|Telefonica del Peru S.A.A.|
+|19|36.92.199.158|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|20|125.25.167.124|80|Thailand|Bangkok|TOT Public Company Limited|
 
 
 
