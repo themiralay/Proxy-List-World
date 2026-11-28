@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5820** proxies at the latest update. Usable proxies are below.
+> Scraper found **5788** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|621|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|621|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|621|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|564|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|564|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|564|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|899|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|867|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1696|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2525|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|61.247.222.38|80|South Korea|Seongnam-si|NAVER Cloud Corp|
-|2|61.247.223.127|80|South Korea|Seongnam-si|NAVER Cloud Corp|
+|1|61.247.222.186|80|South Korea|Seongnam-si|NAVER Cloud Corp|
+|2|61.247.223.134|80|South Korea|Seongnam-si|NAVER Cloud Corp|
 |3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|4|43.161.205.36|80|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|5|61.247.223.151|80|South Korea|Seongnam-si|NAVER Cloud Corp|
-|6|61.247.223.134|80|South Korea|Seongnam-si|NAVER Cloud Corp|
-|7|61.247.222.186|80|South Korea|Seongnam-si|NAVER Cloud Corp|
-|8|20.235.56.94|8080|India|Chennai|Microsoft Corporation|
-|9|182.52.113.54|80|Thailand|Bangkok|TOT Public Company Limited|
-|10|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
-|11|38.199.250.2|999|Mexico|Pueblo Hidalgo|MAYSNET S.A. de C.V|
+|4|61.247.222.198|80|South Korea|Seongnam-si|NAVER Cloud Corp|
+|5|61.247.222.38|80|South Korea|Seongnam-si|NAVER Cloud Corp|
+|6|61.247.223.127|80|South Korea|Seongnam-si|NAVER Cloud Corp|
+|7|43.161.205.36|80|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|8|47.254.213.60|1081|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
+|9|47.254.213.60|1081|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
+|10|61.247.222.149|80|South Korea|Seongnam-si|NAVER Cloud Corp|
+|11|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
 |12|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
 |13|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
-|14|180.191.143.156|8081|Philippines|Makati City|Globe Telecom|
-|15|149.2.83.158|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
-|16|89.43.133.131|8080|Syria|Ḩīsh|High Speed For Internet Services L.L.C|
-|17|82.41.42.140|8181|Singapore|Singapore|PT Perwira Media Solusi|
-|18|157.66.239.17|8080|Indonesia|Ponorogo|ADILINKINA|
-|19|58.69.248.180|8080|Philippines|Pateros|Philippine Long Distance Telephone Co.|
-|20|45.174.241.224|999|Mexico|Álvaro Obregón|Sistemas Y Soluciones De Campeche SAS De CV|
+|14|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
+|15|38.58.117.72|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
+|16|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
+|17|180.191.51.69|8082|Philippines|Tarlac City|Globe Telecom|
+|18|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
+|19|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|20|113.167.180.120|3128|Vietnam|Thai Nguyen|VietNam Post and Telecom Corporation|
 
 
 
