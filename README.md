@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|158.101.152.7|7890|Japan|Tokyo|Oracle Corporation|
-|2|160.25.35.204|8181|Indonesia|Pandeglang|PT AURORA SENTRAL INFORMATIKA|
-|3|171.253.93.127|2087|Vietnam|Hanoi|Viettel Corporation|
+|2|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
+|3|42.112.14.230|2047|Vietnam|Hanoi|Vietnam Internet Network Information Center|
 |4|20.235.56.94|8080|India|Chennai|Microsoft Corporation|
 |5|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
 |6|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
 |7|171.253.90.204|2069|Vietnam|Hanoi|Viettel Corporation|
-|8|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
-|9|160.22.45.10|8080|Indonesia|Marisa|PT Celebes Multi Network|
-|10|202.146.230.102|8080|Indonesia|Jagirsidosermo|PT Centrin Utama|
-|11|195.226.213.254|8888|Ukraine|Fontanka|Private Enterprise KTV AIDA|
-|12|103.46.8.85|8080|Indonesia|Denpasar|PT JARINGANKU SARANA NUSANTARA|
-|13|27.69.71.254|2082|Vietnam|Cẩm Thủy|Viettel Group|
-|14|104.111.32.26|10002|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
-|15|37.187.109.70|10111|France|Roubaix|OVH SAS|
-|16|43.161.205.36|80|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|17|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|8|27.69.71.254|2082|Vietnam|Cẩm Thủy|Viettel Group|
+|9|171.253.93.127|2047|Vietnam|Hanoi|Viettel Corporation|
+|10|110.76.147.22|3128|Indonesia|Kutoarjo|PT Pika Media Komunika|
+|11|157.10.97.91|7000|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
+|12|45.127.205.10|7777|Indonesia|Bogor|FORPRO|
+|13|160.22.45.10|8080|Indonesia|Marisa|PT Celebes Multi Network|
+|14|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|15|43.161.205.36|80|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|16|79.98.32.97|8080|Turkey|Adana|High Speed For Internet Services L.L.C|
+|17|104.111.32.26|10001|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
 |18|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|19|27.147.153.179|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
-|20|203.76.220.121|4840|Bangladesh|Nawāb Char|BUSINESSNETWORK|
+|19|85.72.158.31|18080|Greece|Aigáleo|OTEnet|
+|20|193.233.90.71|40000|Russia|St Petersburg|Aeza Group LLC|
 
 
 
