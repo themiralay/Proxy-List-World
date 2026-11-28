@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|413|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|413|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|413|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.191.232.182|3128|Philippines|Marilao|Globe Telecom|
-|2|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
-|3|171.253.93.127|2099|Vietnam|Hanoi|Viettel Corporation|
-|4|20.235.56.94|8080|India|Chennai|Microsoft Corporation|
-|5|49.146.231.205|8081|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|6|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
-|7|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
-|8|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|9|193.233.90.71|40000|Russia|St Petersburg|Aeza Group LLC|
-|10|1.20.101.20|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
-|11|103.224.65.82|8080|Indonesia|Jember|BLAMBANGAN|
-|12|154.201.127.230|8080|India|Noida|Real Time Data Services Private Limited|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
-|15|180.191.59.56|8081|Philippines|Tarlac City|Globe Telecom|
-|16|5.200.72.61|3128|Iran|Tehran|Bahar Samaneh Shargh|
-|17|45.80.151.33|3128|The Netherlands|Dronten|Hostgw SRL|
-|18|187.190.127.212|8081|Mexico|Banus Vallarta|TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.|
-|19|102.0.42.136|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
-|20|113.53.29.212|80|Thailand|Phuket|TOT Public Company Limited|
+|1|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
+|2|20.235.56.94|8080|India|Chennai|Microsoft Corporation|
+|3|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|4|180.191.235.172|8080|Philippines|Marilao|Globe Telecom|
+|5|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
+|6|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
+|7|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
+|8|77.42.95.221|8888|Finland|Helsinki|Hetzner Online GmbH|
+|9|203.9.195.102|9000|Philippines|Zamboanga City|Go Wiser Corporation|
+|10|179.1.126.45|999|Colombia|Quibdó|Internexa S.a. E.S.P|
+|11|38.58.117.135|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
+|12|102.0.42.136|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
+|13|171.253.90.204|2073|Vietnam|Hanoi|Viettel Corporation|
+|14|158.101.152.7|7890|Japan|Tokyo|Oracle Corporation|
+|15|43.161.205.36|80|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|16|34.79.151.191|8888|Belgium|Brussels|Google LLC|
+|17|31.223.16.134|8888|Türkiye|Çankaya|TurkNet Iletisim Hizmetleri|
+|18|27.69.71.254|2082|Vietnam|Cẩm Thủy|Viettel Group|
+|19|103.134.222.170|8888|Indonesia|Boyolali|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
+|20|120.136.23.70|8800|China|Beijing|China Unicom Beijing Province Network|
 
 
 
