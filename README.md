@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|391|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|391|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|391|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|172.236.235.129|8888|United States|Los Angeles|Akamai Technologies, Inc.|
-|3|172.236.235.129|8888|United States|Los Angeles|Akamai Technologies, Inc.|
-|4|45.195.91.59|8080|India|Noida|Real Time Data Services Private Limited|
-|5|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|6|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
+|1|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
+|2|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|3|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
+|4|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
+|5|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
+|6|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
 |7|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
-|8|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
-|9|103.79.183.109|8080|Bangladesh|Khulna|SPEEDNET|
-|10|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
-|11|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
-|12|158.247.125.5|9443|Colombia|Bogotá|Oracle Corporation|
-|13|112.203.223.38|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|14|202.152.134.202|8071|Indonesia|Yogyakarta|PT Jembatan Citra Nusantara|
-|15|179.60.219.66|999|Argentina|Rosario|WNet Internet y Hosting|
-|16|113.160.241.196|19132|Vietnam|Da Nang|VietNam Post and Telecom Corporation|
-|17|168.100.8.162|8080|The Netherlands|Amsterdam|BL Networks|
-|18|103.157.78.63|8080|Indonesia|Jakarta|PT Super Media Indonesia|
-|19|118.69.176.114|8080|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|20|157.15.62.50|8080|Indonesia|Malang|AMAN ISP Customer Malang|
+|8|165.154.7.156|8888|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|58.69.175.135|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|10|1.20.178.201|80|Thailand|Bangkok|TOT Public Company Limited|
+|11|1.20.101.31|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
+|12|181.209.78.75|999|Argentina|Coronel Juan Solá|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|13|193.192.37.121|8080|Ukraine|Luhansk|Dovecom LLC|
+|14|181.48.234.214|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|15|158.101.152.7|7890|Japan|Tokyo|Oracle Corporation|
+|16|45.127.205.10|7777|Indonesia|Bogor|FORPRO|
+|17|103.251.153.75|8282|Indonesia|Magetan|Lintas Data Prima, PT|
+|18|43.161.205.36|80|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|19|205.234.123.108|8080|Türkiye|Istanbul|High Speed For Internet Services L.L.C|
+|20|5.198.179.172|10800|Iran|Isfahan|Iran Telecommunication Company PJS|
 
 
 
