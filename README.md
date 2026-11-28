@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|431|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|431|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|431|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|158.101.152.7|7890|Japan|Tokyo|Oracle Corporation|
+|1|36.64.44.51|8080|Indonesia|Depok|PT. Telekomunikasi Indonesia|
 |2|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|3|144.124.251.24|10552|The Netherlands|Amsterdam|Servers Tech Fzco|
-|4|145.220.227.67|8080|The Netherlands|Utrecht|SURFnet III d|
-|5|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|7|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
-|8|103.31.103.71|8080|Pakistan|Karachi|Cyber Internet Services Pakistan|
-|9|182.52.113.84|80|Thailand|Bangkok|TOT Public Company Limited|
-|10|186.167.83.181|999|Venezuela|Caracas|Corporacion Digitel C.A|
-|11|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|12|102.244.78.61|8090|Cameroon|Maroua|Orange CAM INTERNET|
-|13|203.190.46.103|8080|Indonesia|Randudongkal|PT Jaring Lintas Utara|
-|14|180.191.142.241|8081|Philippines|Makati City|Globe Telecom|
-|15|103.131.18.198|8080|Indonesia|Ungaran|PT Global Media Data Prima|
-|16|178.250.88.50|8080|Türkiye|Istanbul|Ramtek Telekom|
-|17|177.139.174.81|8080|Brazil|São Paulo|Vivo|
-|18|38.211.76.177|999|Colombia|Florencia|Cogent Communications|
-|19|188.132.150.249|8080|Turkey|Istanbul|High Speed For Internet Services L.L.C|
-|20|187.245.202.17|999|Mexico|San Felipe Jalapa de Díaz|Mega Cable, S.A. de C.V.|
+|3|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|4|20.235.56.94|8080|India|Chennai|Microsoft Corporation|
+|5|145.220.227.24|8080|The Netherlands|Utrecht|SURFnet III d|
+|6|34.130.92.118|443|Canada|Toronto|Google LLC|
+|7|144.124.251.24|10552|The Netherlands|Amsterdam|Servers Tech Fzco|
+|8|120.136.23.70|8800|China|Beijing|China Unicom Beijing Province Network|
+|9|120.136.23.170|8800|China|Beijing|China Unicom Beijing Province Network|
+|10|27.147.153.179|12051|Bangladesh|Dhaka|Link3 Technologies Limited|
+|11|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|12|102.244.78.61|8082|Cameroon|Maroua|Orange CAM INTERNET|
+|13|187.102.211.244|999|Peru|Lima|INTEL COMUNICACIONES PERÚ SAC|
+|14|80.246.16.160|3128|Russia|Vladivostok|Server-Center JSC Network|
+|15|111.125.242.34|1111|India|Mumbai|Microscan Internet Limited|
+|16|206.135.80.194|999|Mexico|Querétaro City|Ientc S De RL De CV|
+|17|163.223.117.211|7777|Indonesia|Kuningan|PT Signall Network Nusantara|
+|18|161.248.171.26|8585|Indonesia|Pringsewu|PT JALUR DATA INDONESIA|
+|19|181.37.240.89|999|Dominican Republic|Santo Domingo|Altice Dominicana S.A.|
+|20|38.194.246.34|999|Mexico|El Pueblito|IENTC S de RL de CV|
 
 
 
