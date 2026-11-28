@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|612|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|612|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|612|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|576|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|576|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|576|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|61.247.223.151|80|South Korea|Seongnam-si|NAVER Cloud Corp|
-|2|61.247.222.38|80|South Korea|Seongnam-si|NAVER Cloud Corp|
+|1|61.247.222.38|80|South Korea|Seongnam-si|NAVER Cloud Corp|
+|2|61.247.223.151|80|South Korea|Seongnam-si|NAVER Cloud Corp|
 |3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|61.247.223.134|80|South Korea|Seongnam-si|NAVER Cloud Corp|
-|5|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|6|140.245.66.105|8081|South Korea|Chuncheon|Oracle Corporation|
-|7|34.43.46.91|80|United States|Mountain View|Google LLC|
-|8|157.15.212.38|8080|Indonesia|Pagerwojo|PT Griya Akses Teknologi|
-|9|34.43.46.91|80|United States|Mountain View|Google LLC|
-|10|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|4|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|5|34.43.46.91|80|United States|Mountain View|Google LLC|
+|6|34.43.46.91|80|United States|Mountain View|Google LLC|
+|7|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|8|61.247.223.134|80|South Korea|Seongnam-si|NAVER Cloud Corp|
+|9|36.89.56.169|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|10|82.41.42.130|8181|Singapore|Singapore|PT Perwira Media Solusi|
 |11|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|12|37.187.109.70|10111|France|Roubaix|OVH SAS|
-|13|101.255.151.89|8181|Indonesia|Central Jakarta|PT Remala Abadi|
-|14|61.247.222.173|80|South Korea|Seongnam-si|NAVER Cloud Corp|
-|15|38.226.251.66|999|Argentina|San Juan|SAN JUAN INNOVA S.E.|
-|16|38.58.66.173|999|Mexico|Tantoyuca|Velocom SA De CV|
-|17|200.70.35.2|8080|Argentina|Lomas de Zamora|Telefonica de Argentina|
-|18|181.209.125.236|999|Argentina|Santa Rosa|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|19|110.164.128.124|8080|Thailand|Phaya Thai|Advanced Wireless Network Company Limited|
-|20|180.232.171.210|8080|Philippines|Manila|Eastern Telecommunications Philippines, Inc.|
+|12|1.20.101.34|80|Thailand|Phibun Mangsahan|TOT Public Company Limited|
+|13|182.52.136.39|8080|Thailand|Bangkok|TOT Public Company Limited|
+|14|113.53.29.222|8080|Thailand|Phuket|TOT Public Company Limited|
+|15|34.79.151.191|8888|Belgium|Brussels|Google LLC|
+|16|165.101.43.125|8080|Indonesia|Panaragan|PT Lintas Jaringan Nusantara|
+|17|111.95.161.133|8080|Indonesia|Bekasi|Linknet-Fastnet ASN|
+|18|193.233.90.71|40000|Russia|St Petersburg|Aeza Group LLC|
+|19|179.43.96.178|8080|Peru|Arequipa|Misticom Fibra Optica S.A.C.|
+|20|140.245.66.105|8081|South Korea|Chuncheon|Oracle Corporation|
 
 
 
