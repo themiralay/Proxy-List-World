@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|418|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|418|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|418|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|433|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|433|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|433|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|61.247.223.127|80|South Korea|Seongnam-si|NAVER Cloud Corp|
-|2|43.161.205.36|80|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|61.247.222.186|80|South Korea|Seongnam-si|NAVER Cloud Corp|
-|4|61.247.223.134|80|South Korea|Seongnam-si|NAVER Cloud Corp|
-|5|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|6|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|2|61.247.223.134|80|South Korea|Seongnam-si|NAVER Cloud Corp|
+|3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|4|61.247.222.186|80|South Korea|Seongnam-si|NAVER Cloud Corp|
+|5|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|6|34.43.46.91|80|United States|Mountain View|Google LLC|
 |7|61.247.223.58|80|South Korea|Seongnam-si|NAVER Cloud Corp|
 |8|20.235.56.94|8080|India|Chennai|Microsoft Corporation|
-|9|103.217.224.29|8089|Indonesia|Ungaran|PT Nesta Indo Media|
-|10|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|11|167.99.8.113|8002|United States|North Bergen|DigitalOcean, LLC|
-|12|61.247.222.38|80|South Korea|Seongnam-si|NAVER Cloud Corp|
-|13|34.43.46.91|80|United States|Mountain View|Google LLC|
-|14|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|15|120.136.23.176|9480|China|Beijing|China Unicom Beijing Province Network|
-|16|167.99.3.26|5666|United States|North Bergen|DigitalOcean, LLC|
-|17|167.99.3.26|5666|United States|North Bergen|DigitalOcean, LLC|
-|18|160.25.35.206|8181|Indonesia|Pandeglang|PT AURORA SENTRAL INFORMATIKA|
+|9|43.161.205.36|80|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|10|167.99.8.113|8020|United States|North Bergen|DigitalOcean, LLC|
+|11|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|12|34.43.46.91|80|United States|Mountain View|Google LLC|
+|13|61.247.222.38|80|South Korea|Seongnam-si|NAVER Cloud Corp|
+|14|50.238.106.26|3128|United States|Atlanta|Comcast Cable Communications, LLC|
+|15|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|16|171.253.93.127|2087|Vietnam|Hanoi|Viettel Corporation|
+|17|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
+|18|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
 |19|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
-|20|50.238.106.26|3128|United States|Atlanta|Comcast Cable Communications, LLC|
+|20|202.152.37.86|8080|Indonesia|West Jakarta|PT Aplikanusa Lintasarta|
 
 
 
