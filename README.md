@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|433|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|433|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|433|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|400|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|400|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|400|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
 |2|43.161.205.36|80|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
 |3|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|4|58.187.97.254|2069|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|5|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
+|4|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
+|5|20.235.56.94|8080|India|Chennai|Microsoft Corporation|
 |6|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|7|47.254.213.60|1081|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
-|8|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|9|151.242.116.35|8080|Singapore|Singapore|PT Perwira Media Solusi|
-|10|103.76.12.158|8080|Indonesia|Jambi City|PT Mora Telematika Indonesia|
-|11|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
-|12|210.8.69.103|808|Australia|Sydney|AAPT Limited|
-|13|181.204.39.202|26312|Colombia|Floridablanca|EPM Telecomunicaciones S.A. E.S.P.|
-|14|115.85.88.18|8080|Indonesia|Jakarta|Sudirman Central Business District|
-|15|154.18.255.118|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|16|181.188.203.40|999|Ecuador|Montalvo|Ufinet Panama S.A.|
-|17|27.69.71.254|2082|Vietnam|Cẩm Thủy|Viettel Group|
-|18|116.204.166.151|8080|Turkey|Hıdırbey|High Speed For Internet Services L.L.C|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|193.233.90.71|40000|Russia|St Petersburg|Aeza Group LLC|
+|7|173.212.207.102|1214|France|Lauterbourg|Contabo GmbH|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|10|123.24.119.227|3128|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|157.15.0.152|7778|Indonesia|Ngawi|Gopalnet|
+|12|202.146.230.102|8080|Indonesia|Jagirsidosermo|PT Centrin Utama|
+|13|47.254.213.60|1081|Malaysia|Kuala Lumpur|Alibaba Cloud LLC|
+|14|103.190.62.137|3125|Indonesia|Utan|PT Retbizz Exabit Indonesia|
+|15|177.234.217.46|999|Ecuador|Quito|Ufinet Panama S.A.|
+|16|208.67.28.19|58090|United States|Lac du Flambeau|SonicNet Inc.|
+|17|103.98.117.126|8080|Indonesia|Pinrang|TESOLCITYNET|
+|18|182.176.164.41|8080|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|19|210.8.69.103|808|Australia|Sydney|AAPT Limited|
+|20|34.43.46.91|80|United States|Mountain View|Google LLC|
 
 
 
