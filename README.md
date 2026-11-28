@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
-|2|58.187.97.254|2026|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|3|158.101.152.7|7890|Japan|Tokyo|Oracle Corporation|
-|4|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
-|5|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
-|6|88.156.178.59|1122|Poland|Warsaw|Vectra S.A|
-|7|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
-|8|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
-|9|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
-|10|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
-|11|120.28.117.92|8081|Philippines|San Juan|Globe Telecom|
-|12|34.43.46.91|443|United States|Mountain View|Google LLC|
-|13|102.244.78.61|8081|Cameroon|Maroua|Orange CAM INTERNET|
-|14|43.161.205.36|80|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|15|180.180.156.111|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|16|103.55.22.52|8090|Indonesia|Kisaran|PT General Media Network|
-|17|38.194.246.34|999|Mexico|El Pueblito|IENTC S de RL de CV|
-|18|113.11.179.69|8080|Indonesia|East Jakarta|Biznet Networks|
-|19|20.235.56.94|8080|India|Chennai|Microsoft Corporation|
-|20|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|4.144.146.21|80|Singapore|Singapore|Microsoft Corporation|
+|3|20.98.234.24|8080|United States|Boydton|Microsoft Corporation|
+|4|168.235.80.215|3128|United States|Piscataway|InMotion Hosting|
+|5|129.153.97.250|9443|United States|Phoenix|Oracle Corporation|
+|6|103.237.102.191|11111|Germany|Frankfurt am Main|Zenlayer Inc|
+|7|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
+|8|193.233.90.71|40000|Russia|St Petersburg|Aeza Group LLC|
+|9|102.244.78.61|8089|Cameroon|Maroua|Orange CAM INTERNET|
+|10|1.10.248.238|80|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|11|2.179.95.57|8080|Iran|Tehran|Iran Telecommunication Company PJS|
+|12|38.194.246.34|999|Mexico|El Pueblito|IENTC S de RL de CV|
+|13|103.98.118.14|8080|Indonesia|Mamuju|TESOLCITYNET|
+|14|34.43.46.91|443|United States|Mountain View|Google LLC|
+|15|210.8.69.103|808|Australia|Sydney|AAPT Limited|
+|16|124.105.39.244|8081|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|17|103.82.20.76|8080|Vietnam|Dich Vong|INETACADEMY|
+|18|20.235.56.94|8080|India|Chennai|Microsoft Corporation|
+|19|171.253.90.204|2069|Vietnam|Hanoi|Viettel Corporation|
+|20|103.97.141.85|8080|Indonesia|Cianjur|PT Jembatan Data Pangrango|
 
 
 
